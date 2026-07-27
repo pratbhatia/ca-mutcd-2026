@@ -1,0 +1,17 @@
+{
+  "part_num": 4,
+  "chapter_letter": "t",
+  "chapter_code": "4T",
+  "file": "t-lane-use-control-signals.html",
+  "title": "Lane-Use Control Signals",
+  "short_title": "Lane-Use Control Signals",
+  "description": "Overhead signals — downward green arrow, yellow X, red X, and two-way/one-way left-turn arrows — used mainly for reversible-lane control and lane open/closed indication.",
+  "sections": [
+    {"id": "sec-t-01", "code": "4T.01", "title": "Application of Lane-Use Control Signals"},
+    {"id": "sec-t-02", "code": "4T.02", "title": "Meaning of Lane-Use Control Signal Indications"},
+    {"id": "sec-t-03", "code": "4T.03", "title": "Design of Lane-Use Control Signals"},
+    {"id": "sec-t-04", "code": "4T.04", "title": "Operation of Lane-Use Control Signals"}
+  ],
+  "figure_count": 1,
+  "source_pages": 4
+}

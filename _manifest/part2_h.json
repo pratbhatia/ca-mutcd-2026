@@ -1,0 +1,29 @@
+{
+  "part_num": 2,
+  "chapter_letter": "h",
+  "chapter_code": "2H",
+  "file": "h-general-information-signs.html",
+  "title": "General Information Signs",
+  "short_title": "General Information Signs",
+  "description": "Navigational and orientation signs — jurisdictional boundaries, geographic features, State Welcome signs, reference location markers, acknowledgment (sponsorship) signs, and alternative fuels corridor signing.",
+  "sections": [
+    {"id": "sec-h-01", "code": "2H.01", "title": "Scope"},
+    {"id": "sec-h-02", "code": "2H.02", "title": "Sizes of General Information Signs"},
+    {"id": "sec-h-03", "code": "2H.03", "title": "Airport Signs"},
+    {"id": "sec-h-04", "code": "2H.04", "title": "Traffic Signal Speed Sign (I1-1)"},
+    {"id": "sec-h-05", "code": "2H.05", "title": "Jurisdictional Boundary Signs (I2-1)"},
+    {"id": "sec-h-06", "code": "2H.06", "title": "Geographical Feature Signs (I2-2)"},
+    {"id": "sec-h-07", "code": "2H.07", "title": "State Welcome Signs"},
+    {"id": "sec-h-08", "code": "2H.08", "title": "Future Interstate Corridor Signs (I2-4 and I2-4a)"},
+    {"id": "sec-h-09", "code": "2H.09", "title": "Project Information Sign (I2-5)"},
+    {"id": "sec-h-10", "code": "2H.10", "title": "Grade-Separated Roadway Identification Signs (I2-3 and I2-3a)"},
+    {"id": "sec-h-11", "code": "2H.11", "title": "Reference Location Signs and Intermediate Reference Location Signs"},
+    {"id": "sec-h-12", "code": "2H.12", "title": "Enhanced Reference Location Signs (D10-4) and Intermediate Enhanced Reference Location Signs (D10-5)"},
+    {"id": "sec-h-13", "code": "2H.13", "title": "Acknowledgment Signs and Plaques (I20 Series)"},
+    {"id": "sec-h-14", "code": "2H.14", "title": "Alternative Fuels Corridor Sign (D9-19)"},
+    {"id": "sec-h-101", "code": "2H.101(CA)", "title": "Coastal Access (SG28A(CA)) Sign"},
+    {"id": "sec-h-102", "code": "2H.102(CA)", "title": "The POST OFFICE (SG60A(CA)) Sign"}
+  ],
+  "figure_count": 12,
+  "source_pages": 26
+}

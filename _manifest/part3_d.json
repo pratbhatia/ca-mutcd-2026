@@ -1,0 +1,20 @@
+{
+  "part_num": 3,
+  "chapter_letter": "d",
+  "chapter_code": "3D",
+  "file": "d-circular-intersection-markings.html",
+  "title": "Circular Intersection Markings",
+  "short_title": "Circular Intersection Markings",
+  "description": "Pavement marking design for roundabouts, traffic circles, and rotaries, covering lane lines, edge lines, yield lines, word/symbol markings, and lane-use arrows.",
+  "sections": [
+    {"id": "sec-d-01", "code": "3D.01", "title": "General"},
+    {"id": "sec-d-02", "code": "3D.02", "title": "White Lane Line Pavement Markings for Roundabouts"},
+    {"id": "sec-d-03", "code": "3D.03", "title": "Edge Line Pavement Markings for Roundabout Circulatory Roadways"},
+    {"id": "sec-d-04", "code": "3D.04", "title": "Yield Lines for Roundabouts"},
+    {"id": "sec-d-05", "code": "3D.05", "title": "Word and Symbol Pavement Markings for Roundabouts"},
+    {"id": "sec-d-06", "code": "3D.06", "title": "Arrow Pavement Markings for Roundabouts"},
+    {"id": "sec-d-07", "code": "3D.07", "title": "Markings for Other Circular Intersections"}
+  ],
+  "figure_count": 9,
+  "source_pages": 11
+}

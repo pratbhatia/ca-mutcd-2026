@@ -1,0 +1,20 @@
+{
+  "part_num": 7,
+  "chapter_letter": "b",
+  "chapter_code": "7B",
+  "file": "b-signs.html",
+  "title": "Signs",
+  "short_title": "Signs",
+  "description": "Sign and plaque sizing, the School (S1-1) sign family and California School Assemblies A(CA)-E(CA), school crossing/bus-stop/speed-limit signs, higher-fines-zone signage, and parking/stopping controls in school areas.",
+  "sections": [
+    {"id": "sec-b-01", "code": "7B.01", "title": "Design of School Signs"},
+    {"id": "sec-b-02", "code": "7B.02", "title": "School Area Signs and Plaques"},
+    {"id": "sec-b-03", "code": "7B.03", "title": "School Crossing Signs"},
+    {"id": "sec-b-04", "code": "7B.04", "title": "School Bus Stop Signs"},
+    {"id": "sec-b-05", "code": "7B.05", "title": "School Speed Limit Signs and Plaques"},
+    {"id": "sec-b-06", "code": "7B.06", "title": "Higher Fines Zone Signs and Plaques in School Areas"},
+    {"id": "sec-b-07", "code": "7B.07", "title": "Parking and Stopping (R7 and R8 Series) Signs"}
+  ],
+  "figure_count": 13,
+  "source_pages": 23
+}

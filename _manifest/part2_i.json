@@ -1,0 +1,30 @@
+{
+  "part_num": 2,
+  "chapter_letter": "i",
+  "chapter_code": "2I",
+  "file": "i-general-service-signs.html",
+  "title": "General Service Signs",
+  "short_title": "General Service Signs",
+  "description": "Blue-background motorist-service signing for gas, food, lodging, camping, EV charging, rest areas, tourist information/welcome centers, radio/511/carpool information, and truck parking availability.",
+  "sections": [
+    {"id": "sec-i-01", "code": "2I.01", "title": "Sizes of General Service Signs"},
+    {"id": "sec-i-02", "code": "2I.02", "title": "General Service Signs for Conventional Roads"},
+    {"id": "sec-i-03", "code": "2I.03", "title": "General Service Signs for Freeways and Expressways"},
+    {"id": "sec-i-04", "code": "2I.04", "title": "Interstate Oasis Signing (D5-12 Series)"},
+    {"id": "sec-i-05", "code": "2I.05", "title": "Rest Area and Other Roadside Area Signs (D5-1 through D5-11 Series)"},
+    {"id": "sec-i-06", "code": "2I.06", "title": "Brake Check Area Signs (D5-13 and D5-14)"},
+    {"id": "sec-i-07", "code": "2I.07", "title": "Chain-Up Area Signs (D5-15 and D5-16)"},
+    {"id": "sec-i-08", "code": "2I.08", "title": "Tourist Information and Welcome Center Signs (D5-7 Series and D5-8)"},
+    {"id": "sec-i-09", "code": "2I.09", "title": "Radio Information Signing (D12-1 Series)"},
+    {"id": "sec-i-10", "code": "2I.10", "title": "Channel 9 Monitored Sign (D12-3)"},
+    {"id": "sec-i-11", "code": "2I.11", "title": "EMERGENCY CALL 911 Sign (D12-4)"},
+    {"id": "sec-i-12", "code": "2I.12", "title": "TRAVEL INFO CALL 511 Signs (D12-5 and D12-5a)"},
+    {"id": "sec-i-13", "code": "2I.13", "title": "Roadside Assistance Sign (D12-6)"},
+    {"id": "sec-i-14", "code": "2I.14", "title": "Carpool and Ridesharing Signing (D12-2)"},
+    {"id": "sec-i-15", "code": "2I.15", "title": "Signing for Truck Parking Availability (D9-16b through D9-16e)"},
+    {"id": "sec-i-101", "code": "2I.101(CA)", "title": "REPORT DRUNK DRIVERS CALL 911 (G81-66(CA)) Sign"},
+    {"id": "sec-i-102", "code": "2I.102(CA)", "title": "PEDESTRIANS PROHIBITED CALL 911 (G81-67(CA)) Sign"}
+  ],
+  "figure_count": 13,
+  "source_pages": 35
+}

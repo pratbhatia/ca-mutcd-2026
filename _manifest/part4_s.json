@@ -1,0 +1,21 @@
+{
+  "part_num": 4,
+  "chapter_letter": "s",
+  "chapter_code": "4S",
+  "file": "s-flashing-beacons.html",
+  "title": "Flashing Beacons",
+  "short_title": "Flashing Beacons",
+  "description": "General design and flash-rate rules for flashing beacons, plus the five specific beacon types — Intersection Control, Warning, Speed Limit Sign, Stop, and California's school-crossing, fire-station, and freeway-bus-stop beacons.",
+  "sections": [
+    {"id": "sec-s-01", "code": "4S.01", "title": "General Design and Operation of Flashing Beacons"},
+    {"id": "sec-s-02", "code": "4S.02", "title": "Intersection Control Beacon"},
+    {"id": "sec-s-03", "code": "4S.03", "title": "Warning Beacon"},
+    {"id": "sec-s-04", "code": "4S.04", "title": "Speed Limit Sign Beacon"},
+    {"id": "sec-s-05", "code": "4S.05", "title": "Stop Beacon"},
+    {"id": "sec-s-101", "code": "4S.101(CA)", "title": "Flashing Beacons at School Crosswalks"},
+    {"id": "sec-s-102", "code": "4S.102(CA)", "title": "Flashing Beacons for Fire Stations"},
+    {"id": "sec-s-103", "code": "4S.103(CA)", "title": "Flashing Beacons at Bus Stops on Freeway Interchanges"}
+  ],
+  "figure_count": 1,
+  "source_pages": 5
+}

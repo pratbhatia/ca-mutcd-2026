@@ -1,0 +1,21 @@
+{
+  "part_num": 6,
+  "chapter_letter": "l",
+  "chapter_code": "6L",
+  "file": "l-other-ttc-zone-traffic-control-devices.html",
+  "title": "Other TTC Zone Traffic Control Devices",
+  "short_title": "Other TTC Devices",
+  "description": "Temporary traffic control signals, Automated Flagger Assistance Devices, portable changeable message signs, arrow boards, warning lights, and high-level warning devices used in TTC zones.",
+  "sections": [
+    {"id": "sec-l-01", "code": "6L.01", "title": "Temporary Traffic Control Signals"},
+    {"id": "sec-l-02", "code": "6L.02", "title": "Automated Flagger Assistance Devices — General"},
+    {"id": "sec-l-03", "code": "6L.03", "title": "STOP/SLOW Automated Flagger Assistance Devices"},
+    {"id": "sec-l-04", "code": "6L.04", "title": "Red/Yellow Lens Automated Flagger Assistance Devices"},
+    {"id": "sec-l-05", "code": "6L.05", "title": "Portable Changeable Message Signs"},
+    {"id": "sec-l-06", "code": "6L.06", "title": "Arrow Boards"},
+    {"id": "sec-l-07", "code": "6L.07", "title": "Flashing Beacons and Warning Lights"},
+    {"id": "sec-l-08", "code": "6L.08", "title": "High-Level Warning Devices (Flag Trees)"}
+  ],
+  "figure_count": 4,
+  "source_pages": 15
+}

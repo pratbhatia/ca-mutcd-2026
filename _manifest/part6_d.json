@@ -1,0 +1,19 @@
+{
+  "part_num": 6,
+  "chapter_letter": "d",
+  "chapter_code": "6D",
+  "file": "d-flagger-control.html",
+  "title": "Flagger Control",
+  "short_title": "Flagger Control",
+  "description": "Flagger qualifications and training, STOP/SLOW paddle and flag specifications, flashlight signaling at night, standard flagging procedures, and flagger station placement.",
+  "sections": [
+    {"id": "sec-6d-01", "code": "6D.01", "title": "Qualifications for Flaggers"},
+    {"id": "sec-6d-02", "code": "6D.02", "title": "STOP/SLOW Paddle for Hand-Signaling"},
+    {"id": "sec-6d-03", "code": "6D.03", "title": "Flag for Hand-Signaling"},
+    {"id": "sec-6d-04", "code": "6D.04", "title": "Flashlight for Hand-Signaling"},
+    {"id": "sec-6d-05", "code": "6D.05", "title": "Flagger Procedures"},
+    {"id": "sec-6d-06", "code": "6D.06", "title": "Flagger Stations"}
+  ],
+  "figure_count": 1,
+  "source_pages": 5
+}

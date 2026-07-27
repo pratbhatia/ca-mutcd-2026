@@ -1,0 +1,16 @@
+{
+  "part_num": 4,
+  "chapter_letter": "l",
+  "chapter_code": "4L",
+  "file": "l-rectangular-rapid-flashing-beacons.html",
+  "title": "Rectangular Rapid Flashing Beacons",
+  "short_title": "Rectangular Rapid Flashing Beacons",
+  "description": "Application, design, and rapid-flash operating sequence for RRFBs used to supplement pedestrian, school, and trail crossing warning signs at uncontrolled marked crosswalks.",
+  "sections": [
+    {"id": "sec-l-01", "code": "4L.01", "title": "Application of Rectangular Rapid Flashing Beacons"},
+    {"id": "sec-l-02", "code": "4L.02", "title": "Design of Rectangular Rapid Flashing Beacons"},
+    {"id": "sec-l-03", "code": "4L.03", "title": "Operation of Rectangular Rapid Flashing Beacons"}
+  ],
+  "figure_count": 2,
+  "source_pages": 5
+}

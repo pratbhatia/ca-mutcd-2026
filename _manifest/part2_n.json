@@ -1,0 +1,22 @@
+{
+  "part_num": 2,
+  "chapter_letter": "n",
+  "chapter_code": "2N",
+  "file": "n-emergency-management-signs.html",
+  "title": "Emergency Management Signs",
+  "short_title": "Emergency Management Signs",
+  "description": "Signs used to guide and control highway traffic during declared emergencies — evacuation routes, area closures, traffic control points, speed control, and emergency aid center/shelter directional signing.",
+  "sections": [
+    {"id": "sec-n-01", "code": "2N.01", "title": "Emergency Management"},
+    {"id": "sec-n-02", "code": "2N.02", "title": "Design and Use of Emergency Management Signs"},
+    {"id": "sec-n-03", "code": "2N.03", "title": "Evacuation Route Signs (EM1 Series)"},
+    {"id": "sec-n-04", "code": "2N.04", "title": "AREA CLOSED Sign (EM2-1)"},
+    {"id": "sec-n-05", "code": "2N.05", "title": "TRAFFIC CONTROL POINT Sign (EM2-2)"},
+    {"id": "sec-n-06", "code": "2N.06", "title": "MAINTAIN TOP SAFE SPEED Sign (EM2-3)"},
+    {"id": "sec-n-07", "code": "2N.07", "title": "Permit Required Sign (EM2-4)"},
+    {"id": "sec-n-08", "code": "2N.08", "title": "Emergency Aid Center Signs (EM3-1 Series)"},
+    {"id": "sec-n-09", "code": "2N.09", "title": "Shelter Directional Signs (EM4-1 Series)"}
+  ],
+  "figure_count": 1,
+  "source_pages": 6
+}

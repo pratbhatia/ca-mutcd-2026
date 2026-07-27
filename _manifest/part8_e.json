@@ -1,0 +1,23 @@
+{
+  "part_num": 8,
+  "chapter_letter": "e",
+  "chapter_code": "8E",
+  "file": "e-pathway-and-sidewalk-grade-crossings.html",
+  "title": "Pathway and Sidewalk Grade Crossings",
+  "short_title": "Pathway & Sidewalk Crossings",
+  "description": "Traffic control for pedestrians, bicyclists, and other non-motorized users crossing rail or LRT tracks on pathways and sidewalks: signs/markings, stop lines and detectable warnings, Crossbuck Assemblies, channelizing devices, and active flashing-light signals and automatic pedestrian gates.",
+  "sections": [
+    {"id": "sec-8e-01", "code": "8E.01", "title": "Purpose"},
+    {"id": "sec-8e-02", "code": "8E.02", "title": "Use of Standard Devices, Systems, and Practices"},
+    {"id": "sec-8e-03", "code": "8E.03", "title": "Pathway and Sidewalk Grade Crossing Signs and Markings"},
+    {"id": "sec-8e-04", "code": "8E.04", "title": "Stop Lines, Edge Lines, and Detectable Warnings"},
+    {"id": "sec-8e-05", "code": "8E.05", "title": "Passive Traffic Control Devices — Crossbuck Assemblies"},
+    {"id": "sec-8e-06", "code": "8E.06", "title": "Channelizing Devices used with Sidewalk and Pathway Traffic Control Devices"},
+    {"id": "sec-8e-07", "code": "8E.07", "title": "Active Traffic Control Systems"},
+    {"id": "sec-8e-08", "code": "8E.08", "title": "Active Traffic Control Devices — Signals"},
+    {"id": "sec-8e-09", "code": "8E.09", "title": "Active Traffic Control Devices — Automatic Pedestrian Gates"},
+    {"id": "sec-8e-10", "code": "8E.10", "title": "Active Traffic Control Devices — Multiple-Track Pathway or Sidewalk Grade Crossings"}
+  ],
+  "figure_count": 12,
+  "source_pages": 19
+}

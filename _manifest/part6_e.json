@@ -1,0 +1,19 @@
+{
+  "part_num": 6,
+  "chapter_letter": "e",
+  "chapter_code": "6E",
+  "file": "e-one-lane-two-way-traffic-control.html",
+  "title": "One-Lane, Two-Way Traffic Control",
+  "short_title": "One-Lane Two-Way Control",
+  "description": "Methods for coordinating opposing traffic through a single-lane constriction: flagger control, flag transfer (prohibited in California), pilot car, signals, and STOP/YIELD control.",
+  "sections": [
+    {"id": "sec-6e-01", "code": "6E.01", "title": "One-Lane, Two-Way Traffic Control — General"},
+    {"id": "sec-6e-02", "code": "6E.02", "title": "Flagger Method"},
+    {"id": "sec-6e-03", "code": "6E.03", "title": "Flag Transfer Method"},
+    {"id": "sec-6e-04", "code": "6E.04", "title": "Pilot Car Method"},
+    {"id": "sec-6e-05", "code": "6E.05", "title": "Temporary Traffic Control Signal Method"},
+    {"id": "sec-6e-06", "code": "6E.06", "title": "Stop or Yield Control Method"}
+  ],
+  "figure_count": 0,
+  "source_pages": 2
+}

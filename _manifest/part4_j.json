@@ -1,0 +1,16 @@
+{
+  "part_num": 4,
+  "chapter_letter": "j",
+  "chapter_code": "4J",
+  "file": "j-pedestrian-hybrid-beacons.html",
+  "title": "Pedestrian Hybrid Beacons",
+  "short_title": "Pedestrian Hybrid Beacons",
+  "description": "Warrants, design, and dark/flash/steady operating sequence for the special hybrid beacon used to stop traffic for pedestrians at unsignalized marked crosswalks.",
+  "sections": [
+    {"id": "sec-j-01", "code": "4J.01", "title": "Application of Pedestrian Hybrid Beacons"},
+    {"id": "sec-j-02", "code": "4J.02", "title": "Design of Pedestrian Hybrid Beacons"},
+    {"id": "sec-j-03", "code": "4J.03", "title": "Operation of Pedestrian Hybrid Beacons"}
+  ],
+  "figure_count": 3,
+  "source_pages": 6
+}

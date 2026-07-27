@@ -1,0 +1,749 @@
+[
+  {
+    "src": "1a-1.pdf",
+    "part": 1,
+    "code": "1A",
+    "letter": "a",
+    "file": "a-general.html",
+    "pages": 12,
+    "title": "GENERAL"
+  },
+  {
+    "src": "1b-2.pdf",
+    "part": 1,
+    "code": "1B",
+    "letter": "b",
+    "file": "b-legal-requirements-for-traffic-control-devices.html",
+    "pages": 18,
+    "title": "LEGAL REQUIREMENTS FOR TRAFFIC CONTROL DEVICES"
+  },
+  {
+    "src": "1c-1.pdf",
+    "part": 1,
+    "code": "1C",
+    "letter": "c",
+    "file": "c-definitions-acronyms-and-abbreviations-used-in.html",
+    "pages": 25,
+    "title": "DEFINITIONS, ACRONYMS, AND ABBREVIATIONS USED IN THIS MANUAL"
+  },
+  {
+    "src": "1d-1.pdf",
+    "part": 1,
+    "code": "1D",
+    "letter": "d",
+    "file": "d-provisions-applicable-to-traffic-control-devices.html",
+    "pages": 10,
+    "title": "PROVISIONS APPLICABLE TO TRAFFIC CONTROL DEVICES IN GENERAL"
+  },
+  {
+    "src": "2a.pdf",
+    "part": 2,
+    "code": "2A",
+    "letter": "a",
+    "file": "a-general.html",
+    "pages": 32,
+    "title": "GENERAL"
+  },
+  {
+    "src": "2b.pdf",
+    "part": 2,
+    "code": "2B",
+    "letter": "b",
+    "file": "b-regulatory-signs-barricades-and-gates.html",
+    "pages": 153,
+    "title": "REGULATORY SIGNS, BARRICADES, AND GATES"
+  },
+  {
+    "src": "2c.pdf",
+    "part": 2,
+    "code": "2C",
+    "letter": "c",
+    "file": "c-warning-signs-and-object-markers.html",
+    "pages": 81,
+    "title": "WARNING SIGNS AND OBJECT MARKERS"
+  },
+  {
+    "src": "2d.pdf",
+    "part": 2,
+    "code": "2D",
+    "letter": "d",
+    "file": "d-guide-signs.html",
+    "pages": 105,
+    "title": "GUIDE SIGNS"
+  },
+  {
+    "src": "2e-1.pdf",
+    "part": 2,
+    "code": "2E",
+    "letter": "e",
+    "file": "e-guide-signs.html",
+    "pages": 115,
+    "title": "GUIDE SIGNS"
+  },
+  {
+    "src": "2f.pdf",
+    "part": 2,
+    "code": "2F",
+    "letter": "f",
+    "file": "f-toll-road-signs.html",
+    "pages": 36,
+    "title": "TOLL ROAD SIGNS"
+  },
+  {
+    "src": "2g.pdf",
+    "part": 2,
+    "code": "2G",
+    "letter": "g",
+    "file": "g-preferential-and-managed-lane-signs.html",
+    "pages": 69,
+    "title": "PREFERENTIAL AND MANAGED LANE SIGNS"
+  },
+  {
+    "src": "2h.pdf",
+    "part": 2,
+    "code": "2H",
+    "letter": "h",
+    "file": "h-general-information-signs.html",
+    "pages": 26,
+    "title": "GENERAL INFORMATION SIGNS"
+  },
+  {
+    "src": "2i.pdf",
+    "part": 2,
+    "code": "2I",
+    "letter": "i",
+    "file": "i-general-service-signs.html",
+    "pages": 35,
+    "title": "GENERAL SERVICE SIGNS"
+  },
+  {
+    "src": "2j.pdf",
+    "part": 2,
+    "code": "2J",
+    "letter": "j",
+    "file": "j-specific-service-signs.html",
+    "pages": 20,
+    "title": "SPECIFIC SERVICE SIGNS"
+  },
+  {
+    "src": "2k.pdf",
+    "part": 2,
+    "code": "2K",
+    "letter": "k",
+    "file": "k-tourist-oriented-directional-signs.html",
+    "pages": 8,
+    "title": "TOURIST-ORIENTED DIRECTIONAL SIGNS"
+  },
+  {
+    "src": "2l.pdf",
+    "part": 2,
+    "code": "2L",
+    "letter": "l",
+    "file": "l-changeable-message-signs.html",
+    "pages": 13,
+    "title": "CHANGEABLE MESSAGE SIGNS"
+  },
+  {
+    "src": "2m.pdf",
+    "part": 2,
+    "code": "2M",
+    "letter": "m",
+    "file": "m-recreational-and-cultural-interest-area-signs.html",
+    "pages": 27,
+    "title": "RECREATIONAL AND CULTURAL INTEREST AREA SIGNS"
+  },
+  {
+    "src": "2n.pdf",
+    "part": 2,
+    "code": "2N",
+    "letter": "n",
+    "file": "n-emergency-management-signs.html",
+    "pages": 6,
+    "title": "EMERGENCY MANAGEMENT SIGNS"
+  },
+  {
+    "src": "3a.pdf",
+    "part": 3,
+    "code": "3A",
+    "letter": "a",
+    "file": "a-general.html",
+    "pages": 20,
+    "title": "GENERAL"
+  },
+  {
+    "src": "3b.pdf",
+    "part": 3,
+    "code": "3B",
+    "letter": "b",
+    "file": "b-pavement-and-curb-markings.html",
+    "pages": 90,
+    "title": "PAVEMENT AND CURB MARKINGS"
+  },
+  {
+    "src": "3c.pdf",
+    "part": 3,
+    "code": "3C",
+    "letter": "c",
+    "file": "c-crosswalk-markings.html",
+    "pages": 9,
+    "title": "CROSSWALK MARKINGS"
+  },
+  {
+    "src": "3d.pdf",
+    "part": 3,
+    "code": "3D",
+    "letter": "d",
+    "file": "d-circular-intersection-markings.html",
+    "pages": 11,
+    "title": "CIRCULAR INTERSECTION MARKINGS"
+  },
+  {
+    "src": "3e.pdf",
+    "part": 3,
+    "code": "3E",
+    "letter": "e",
+    "file": "e-preferential-lane-markings-for-motor-vehicles.html",
+    "pages": 15,
+    "title": "PREFERENTIAL LANE MARKINGS FOR MOTOR VEHICLES"
+  },
+  {
+    "src": "3f.pdf",
+    "part": 3,
+    "code": "3F",
+    "letter": "f",
+    "file": "f-markings-for-toll-plazas.html",
+    "pages": 2,
+    "title": "MARKINGS FOR TOLL PLAZAS"
+  },
+  {
+    "src": "3g.pdf",
+    "part": 3,
+    "code": "3G",
+    "letter": "g",
+    "file": "g-delineators.html",
+    "pages": 12,
+    "title": "DELINEATORS"
+  },
+  {
+    "src": "3h.pdf",
+    "part": 3,
+    "code": "3H",
+    "letter": "h",
+    "file": "h-colored-pavement.html",
+    "pages": 12,
+    "title": "COLORED PAVEMENT"
+  },
+  {
+    "src": "3i.pdf",
+    "part": 3,
+    "code": "3I",
+    "letter": "i",
+    "file": "i-channelizing-devices-used-for-emphasis-of.html",
+    "pages": 5,
+    "title": "CHANNELIZING DEVICES USED FOR EMPHASIS OF PAVEMENT"
+  },
+  {
+    "src": "3j-1.pdf",
+    "part": 3,
+    "code": "3J",
+    "letter": "j",
+    "file": "j-marking-and-delineation-of-islands-and.html",
+    "pages": 11,
+    "title": "MARKING AND DELINEATION OF ISLANDS AND SIDEWALK EXTENSIONS"
+  },
+  {
+    "src": "3k.pdf",
+    "part": 3,
+    "code": "3K",
+    "letter": "k",
+    "file": "k-rumble-strip-markings.html",
+    "pages": 2,
+    "title": "RUMBLE STRIP MARKINGS"
+  },
+  {
+    "src": "4a.pdf",
+    "part": 4,
+    "code": "4A",
+    "letter": "a",
+    "file": "a-general.html",
+    "pages": 7,
+    "title": "GENERAL"
+  },
+  {
+    "src": "4b.pdf",
+    "part": 4,
+    "code": "4B",
+    "letter": "b",
+    "file": "b-traffic-control-signals.html",
+    "pages": 3,
+    "title": "TRAFFIC CONTROL SIGNALS"
+  },
+  {
+    "src": "4c.pdf",
+    "part": 4,
+    "code": "4C",
+    "letter": "c",
+    "file": "c-traffic-control-signal-needs-studies.html",
+    "pages": 30,
+    "title": "TRAFFIC CONTROL SIGNAL NEEDS STUDIES"
+  },
+  {
+    "src": "4d.pdf",
+    "part": 4,
+    "code": "4D",
+    "letter": "d",
+    "file": "d-design-features-of-traffic-control-signals.html",
+    "pages": 16,
+    "title": "DESIGN FEATURES OF TRAFFIC CONTROL SIGNALS"
+  },
+  {
+    "src": "4e.pdf",
+    "part": 4,
+    "code": "4E",
+    "letter": "e",
+    "file": "e-traffic-control-signal-indications.html",
+    "pages": 7,
+    "title": "TRAFFIC CONTROL SIGNAL INDICATIONS"
+  },
+  {
+    "src": "4f.pdf",
+    "part": 4,
+    "code": "4F",
+    "letter": "f",
+    "file": "f-steady.html",
+    "pages": 41,
+    "title": "STEADY"
+  },
+  {
+    "src": "4g.pdf",
+    "part": 4,
+    "code": "4G",
+    "letter": "g",
+    "file": "g-flashing-operation-of-traffic-control-signals.html",
+    "pages": 3,
+    "title": "FLASHING OPERATION OF TRAFFIC CONTROL SIGNALS"
+  },
+  {
+    "src": "4h.pdf",
+    "part": 4,
+    "code": "4H",
+    "letter": "h",
+    "file": "h-bicycle-signals.html",
+    "pages": 11,
+    "title": "BICYCLE SIGNALS"
+  },
+  {
+    "src": "4i.pdf",
+    "part": 4,
+    "code": "4I",
+    "letter": "i",
+    "file": "i-pedestrian-control-features.html",
+    "pages": 10,
+    "title": "PEDESTRIAN CONTROL FEATURES"
+  },
+  {
+    "src": "4j.pdf",
+    "part": 4,
+    "code": "4J",
+    "letter": "j",
+    "file": "j-pedestrian-hybrid-beacons.html",
+    "pages": 6,
+    "title": "PEDESTRIAN HYBRID BEACONS"
+  },
+  {
+    "src": "4k.pdf",
+    "part": 4,
+    "code": "4K",
+    "letter": "k",
+    "file": "k-accessible-pedestrian-signals-and-detectors.html",
+    "pages": 6,
+    "title": "ACCESSIBLE PEDESTRIAN SIGNALS AND DETECTORS"
+  },
+  {
+    "src": "4l.pdf",
+    "part": 4,
+    "code": "4L",
+    "letter": "l",
+    "file": "l-rectangular-rapid-flashing-beacons.html",
+    "pages": 5,
+    "title": "RECTANGULAR RAPID FLASHING BEACONS"
+  },
+  {
+    "src": "4m.pdf",
+    "part": 4,
+    "code": "4M",
+    "letter": "m",
+    "file": "m-traffic-control-signals-for-emergency-vehicle.html",
+    "pages": 2,
+    "title": "TRAFFIC CONTROL SIGNALS FOR EMERGENCY-VEHICLE ACCESS"
+  },
+  {
+    "src": "4n.pdf",
+    "part": 4,
+    "code": "4N",
+    "letter": "n",
+    "file": "n-hybrid-beacons-for-emergency-vehicle-access.html",
+    "pages": 3,
+    "title": "HYBRID BEACONS FOR EMERGENCY-VEHICLE ACCESS"
+  },
+  {
+    "src": "4o.pdf",
+    "part": 4,
+    "code": "4O",
+    "letter": "o",
+    "file": "o-traffic-control-signals-for-one-lane.html",
+    "pages": 1,
+    "title": "TRAFFIC CONTROL SIGNALS FOR ONE-LANE, TWO-WAY FACILITIES"
+  },
+  {
+    "src": "4p.pdf",
+    "part": 4,
+    "code": "4P",
+    "letter": "p",
+    "file": "p-traffic-control-signals-for-freeway-entrance.html",
+    "pages": 2,
+    "title": "TRAFFIC CONTROL SIGNALS FOR FREEWAY ENTRANCE RAMPS"
+  },
+  {
+    "src": "4q.pdf",
+    "part": 4,
+    "code": "4Q",
+    "letter": "q",
+    "file": "q-traffic-control-for-movable-bridges.html",
+    "pages": 3,
+    "title": "TRAFFIC CONTROL FOR MOVABLE BRIDGES"
+  },
+  {
+    "src": "4r.pdf",
+    "part": 4,
+    "code": "4R",
+    "letter": "r",
+    "file": "r-highway-traffic-signals-at-toll-plazas.html",
+    "pages": 1,
+    "title": "HIGHWAY TRAFFIC SIGNALS AT TOLL PLAZAS"
+  },
+  {
+    "src": "4s.pdf",
+    "part": 4,
+    "code": "4S",
+    "letter": "s",
+    "file": "s-flashing-beacons.html",
+    "pages": 5,
+    "title": "FLASHING BEACONS"
+  },
+  {
+    "src": "4t.pdf",
+    "part": 4,
+    "code": "4T",
+    "letter": "t",
+    "file": "t-lane-use-control-signals.html",
+    "pages": 4,
+    "title": "LANE-USE CONTROL SIGNALS"
+  },
+  {
+    "src": "4u.pdf",
+    "part": 4,
+    "code": "4U",
+    "letter": "u",
+    "file": "u-in-roadway-warning-lights.html",
+    "pages": 4,
+    "title": "IN-ROADWAY WARNING LIGHTS"
+  },
+  {
+    "src": "5a.pdf",
+    "part": 5,
+    "code": "5A",
+    "letter": "a",
+    "file": "a-general.html",
+    "pages": 4,
+    "title": "GENERAL"
+  },
+  {
+    "src": "5b.pdf",
+    "part": 5,
+    "code": "5B",
+    "letter": "b",
+    "file": "b-provisions-for-traffic-control-devices.html",
+    "pages": 3,
+    "title": "PROVISIONS FOR TRAFFIC CONTROL DEVICES"
+  },
+  {
+    "src": "6a.pdf",
+    "part": 6,
+    "code": "6A",
+    "letter": "a",
+    "file": "a-general.html",
+    "pages": 5,
+    "title": "GENERAL"
+  },
+  {
+    "src": "6b.pdf",
+    "part": 6,
+    "code": "6B",
+    "letter": "b",
+    "file": "b-temporary-traffic-control-elements.html",
+    "pages": 14,
+    "title": "TEMPORARY TRAFFIC CONTROL ELEMENTS"
+  },
+  {
+    "src": "6c.pdf",
+    "part": 6,
+    "code": "6C",
+    "letter": "c",
+    "file": "c-pedestrian-and-worker-safety.html",
+    "pages": 6,
+    "title": "PEDESTRIAN AND WORKER SAFETY"
+  },
+  {
+    "src": "6d.pdf",
+    "part": 6,
+    "code": "6D",
+    "letter": "d",
+    "file": "d-flagger-control.html",
+    "pages": 5,
+    "title": "FLAGGER CONTROL"
+  },
+  {
+    "src": "6e.pdf",
+    "part": 6,
+    "code": "6E",
+    "letter": "e",
+    "file": "e-one-lane-two-way-traffic-control.html",
+    "pages": 2,
+    "title": "ONE-LANE, TWO-WAY TRAFFIC CONTROL"
+  },
+  {
+    "src": "6f.pdf",
+    "part": 6,
+    "code": "6F",
+    "letter": "f",
+    "file": "f-temporary-traffic-control-zone-signs.html",
+    "pages": 4,
+    "title": "TEMPORARY TRAFFIC CONTROL ZONE SIGNS"
+  },
+  {
+    "src": "6g.pdf",
+    "part": 6,
+    "code": "6G",
+    "letter": "g",
+    "file": "g-ttc-zone-regulatory-signs.html",
+    "pages": 10,
+    "title": "TTC ZONE REGULATORY SIGNS"
+  },
+  {
+    "src": "6h.pdf",
+    "part": 6,
+    "code": "6H",
+    "letter": "h",
+    "file": "h-ttc-zone-warning-signs.html",
+    "pages": 22,
+    "title": "TTC ZONE WARNING SIGNS"
+  },
+  {
+    "src": "6i.pdf",
+    "part": 6,
+    "code": "6I",
+    "letter": "i",
+    "file": "i-ttc-zone-guide-signs.html",
+    "pages": 7,
+    "title": "TTC ZONE GUIDE SIGNS"
+  },
+  {
+    "src": "6j.pdf",
+    "part": 6,
+    "code": "6J",
+    "letter": "j",
+    "file": "j-ttc-zone-pavement-markings.html",
+    "pages": 3,
+    "title": "TTC ZONE PAVEMENT MARKINGS"
+  },
+  {
+    "src": "6k.pdf",
+    "part": 6,
+    "code": "6K",
+    "letter": "k",
+    "file": "k-ttc-zone-channelizing-devices.html",
+    "pages": 13,
+    "title": "TTC ZONE CHANNELIZING DEVICES"
+  },
+  {
+    "src": "6l.pdf",
+    "part": 6,
+    "code": "6L",
+    "letter": "l",
+    "file": "l-other-ttc-zone-traffic-control-devices.html",
+    "pages": 15,
+    "title": "OTHER TTC ZONE TRAFFIC CONTROL DEVICES"
+  },
+  {
+    "src": "6m.pdf",
+    "part": 6,
+    "code": "6M",
+    "letter": "m",
+    "file": "m-other-ttc-zone-design-features-and.html",
+    "pages": 5,
+    "title": "OTHER TTC ZONE DESIGN FEATURES AND SAFETY DEVICES"
+  },
+  {
+    "src": "6n.pdf",
+    "part": 6,
+    "code": "6N",
+    "letter": "n",
+    "file": "n-types-of-temporary-traffic-control-zone.html",
+    "pages": 14,
+    "title": "TYPES OF TEMPORARY TRAFFIC CONTROL ZONE ACTIVITIES"
+  },
+  {
+    "src": "6o.pdf",
+    "part": 6,
+    "code": "6O",
+    "letter": "o",
+    "file": "o-control-of-traffic-through-traffic-incident.html",
+    "pages": 6,
+    "title": "CONTROL OF TRAFFIC THROUGH TRAFFIC INCIDENT MANAGEMENT AREAS"
+  },
+  {
+    "src": "6p.pdf",
+    "part": 6,
+    "code": "6P",
+    "letter": "p",
+    "file": "p-typical-applications.html",
+    "pages": 121,
+    "title": "TYPICAL APPLICATIONS"
+  },
+  {
+    "src": "7a.pdf",
+    "part": 7,
+    "code": "7A",
+    "letter": "a",
+    "file": "a-general.html",
+    "pages": 3,
+    "title": "GENERAL"
+  },
+  {
+    "src": "7b.pdf",
+    "part": 7,
+    "code": "7B",
+    "letter": "b",
+    "file": "b-signs.html",
+    "pages": 23,
+    "title": "SIGNS"
+  },
+  {
+    "src": "7c.pdf",
+    "part": 7,
+    "code": "7C",
+    "letter": "c",
+    "file": "c-markings.html",
+    "pages": 4,
+    "title": "MARKINGS"
+  },
+  {
+    "src": "7d.pdf",
+    "part": 7,
+    "code": "7D",
+    "letter": "d",
+    "file": "d-crossing-supervision.html",
+    "pages": 2,
+    "title": "CROSSING SUPERVISION"
+  },
+  {
+    "src": "8a.pdf",
+    "part": 8,
+    "code": "8A",
+    "letter": "a",
+    "file": "a-general.html",
+    "pages": 8,
+    "title": "GENERAL"
+  },
+  {
+    "src": "8b.pdf",
+    "part": 8,
+    "code": "8B",
+    "letter": "b",
+    "file": "b-signs.html",
+    "pages": 24,
+    "title": "SIGNS"
+  },
+  {
+    "src": "8c.pdf",
+    "part": 8,
+    "code": "8C",
+    "letter": "c",
+    "file": "c-markings.html",
+    "pages": 11,
+    "title": "MARKINGS"
+  },
+  {
+    "src": "8d.pdf",
+    "part": 8,
+    "code": "8D",
+    "letter": "d",
+    "file": "d-flashing-light-signals-automatic-gates.html",
+    "pages": 23,
+    "title": "FLASHING-LIGHT SIGNALS, AUTOMATIC GATES,"
+  },
+  {
+    "src": "8e.pdf",
+    "part": 8,
+    "code": "8E",
+    "letter": "e",
+    "file": "e-pathway-and-sidewalk-grade-crossings.html",
+    "pages": 19,
+    "title": "PATHWAY AND SIDEWALK GRADE CROSSINGS"
+  },
+  {
+    "src": "9a.pdf",
+    "part": 9,
+    "code": "9A",
+    "letter": "a",
+    "file": "a-general.html",
+    "pages": 8,
+    "title": "GENERAL"
+  },
+  {
+    "src": "9b.pdf",
+    "part": 9,
+    "code": "9B",
+    "letter": "b",
+    "file": "b-regulatory-signs.html",
+    "pages": 16,
+    "title": "REGULATORY SIGNS"
+  },
+  {
+    "src": "9c.pdf",
+    "part": 9,
+    "code": "9C",
+    "letter": "c",
+    "file": "c-warning-signs-and-object-markers.html",
+    "pages": 5,
+    "title": "WARNING SIGNS AND OBJECT MARKERS"
+  },
+  {
+    "src": "9d.pdf",
+    "part": 9,
+    "code": "9D",
+    "letter": "d",
+    "file": "d-guide-and-service-signs.html",
+    "pages": 22,
+    "title": "GUIDE AND SERVICE SIGNS"
+  },
+  {
+    "src": "9e.pdf",
+    "part": 9,
+    "code": "9E",
+    "letter": "e",
+    "file": "e-markings.html",
+    "pages": 60,
+    "title": "MARKINGS"
+  },
+  {
+    "src": "9f.pdf",
+    "part": 9,
+    "code": "9F",
+    "letter": "f",
+    "file": "f-signals.html",
+    "pages": 1,
+    "title": "SIGNALS"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "part_num": 6,
+  "chapter_letter": "m",
+  "chapter_code": "6M",
+  "file": "m-other-ttc-zone-design-features-and.html",
+  "title": "Other TTC Zone Design Features and Safety Devices",
+  "short_title": "Design Features & Safety",
+  "description": "Non-traffic-control-device features used in TTC zones: positive protection barriers, temporary raised islands, detectable pedestrian edging, crash cushions, rumble strips, screens, and night-work lighting.",
+  "sections": [
+    {"id": "sec-m-01", "code": "6M.01", "title": "General"},
+    {"id": "sec-m-02", "code": "6M.02", "title": "Positive Protection and Temporary Traffic Barriers"},
+    {"id": "sec-m-03", "code": "6M.03", "title": "Temporary Raised Islands"},
+    {"id": "sec-m-04", "code": "6M.04", "title": "Detectable Edging for Pedestrians"},
+    {"id": "sec-m-05", "code": "6M.05", "title": "Crash Cushions"},
+    {"id": "sec-m-06", "code": "6M.06", "title": "Rumble Strips"},
+    {"id": "sec-m-07", "code": "6M.07", "title": "Screens"},
+    {"id": "sec-m-08", "code": "6M.08", "title": "Lighting for Night Work"}
+  ],
+  "figure_count": 0,
+  "source_pages": 5
+}

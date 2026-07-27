@@ -1,0 +1,16 @@
+{
+  "part_num": 4,
+  "chapter_letter": "o",
+  "chapter_code": "4O",
+  "file": "o-traffic-control-signals-for-one-lane.html",
+  "title": "Traffic Control Signals for One-Lane, Two-Way Facilities",
+  "short_title": "One-Lane, Two-Way Signals",
+  "description": "Application, design exceptions, and flashing-red operation for the alternating signal used at narrow bridges, tunnels, and roadway sections too narrow for opposing traffic to pass.",
+  "sections": [
+    {"id": "sec-o-01", "code": "4O.01", "title": "Application of Traffic Control Signals for One-Lane, Two-Way Facilities"},
+    {"id": "sec-o-02", "code": "4O.02", "title": "Design of Traffic Control Signals for One-Lane, Two-Way Facilities"},
+    {"id": "sec-o-03", "code": "4O.03", "title": "Operation of Traffic Control Signals for One-Lane, Two-Way Facilities"}
+  ],
+  "figure_count": 0,
+  "source_pages": 1
+}

@@ -1,0 +1,18 @@
+{
+  "part_num": 3,
+  "chapter_letter": "a",
+  "chapter_code": "3A",
+  "file": "a-general.html",
+  "title": "General",
+  "short_title": "General",
+  "description": "Foundational provisions for all Part 3 markings: standardization of meaning, materials, the six standard colors, longitudinal-line width/pattern vocabulary, and minimum retroreflectivity maintenance, plus the master marking detail sheets (Figures 3A-101(CA) through 3A-114(CA)).",
+  "sections": [
+    {"id": "sec-a-01", "code": "3A.01", "title": "Standardization of Application"},
+    {"id": "sec-a-02", "code": "3A.02", "title": "Materials"},
+    {"id": "sec-a-03", "code": "3A.03", "title": "Colors"},
+    {"id": "sec-a-04", "code": "3A.04", "title": "Functions, Widths, and Patterns of Longitudinal Pavement Markings"},
+    {"id": "sec-a-05", "code": "3A.05", "title": "Maintaining Minimum Pavement Marking Retroreflectivity"}
+  ],
+  "figure_count": 16,
+  "source_pages": 20
+}

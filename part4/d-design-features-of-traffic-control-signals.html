@@ -1,0 +1,816 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ch. 4D — Design Features of Traffic Control Signals | CA MUTCD 2026 Training</title>
+<link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body data-root="../">
+<header class="site-header">
+  <div class="bar">
+    <button class="icon-btn sidebar-toggle" data-action="toggle-sidebar" aria-label="Toggle chapter navigation">☰</button>
+    <a class="brand" href="../index.html">
+      <span class="badge">CA</span>
+      <span>CA MUTCD 2026<small>Interactive Training</small></span>
+    </a>
+    <nav class="breadcrumb">
+      <a href="../index.html">Home</a><span class="sep">/</span>
+      <a href="index.html">Part 4 — Highway Traffic Signals</a><span class="sep">/</span>
+      <span class="current">Ch. 4D</span>
+    </nav>
+    <div class="header-actions">
+      <button class="search-trigger" data-action="open-search"><span>Search manual…</span><kbd>Ctrl K</kbd></button>
+      <button class="icon-btn" data-action="toggle-theme" aria-label="Toggle dark mode">◐</button>
+    </div>
+  </div>
+</header>
+
+<div class="layout">
+  <aside class="sidebar">
+    <a class="sidebar-back" href="index.html">← Part 4 overview</a>
+    <div class="part-label">Part 4</div>
+    <div class="part-title">Highway Traffic Signals</div>
+    <nav>
+      <div class="chapter-group">
+  <a class="chapter-link" href="a-general.html" data-chapter-id="4a"><span class="num">4A</span> General<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="b-traffic-control-signals.html" data-chapter-id="4b"><span class="num">4B</span> Signals — General<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="c-traffic-control-signal-needs-studies.html" data-chapter-id="4c"><span class="num">4C</span> Signal Needs Studies<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link active" href="d-design-features-of-traffic-control-signals.html" data-chapter-id="4d"><span class="num">4D</span> Signal Design Features<span class="done-dot"></span></a>
+  <a class="section-link" href="#sec-4d-01">4D.01 General</a>
+  <a class="section-link" href="#sec-4d-02">4D.02 Provisions for Pedestrians</a>
+  <a class="section-link" href="#sec-4d-03">4D.03 Provisions for Bicyclists</a>
+  <a class="section-link" href="#sec-4d-04">4D.04 Provisions for Transit Vehicles</a>
+  <a class="section-link" href="#sec-4d-05">4D.05 Number of Signal Faces on an Approach</a>
+  <a class="section-link" href="#sec-4d-06">4D.06 Visibility, Aiming, and Shielding of Signal Faces</a>
+  <a class="section-link" href="#sec-4d-07">4D.07 Lateral Positioning of Signal Faces</a>
+  <a class="section-link" href="#sec-4d-08">4D.08 Longitudinal Positioning of Signal Faces</a>
+  <a class="section-link" href="#sec-4d-09">4D.09 Mounting Height of Signal Faces</a>
+  <a class="section-link" href="#sec-4d-10">4D.10 Lateral Offset (Clearance) of Signal Faces</a>
+  <a class="section-link" href="#sec-4d-11">4D.11 Temporary and Portable Traffic Control Signals</a>
+  <a class="section-link" href="#sec-4d-101">4D.101(CA) Permissive Left-Turn Phasing</a>
+  <a class="section-link" href="#sec-4d-102">4D.102(CA) Review of Traffic Signal Operations</a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="e-traffic-control-signal-indications.html" data-chapter-id="4e"><span class="num">4E</span> Signal Indications<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="f-steady.html" data-chapter-id="4f"><span class="num">4F</span> Steady Operation<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="g-flashing-operation-of-traffic-control-signals.html" data-chapter-id="4g"><span class="num">4G</span> Flashing Operation<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="h-bicycle-signals.html" data-chapter-id="4h"><span class="num">4H</span> Bicycle Signals<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="i-pedestrian-control-features.html" data-chapter-id="4i"><span class="num">4I</span> Pedestrian Control Features<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="j-pedestrian-hybrid-beacons.html" data-chapter-id="4j"><span class="num">4J</span> Pedestrian Hybrid Beacons<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="k-accessible-pedestrian-signals-and-detectors.html" data-chapter-id="4k"><span class="num">4K</span> Accessible Pedestrian Signals<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="l-rectangular-rapid-flashing-beacons.html" data-chapter-id="4l"><span class="num">4L</span> Rectangular Rapid Flashing Beacons<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="m-traffic-control-signals-for-emergency-vehicle.html" data-chapter-id="4m"><span class="num">4M</span> Emergency-Vehicle Signals<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="n-hybrid-beacons-for-emergency-vehicle-access.html" data-chapter-id="4n"><span class="num">4N</span> Emergency-Vehicle Hybrid Beacons<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="o-traffic-control-signals-for-one-lane.html" data-chapter-id="4o"><span class="num">4O</span> One-Lane, Two-Way Signals<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="p-traffic-control-signals-for-freeway-entrance.html" data-chapter-id="4p"><span class="num">4P</span> Freeway Ramp Meters<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="q-traffic-control-for-movable-bridges.html" data-chapter-id="4q"><span class="num">4Q</span> Movable Bridges<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="r-highway-traffic-signals-at-toll-plazas.html" data-chapter-id="4r"><span class="num">4R</span> Toll Plaza Signals<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="s-flashing-beacons.html" data-chapter-id="4s"><span class="num">4S</span> Flashing Beacons<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="t-lane-use-control-signals.html" data-chapter-id="4t"><span class="num">4T</span> Lane-Use Control Signals<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="u-in-roadway-warning-lights.html" data-chapter-id="4u"><span class="num">4U</span> In-Roadway Warning Lights<span class="done-dot"></span></a>
+</div>
+    </nav>
+  </aside>
+
+  <main class="main">
+    <div class="content">
+      <p class="eyebrow">Part 4 · Highway Traffic Signals · Chapter 4D</p>
+      <h1 class="page-title">Design Features of Traffic Control Signals</h1>
+      <p class="page-subtitle">Covers the physical and operational design of traffic control signals: provisions for pedestrians, bicyclists, and transit; the number, visibility, lateral and longitudinal positioning, and mounting height of signal faces; temporary/portable signals; and California-specific left-turn phasing and signal-timing review provisions.</p>
+
+      <h2 id="sec-4d-01"><span class="code">4D.01</span>General</h2>
+      <p class="section-meta">Support · Standard · Guidance — paraphrased faithfully below, organized by paragraph type.</p>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">01</span><span class="ptext">The features of traffic control signals of interest to road users are the location, design, and meaning of the signal indications. Uniformity in the design features that affect the traffic to be controlled, as set forth in this Manual, is especially important for the safety and efficiency of operations.</span></li>
+          <li><span class="pnum">02</span><span class="ptext">Traffic control signals can be operated in pretimed, semi-actuated, or full-actuated modes. For isolated (non-interconnected) signalized locations on rural high-speed highways, full-actuated mode with advance vehicle detection on the high-speed approaches is typically used. These features are designed to reduce the frequency with which the onset of the yellow change interval is displayed when high-speed approaching vehicles are in the "dilemma zone" such that the drivers of these high-speed vehicles find it difficult to decide whether to stop or proceed.</span></li>
+        </ol>
+      </div>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">03</span><span class="ptext">The design and operation of traffic control signals shall take into consideration the needs of all modes of traffic including access and safety.</span></li>
+          <li><span class="pnum">04</span><span class="ptext">When a traffic control signal is not in operation, such as before it is placed in service, during seasonal shutdowns, or when it is not desirable to operate the traffic control signal, the signal faces shall be covered, turned, or taken down to clearly indicate that the traffic control signal is not in operation.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">05</span><span class="ptext">If a cover is placed over a traffic control signal face that is not in operation and that has a yellow retroreflective strip along the perimeter of its signal backplate (see Paragraph 21 in Section 4D.06), the entire signal face, including the backplate, should be covered. If a traffic control signal face that is not in operation and that has a yellow retroreflective strip along the perimeter of its signal backplate is turned, the turned signal face should be oriented such that the yellow backplate border will not reflect light back to road users on any of the approaches to the intersection.</span></li>
+        </ol>
+      </div>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">06</span><span class="ptext">Seasonal shutdown is a condition in which a permanent traffic control signal is turned off or otherwise made non-operational during a particular season when its operation is not justified. This might be applied in a community where tourist traffic during most of the year justifies the permanent signalization, but a seasonal shutdown of the signal during an annual period of lower tourist traffic would reduce delays; or where a major traffic generator, such as a large factory, justifies the permanent signalization, but the large factory is shut down for an annual factory vacation for a few weeks in the summer.</span></li>
+        </ol>
+      </div>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">07</span><span class="ptext">A traffic control signal shall control traffic only at the intersection or midblock location where the signal faces are placed.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">08</span><span class="ptext">Midblock crosswalks should not be signalized if they are located within 300 feet from the nearest traffic control signal, unless supported by an engineering study or engineering judgment that indicates safe and efficient operation of the closely-spaced traffic control signals can be achieved.</span></li>
+          <li><span class="pnum">09</span><span class="ptext">Midblock crosswalks should not be signalized if they are located within 100 feet from side streets or driveways that are controlled by STOP signs or YIELD signs, unless supported by an engineering study or engineering judgment that considers restricting turning movements from the side street or driveway to eliminate conflicts with pedestrian and bicyclist movements.</span></li>
+          <li><span class="pnum">10</span><span class="ptext">Engineering judgment should be used to determine the proper phasing and timing for a traffic control signal. Since traffic flows and patterns change, phasing and timing should be reevaluated regularly and updated if needed.</span></li>
+          <li><span class="pnum">11</span><span class="ptext">Traffic control signals within ½ mile of one another along a major route or in a network of intersecting major routes should be coordinated, preferably with interconnected controller units. Where traffic control signals that are within ½ mile of one another along a major route have a jurisdictional boundary or a boundary between different signal systems between them, coordination across the boundary should be considered.</span></li>
+        </ol>
+      </div>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">12</span><span class="ptext">Signal coordination need not be maintained between control sections that operate on different cycle lengths.</span></li>
+          <li><span class="pnum">13</span><span class="ptext">Sections 4F.19, 4Q.03, and 8D.09 contain information about coordination of traffic control signals with grade crossing signals and movable bridge signals.</span></li>
+        </ol>
+      </div>
+
+      <h2 id="sec-4d-02"><span class="code">4D.02</span>Provisions for Pedestrians</h2>
+      <p class="section-meta">Support · Standard · Guidance · Option — paraphrased faithfully below, organized by paragraph type.</p>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">01</span><span class="ptext">Chapter 4I contains additional information regarding pedestrian control features, Chapter 4J contains additional information regarding pedestrian hybrid beacons, and Chapter 4K contains additional information regarding accessible pedestrian signals and detectors.</span></li>
+        </ol>
+      </div>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">02</span><span class="ptext">
+            Pedestrian signal heads shall be used in conjunction with vehicular traffic control signals under any of the following conditions, unless the pedestrian crossing is prohibited:
+            <ul>
+              <li><strong>A.</strong> If the basis for traffic signal installation was justified by an engineering study and meeting either Warrant 4, Pedestrian Volume or Warrant 5, School Crossing (see Chapter 4C);</li>
+              <li><strong>B.</strong> If an exclusive pedestrian signal phase or a leading pedestrian interval (LPI) is provided with all conflicting vehicular movements being stopped;</li>
+              <li><strong>C.</strong> At an established signalized school crossing; or</li>
+              <li><strong>D.</strong> Where there are existing pedestrian accommodations and engineering judgment determines that multi-phase signal indications (such as split-phase timing) would tend to confuse or cause conflicts with pedestrians using a crosswalk guided only by vehicular signal indications.</li>
+            </ul>
+          </span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">03</span><span class="ptext">Pedestrian signal heads should be installed for each marked crosswalk at a location controlled by a traffic control signal.</span></li>
+          <li><span class="pnum">04</span><span class="ptext">Where pedestrian movements regularly occur, pedestrians should be provided with sufficient time to cross the roadway by adjusting the traffic control signal operation and timing to provide sufficient crossing time every cycle or by providing pedestrian detectors.</span></li>
+          <li><span class="pnum">05</span><span class="ptext">Where certain pedestrian movements are prohibited at a traffic control signal location, a No Pedestrian Crossing (R9-3) sign (see Section 2B.57) should be used if it is impracticable to provide a barrier or other physical feature to physically discourage the pedestrian movements.</span></li>
+        </ol>
+      </div>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">06</span><span class="ptext">Accessible pedestrian signals (see Chapter 4K) that provide information in non-visual formats (such as audible tones and/or speech messages, and vibrating surfaces) enhance safety and accessibility at signalized crossings for pedestrians with vision disabilities.</span></li>
+        </ol>
+      </div>
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">07</span><span class="ptext">Pedestrian signal heads may be used under other conditions based on engineering judgment.</span></li>
+        </ol>
+      </div>
+
+      <h2 id="sec-4d-03"><span class="code">4D.03</span>Provisions for Bicyclists</h2>
+      <p class="section-meta">Standard · Option · Support — paraphrased faithfully below, organized by paragraph type.</p>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">01</span><span class="ptext">At installations where visibility-limited signal faces are used, signal faces shall be adjusted so bicyclists for whom the indications are intended can see the signal indications. If the visibility-limited signal faces cannot be aimed to serve the bicyclist, then separate signal faces (see Chapter 4H) shall be provided for the bicyclist.</span></li>
+          <li><span class="pnum">02</span><span class="ptext">On bikeways, signal timing and actuation shall be reviewed and adjusted to consider the needs of bicyclists.</span></li>
+        </ol>
+      </div>
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">03</span><span class="ptext">Where it is desired to provide separate signal indications to control bicyclist movements at a traffic control signal, bicycle signal faces may be used (see Chapter 4H).</span></li>
+        </ol>
+      </div>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">04</span><span class="ptext">Sections 9B.02, 9B.11, 9B.20, 9B.22, 9E.02, 9E.06, 9E.07, 9E.08, 9E.11, 9E.12, and 9E.15 contain additional provisions regarding bicyclist movements and actuation at traffic control signals.</span></li>
+          <li><span class="pnum">05</span><span class="ptext">The Guide for the Development of Bicycle Facilities (2024), published by AASHTO, and the Urban Bikeway Design Guide (2025), published by NACTO, provide guidance on the recommended practices regarding additional provisions of traffic signals for bicyclists.</span></li>
+        </ol>
+      </div>
+
+      <h2 id="sec-4d-04"><span class="code">4D.04</span>Provisions for Transit Vehicles</h2>
+      <p class="section-meta">Option — Permissive</p>
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">01</span><span class="ptext">Where it is desired to provide separate signal indications to control transit vehicles at a traffic control signal, LRT signal indications may be used at intersections where special signal phases are used for transit vehicles (see Section 8D.15).</span></li>
+        </ol>
+      </div>
+
+      <h2 id="sec-4d-05"><span class="code">4D.05</span>Number of Signal Faces on an Approach</h2>
+      <p class="section-meta">Standard · Option · Support · Guidance — paraphrased faithfully below, organized by paragraph type.</p>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">01</span><span class="ptext">
+            The signal faces for each approach to an intersection or a midblock location shall be provided as follows:
+            <ul>
+              <li><strong>A.</strong> If a signalized motor vehicle through movement exists on an approach, a minimum of two primary signal faces shall be provided for the through movement. Except for single-lane approaches, if a signalized motor vehicle through movement does not exist on an approach, a minimum of two primary signal faces shall be provided for the signalized motor vehicle turning movement that is considered to be the major movement from the approach (also see Section 4F.16). Single-lane approaches shall have two signal faces per movement.</li>
+              <li><strong>B.</strong> See Sections 4F.02 through 4F.08 for left-turn (and U-turn to the left) signal faces.</li>
+              <li><strong>C.</strong> See Sections 4F.09 through 4F.15 for right-turn (and U-turn to the right) signal faces.</li>
+            </ul>
+          </span></li>
+        </ol>
+      </div>
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">02</span><span class="ptext">Where a movement (or a certain lane or lanes) at the intersection never conflicts with any other signalized vehicular or pedestrian movement, a continuously-displayed single-section GREEN ARROW signal indication may be used to inform road users that the movement is free-flow and does not need to stop.</span></li>
+        </ol>
+      </div>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">03</span><span class="ptext">In some circumstances where the through movement never conflicts with any other signalized vehicular or pedestrian movement at the intersection, such as at T-intersections with appropriate geometrics and/or pavement markings and signing, an engineering study might determine that the through movement (or certain lanes of the through movement) can be free-flow and not signalized.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">04</span><span class="ptext">If two or more left-turn lanes are provided for a separately-controlled left-turn movement, or if a left-turn movement represents the major movement from an approach, two or more primary left-turn signal faces should be provided.</span></li>
+          <li><span class="pnum">05</span><span class="ptext">If two or more right-turn lanes are provided for a separately-controlled right-turn movement, or if a right-turn movement represents the major movement from an approach, two or more primary right-turn signal faces should be provided.</span></li>
+        </ol>
+      </div>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">06</span><span class="ptext">Locating primary signal faces overhead on the far side of the intersection has been shown to provide safer operation by reducing intersection entries late in the yellow interval and by reducing red signal violations, as compared to post-mounting signal faces at the roadside or locating signal faces overhead within the intersection on a diagonally-oriented mast arm or span wire. On approaches with two or more lanes for the through movement, one signal face per through lane, centered over each through lane, has also been shown to be effective in reducing excessive red signal violations.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">07</span><span class="ptext">
+            If the posted or statutory speed limit or the 85th-percentile speed on an approach to a signalized location is 45 mph or higher, signal faces should be provided as follows for all new or reconstructed signal installations where there is a documented pattern of excessive red signal violations (see Figure 4D-1):
+            <ul>
+              <li><strong>A.</strong> The minimum number and location of primary (non-supplemental) signal faces for through traffic should be provided in accordance with Table 4D-1.</li>
+              <li><strong>B.</strong> If the number of overhead primary signal faces for through traffic is equal to the number of through lanes on an approach, one overhead signal face should be located approximately over the center of each through lane.</li>
+              <li><strong>C.</strong> Except for shared left-turn and right-turn signal faces, any primary signal face required by Sections 4F.02 through 4F.16 for a mandatory turn lane should be located overhead approximately over the center of each mandatory turn lane.</li>
+              <li><strong>D.</strong> All primary signal faces should be located on the far side of the intersection.</li>
+              <li><strong>E.</strong> In addition to the primary signal faces, one or more supplemental pole-mounted or overhead signal faces should be considered to provide added visibility for approaching traffic that is traveling behind large vehicles.</li>
+              <li><strong>F.</strong> All signal faces should have backplates.</li>
+            </ul>
+          </span></li>
+          <li><span class="pnum">08</span><span class="ptext">This layout of signal faces should also be considered for any major urban or suburban arterial street with four or more lanes and for other approaches with speeds of less than 45 mph.</span></li>
+        </ol>
+      </div>
+
+      <figure class="figure">
+        <img src="../assets/img/part4/d-design-features-of-traffic-control-signals/fig-01.png" alt="Figure 4D-1, recommended vehicular signal faces for approaches with posted, statutory, or 85th-percentile speed of 45 mph or higher, showing overhead through and left-turn faces and supplemental face location">
+        <figcaption>Figure 4D-1. Recommended Vehicular Signal Faces for Approaches with Posted, Statutory, or 85th-Percentile Speed of 45 mph or Higher (Where There Are Excessive Red Signal Violations). Shows the overhead primary through/right and left-turn faces, a possible supplemental R-Y-G face location, and the shared signal face used with protected/permissive left-turn phasing.</figcaption>
+      </figure>
+
+      <div class="table-wrap">
+        <table>
+          <caption>Table 4D-1. Recommended Minimum Number of Primary Signal Faces for Through Traffic on Approaches with Posted, Statutory, or 85th-Percentile Speed of 45 mph or Higher</caption>
+          <thead><tr><th>Number of Through Lanes on Approach</th><th>Total Number of Primary Through Signal Faces*</th><th>Minimum Number Overhead-Mounted</th></tr></thead>
+          <tbody>
+            <tr><td>1</td><td>2</td><td>1</td></tr>
+            <tr><td>2</td><td>2</td><td>1</td></tr>
+            <tr><td>3</td><td>3</td><td>2**</td></tr>
+            <tr><td>4 or more</td><td>4 or more</td><td>3**</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>* A minimum of two through signal faces is always required (see Section 4D.05); these recommended numbers may be exceeded — also see the cone-of-vision requirements in Section 4D.07. ** If practical, all of the recommended number of primary through signal faces should be located overhead.</p>
+
+      <h2 id="sec-4d-06"><span class="code">4D.06</span>Visibility, Aiming, and Shielding of Signal Faces</h2>
+      <p class="section-meta">Guidance · Option · Standard · Support — paraphrased faithfully below, organized by paragraph type.</p>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">01</span><span class="ptext">The visibility of signal indications to approaching traffic should be the highest priority for signal face placement and aiming.</span></li>
+          <li><span class="pnum">02</span><span class="ptext">Road users approaching a signalized intersection or other signalized area, such as a midblock crosswalk, should be given a clear and unmistakable indication of whether they are being directed to stop or permitted to proceed.</span></li>
+          <li><span class="pnum">03</span><span class="ptext">The geometry of each intersection to be signalized, including vertical grades, horizontal curves, and obstructions as well as the lateral and vertical angles of sight toward a signal face, as determined by typical driver-eye position, should be considered in determining the vertical, longitudinal, and lateral position of the signal face.</span></li>
+          <li><span class="pnum">04</span><span class="ptext">At signalized midblock crosswalks, at least one of the signal faces should be over the traveled way for each approach.</span></li>
+          <li><span class="pnum">05</span><span class="ptext">The two primary signal faces required as a minimum for each approach should be continuously visible to traffic approaching the traffic control signal, from a point at least the minimum sight distance provided in Table 4D-2 in advance of and measured to the stop line. This range of continuous visibility should be provided unless precluded by a physical obstruction or unless another signalized location is within this range.</span></li>
+          <li><span class="pnum">06</span><span class="ptext">If approaching traffic does not have a continuous view of at least two signal faces for at least the minimum sight distance shown in Table 4D-2, a sign (see Section 2C.35) should be installed to warn approaching traffic of the traffic control signal.</span></li>
+        </ol>
+      </div>
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">07</span><span class="ptext">If a sign is installed to warn approaching road users of the traffic control signal, the sign may be supplemented by a Warning Beacon (see Section 4S.03).</span></li>
+          <li><span class="pnum">08</span><span class="ptext">A Warning Beacon used in this manner may be interconnected with the traffic signal controller assembly in such a manner as to flash yellow during the period when road users passing this beacon at the legal speed for the roadway might encounter a red signal indication (or a queue resulting from the display of the red signal indication) upon arrival at the signalized location.</span></li>
+          <li><span class="pnum">09</span><span class="ptext">If the sight distance to the signal faces for an approach is limited by horizontal or vertical alignment, supplemental signal faces aimed at a point on the approach at which the signal indications first become visible may be used.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">10</span><span class="ptext">Supplemental signal faces should be used if engineering judgment has shown that they are needed to achieve intersection visibility both in advance and immediately before the signalized location.</span></li>
+          <li><span class="pnum">11</span><span class="ptext">If supplemental signal faces are used, they should be located to provide optimum visibility for the movement to be controlled.</span></li>
+          <li><span class="pnum">12</span><span class="ptext">In cases where irregular street design necessitates placing signal faces for different street approaches with a comparatively small angle between their respective signal indications, each signal indication should, to the extent practical, be visibility-limited by signal visors, signal louvers, or other means so that an approaching road user's view of the signal indication(s) controlling movements on other approaches is minimized.</span></li>
+        </ol>
+      </div>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">13</span><span class="ptext">Signal visors exceeding 12 inches in length shall not be used on free-swinging signal faces.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">14</span><span class="ptext">Signal visors should be used on signal faces to aid in directing the signal indication specifically to approaching traffic, as well as to reduce "sun phantom," which can result when external light enters the lens.</span></li>
+          <li><span class="pnum">15</span><span class="ptext">The use of signal visors, or the use of signal faces or devices that direct the light without a reduction in intensity, should be considered as an alternative to signal louvers because of the reduction in light output caused by signal louvers.</span></li>
+        </ol>
+      </div>
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">16</span><span class="ptext">Special signal faces, such as visibility-limited signal faces, may be used such that the road user does not see signal indications intended for other approaches before seeing the signal indications for their own approach, especially if simultaneous viewing of both signal indications could cause the road user to be misdirected.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">17</span><span class="ptext">If the posted or statutory speed limit or the 85th-percentile speed on an approach to a signalized location is 45 mph or higher, signal backplates should be used on all of the signal faces that face the approach. Signal backplates should also be considered for use on signal faces on approaches with posted or statutory speed limits or 85th-percentile speeds of less than 45 mph where sun glare, bright sky, and/or complex or confusing backgrounds indicate a need for enhanced signal face target value.</span></li>
+        </ol>
+      </div>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">18</span><span class="ptext">The use of backplates enhances the contrast between the traffic signal indications and their surroundings for both day and night conditions, which is also helpful to older drivers.</span></li>
+        </ol>
+      </div>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">19</span><span class="ptext">If backplates are used, ancillary legends of any kind that identify the purpose or operation of the signal face shall not be placed on the backplate.</span></li>
+          <li><span class="pnum">20</span><span class="ptext">The inside of signal visors (hoods), the entire surface of louvers and fins, and the front surface of backplates shall have a dull black finish to minimize light reflection and to increase contrast between the signal indication and its background.</span></li>
+        </ol>
+      </div>
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">21</span><span class="ptext">A yellow retroreflective strip with a minimum width of 1 inch and a maximum width of 3 inches may be placed along the perimeter of the face of a signal backplate to project a rectangular appearance at night.</span></li>
+        </ol>
+      </div>
+
+      <div class="table-wrap">
+        <table>
+          <caption>Table 4D-2. Minimum Sight Distance for Signal Visibility</caption>
+          <thead><tr><th>85th-Percentile Speed</th><th>Minimum Sight Distance</th></tr></thead>
+          <tbody>
+            <tr><td>20 mph</td><td>175 feet</td></tr>
+            <tr><td>25 mph</td><td>215 feet</td></tr>
+            <tr><td>30 mph</td><td>270 feet</td></tr>
+            <tr><td>35 mph</td><td>325 feet</td></tr>
+            <tr><td>40 mph</td><td>390 feet</td></tr>
+            <tr><td>45 mph</td><td>460 feet</td></tr>
+            <tr><td>50 mph</td><td>540 feet</td></tr>
+            <tr><td>55 mph</td><td>625 feet</td></tr>
+            <tr><td>60 mph</td><td>715 feet</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Distances in Table 4D-2 are derived from stopping sight distance plus an assumed queue length for shorter cycle lengths (60 to 75 seconds).</p>
+
+      <h2 id="sec-4d-07"><span class="code">4D.07</span>Lateral Positioning of Signal Faces</h2>
+      <p class="section-meta">Standard · Guidance · Option · Support — paraphrased faithfully below, organized by paragraph type.</p>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">01</span><span class="ptext">At least one and preferably both of the minimum of two primary signal faces required for the through movement (or the major turning movement if there is no through movement) on the approach shall be located between two lines intersecting with the center of the approach at a point 10 feet behind the stop line, one making an angle of approximately 20 degrees to the right of the center of the approach extended, and the other making an angle of approximately 20 degrees to the left of the center of the approach extended. The signal face that satisfies this requirement shall simultaneously satisfy the longitudinal placement requirement described in Section 4D.08 (see Figure 4D-2).</span></li>
+          <li><span class="pnum">02</span><span class="ptext">If both of the minimum of two primary signal faces required for the through movement (or the major turning movement if there is no through movement) on the approach are post-mounted, they shall both be on the far side of the intersection, one on the right and one on the left of the approach lane(s).</span></li>
+          <li><span class="pnum">03</span><span class="ptext">The required signal faces for through traffic on an approach shall be located not less than 8 feet apart measured horizontally perpendicular to the approach between the centers of the signal faces.</span></li>
+          <li><span class="pnum">04</span><span class="ptext">If more than one separate turn signal face is provided for a turning movement and if one or both of the separate turn signal faces are located over the roadway, the signal faces shall be located not less than 8 feet apart measured horizontally perpendicular to the approach between the centers of the signal faces.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">05</span><span class="ptext">If horizontally-arranged or clustered signal faces are used, the minimum 8-foot horizontal separation between the two signal faces should be measured from the center of the right-most signal indication in the signal face on the left to the center of the left-most signal indication in the signal face on the right.</span></li>
+          <li><span class="pnum">06</span><span class="ptext">Except as provided in Paragraph 7 of this Section, for signal faces located over the roadway, separate turn signal faces should be located at least 8 feet from the nearest traffic signal face for a different movement on the same approach measured horizontally perpendicular to the approach between the centers of the signal faces.</span></li>
+        </ol>
+      </div>
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">07</span><span class="ptext">For modifications to existing traffic signals, the minimum horizontal separation between a separate turn signal face and the nearest traffic signal face for a different movement may be reduced to 3 feet.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">08</span><span class="ptext">If a signal face controls a specific lane or lanes of an approach, its position should make it readily visible to road users making that movement.</span></li>
+        </ol>
+      </div>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">09</span><span class="ptext">Section 4D.05 contains additional provisions regarding lateral positioning of signal faces for approaches having a posted or statutory speed limit or an 85th-percentile speed of 45 mph or higher.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">10</span><span class="ptext">If a mandatory left-turn, right-turn, or U-turn lane is present on an approach and if a primary separate turn signal face controlling that lane is mounted over the roadway, the primary separate turn signal face should not be positioned any farther to the right than the extension of the right-hand edge of the mandatory turn lane or any farther to the left than the extension of the left-hand edge of the mandatory turn lane.</span></li>
+        </ol>
+      </div>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">11</span><span class="ptext">Supplemental turn signal faces mounted over the roadway are not subject to the positioning recommendations in Paragraph 10 of this Section.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">12</span><span class="ptext">For new or reconstructed signal installations, on an approach with a mandatory turn lane(s) for a permissive left-turn (or U-turn to the left) movement, signal faces that display a CIRCULAR GREEN signal indication should not be post-mounted on the far-side median or mounted overhead above the mandatory turn lane(s) or the extension of the lane(s).</span></li>
+        </ol>
+      </div>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">13</span><span class="ptext">
+            If supplemental post-mounted signal faces are used, the following limitations shall apply:
+            <ul>
+              <li><strong>A.</strong> Left-turn arrows and U-turn arrows to the left shall not be used in near right signal faces that are located to the right of the through and/or right-turn lanes.</li>
+              <li><strong>B.</strong> Right-turn arrows and U-turn arrows to the right shall not be used in far left signal faces that are located to the left of the through and/or left-turn lanes. A far-side median-mounted signal face shall be considered a far left signal face for this application.</li>
+            </ul>
+          </span></li>
+        </ol>
+      </div>
+
+      <h2 id="sec-4d-08"><span class="code">4D.08</span>Longitudinal Positioning of Signal Faces</h2>
+      <p class="section-meta">Standard · Guidance · Support — paraphrased faithfully below, organized by paragraph type.</p>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">01</span><span class="ptext">
+            Except where the width of an intersecting roadway or other conditions make it physically impractical, the signal faces for each approach to an intersection or a midblock location shall be provided as follows:
+            <ul>
+              <li><strong>A.</strong> A signal face installed to satisfy the requirements for primary left-turn signal faces (see Sections 4F.02 through 4F.08) and primary right-turn signal faces (see Sections 4F.09 through 4F.15), and at least one and preferably both of the minimum of two primary signal faces required for the through movement (or the major turning movement if there is no through movement) on the approach shall be located: (1) no less than 40 feet beyond the stop line, and (2) no more than 180 feet beyond the stop line unless a supplemental near-side signal face is provided.</li>
+              <li><strong>B.</strong> The primary signal faces that are used to satisfy the requirements of Item A shall simultaneously satisfy the lateral placement requirement described in Section 4D.07 (see Figure 4D-2).</li>
+            </ul>
+          </span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">02</span><span class="ptext">Where the nearest signal face is located between 150 and 180 feet beyond the stop line, engineering judgment of the conditions, including the worst-case visibility conditions, should be used to determine if the provision of a supplemental near-side signal face would be beneficial.</span></li>
+          <li><span class="pnum">03</span><span class="ptext">Supplemental near-side signal faces should be located as near as practicable to the stop line.</span></li>
+        </ol>
+      </div>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">04</span><span class="ptext">Section 4D.05 contains additional provisions regarding longitudinal positioning of signal faces for approaches having a posted or 85th-percentile speed of 45 mph or higher.</span></li>
+        </ol>
+      </div>
+
+      <figure class="figure">
+        <img src="../assets/img/part4/d-design-features-of-traffic-control-signals/fig-02.png" alt="Figure 4D-2, lateral and longitudinal location of primary signal faces, showing the 20-degree cone of vision and 40-foot minimum to 180-foot maximum longitudinal placement zone">
+        <figcaption>Figure 4D-2. Lateral and Longitudinal Location of Primary Signal Faces. Minimum distance from stop line is 40 ft; maximum is 120 ft for an 8-inch signal face or 180 ft for a 12-inch signal face (unless a near-side supplemental face is used); the required signal face must fall within ±20° of the center of the approach measured from a point 10 ft behind the stop line.</figcaption>
+      </figure>
+
+      <h2 id="sec-4d-09"><span class="code">4D.09</span>Mounting Height of Signal Faces</h2>
+      <p class="section-meta">Standard · Guidance — paraphrased faithfully below, organized by paragraph type.</p>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">01</span><span class="ptext">The bottom of the signal housing and any related attachments to a vehicular signal face located over any portion of a highway that can be used by motor vehicles shall be at least 15 feet above the pavement.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">01a</span><span class="ptext">The bottom of the signal housing and any related attachments to a vehicular signal face located over a roadway should be at least 17 feet. Refer to Caltrans' Standard Plans publication (see Section 1A.05 for information regarding this publication).</span></li>
+        </ol>
+      </div>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">02</span><span class="ptext">
+            The bottom of the signal housing (including brackets) of a vehicular signal face that is vertically arranged or horizontally arranged and not located over a roadway:
+            <ul>
+              <li><strong>A.</strong> Shall be a minimum of 8 feet above the sidewalk or, if there is no sidewalk, above the pavement grade at the center of the roadway.</li>
+              <li><strong>B.</strong> Shall be a minimum of 4.5 feet above the median island grade of a center median island if located on the near side of the intersection.</li>
+            </ul>
+          </span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">03</span><span class="ptext">The top of the signal housing of a vehicular signal face located over any portion of a highway that can be used by motor vehicles should not be more than 25.6 feet above the pavement.</span></li>
+          <li><span class="pnum">04</span><span class="ptext">For viewing distances between 40 and 53 feet from the stop line, the maximum mounting height to the top of the signal housing of a vehicular signal face located over any portion of a highway that can be used by motor vehicles should be as shown in Figure 4D-3.</span></li>
+          <li><span class="pnum">05</span><span class="ptext">
+            The bottom of the signal housing (including brackets) of a vehicular signal face that is vertically arranged and not located over a roadway or shoulder (refer to Figures 4E-2, 4F-3, 4F-4, 4F-6, 4F-10, 4F-11, 4F-13, and 4F-15):
+            <ul>
+              <li><strong>A.</strong> Should be a maximum of 19 feet above the sidewalk or, if there is no sidewalk, above the pavement grade at the center of the roadway.</li>
+              <li><strong>B.</strong> Should be a maximum of 19 feet above the median island grade of a center median island if located on the near side of the intersection.</li>
+            </ul>
+          </span></li>
+          <li><span class="pnum">06</span><span class="ptext">
+            The bottom of the signal housing (including brackets) of a vehicular signal face that is horizontally arranged and not located over a roadway or shoulder (refer to Figures 4E-2, 4F-3, 4F-4, 4F-6, 4F-10, 4F-11, 4F-13, and 4F-15):
+            <ul>
+              <li><strong>A.</strong> Should be a maximum of 22 feet above the sidewalk or, if there is no sidewalk, above the pavement grade at the center of the roadway.</li>
+              <li><strong>B.</strong> Should be a maximum of 22 feet above the median island grade of a center median island if located on the near side of the intersection.</li>
+            </ul>
+          </span></li>
+        </ol>
+      </div>
+
+      <figure class="figure">
+        <img src="../assets/img/part4/d-design-features-of-traffic-control-signals/fig-03.png" alt="Figure 4D-3, maximum mounting height of signal faces located between 40 and 53 feet from the stop line, a graph rising from about 21 feet at 40 feet to 25.6 feet at 53 feet">
+        <figcaption>Figure 4D-3. Maximum Mounting Height of Signal Faces That Are Located between 40 Feet and 53 Feet from the Stop Line. The allowable maximum height to the top of the signal housing scales from roughly 21 feet at a 40-foot horizontal distance up to 25.6 feet at 53 feet.</figcaption>
+      </figure>
+
+      <h2 id="sec-4d-10"><span class="code">4D.10</span>Lateral Offset (Clearance) of Signal Faces</h2>
+      <p class="section-meta">Guidance — Recommended Practice</p>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">01</span><span class="ptext">Signal faces mounted at the side of a roadway at less than 15 feet from the bottom of the housing and any related attachments should have a horizontal offset of not less than 2 feet from the face of a vertical curb, or if there is no curb, not less than 2 feet from the edge of a shoulder.</span></li>
+        </ol>
+      </div>
+
+      <h2 id="sec-4d-11"><span class="code">4D.11</span>Temporary and Portable Traffic Control Signals</h2>
+      <p class="section-meta">Support · Standard · Option · Guidance — paraphrased faithfully below, organized by paragraph type.</p>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">01</span><span class="ptext">A temporary traffic control signal is generally installed using methods that minimize the costs of installation, relocation, and/or removal. Typical temporary traffic control signals are for specific purposes, such as for one-lane, two-way facilities in temporary traffic control zones (see Chapter 4O), for a haul-road intersection, or for access to a site that will have a permanent access point developed at another location in the near future. Portable traffic signals are temporary traffic signals.</span></li>
+          <li><span class="pnum">02</span><span class="ptext">Because a portable traffic control signal is considered to be a type of temporary traffic control signal, the provisions for temporary traffic control signals are also applicable to portable traffic control signals.</span></li>
+          <li><span class="pnum">02a</span><span class="ptext">Refer to Section 6P.01 and Typical Application 14 Haul Road Crossing (Figure 6P-14(CA) and related Notes) when using a temporary traffic control signal at haul road crossings.</span></li>
+        </ol>
+      </div>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">03</span><span class="ptext">Advance signing shall be used when employing a temporary traffic control signal.</span></li>
+          <li><span class="pnum">04</span><span class="ptext">
+            A temporary traffic control signal shall:
+            <ul>
+              <li><strong>A.</strong> Meet the physical display and operational requirements of a conventional traffic control signal;</li>
+              <li><strong>B.</strong> Be removed when no longer needed; and</li>
+              <li><strong>C.</strong> Except as provided in Paragraph 5 of this Section, be placed in the flashing mode during periods when it is not desirable to operate the signal in the steady mode, or the signal heads shall be covered, turned, or taken down to indicate that the signal is not in operation.</li>
+            </ul>
+          </span></li>
+        </ol>
+      </div>
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">05</span><span class="ptext">If the temporary traffic control signal is capable of being operated in a semi-actuated mode, such that green signal indications are continually shown to major-street traffic except when responding to a minor-street approach vehicle call, it may be operated in a semi-actuated mode instead of being placed in a flashing mode.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">06</span><span class="ptext">A temporary traffic control signal should be used only if engineering judgment indicates that installing the signal will improve the overall safety and/or operation of the location.</span></li>
+          <li><span class="pnum">07</span><span class="ptext">The use of temporary traffic control signals by a work crew on a regular basis in their work area should be subject to the approval of the jurisdiction having authority over the roadway.</span></li>
+          <li><span class="pnum">08</span><span class="ptext">A temporary traffic control signal should not operate longer than 30 days unless associated with a longer-term temporary traffic control zone project.</span></li>
+          <li><span class="pnum">09</span><span class="ptext">Section 6L.01 contains information about the use of temporary traffic control signals in temporary traffic control zones.</span></li>
+        </ol>
+      </div>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">10</span><span class="ptext">Refer to FHWA's List of Known Errors for error in labeling Paragraph 9. Refer to Section 1A.04 for more details.</span></li>
+        </ol>
+      </div>
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">11</span><span class="ptext">One-way traffic control signals may utilize semi- or fully-traffic-actuated controller units, or may be manually controlled.</span></li>
+        </ol>
+      </div>
+
+      <h2 id="sec-4d-101"><span class="code">4D.101(CA)</span>Permissive Left-Turn Phasing</h2>
+      <p class="section-meta">Guidance · Standard · Option — paraphrased faithfully below, organized by paragraph type.</p>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">01</span><span class="ptext">When a protected-permissive or permissive-protected left-turn phasing operation is used for a signal system, no information sign is necessary.</span></li>
+        </ol>
+      </div>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">02</span><span class="ptext">If a sign is used, it shall be a LEFT TURN YIELD ON GREEN (Green Ball symbol) (R10-12) sign.</span></li>
+        </ol>
+      </div>
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">03</span><span class="ptext">Public agencies having jurisdiction may use an Activated Blank-Out message sign on local roads in place of the R10-12 sign on their local roads that are not part of an intersection with a State highway.</span></li>
+        </ol>
+      </div>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">04</span><span class="ptext">The Activated Blank-Out sign shall say LEFT TURN YIELD in at least 6-inch high letters. The light source shall be designed and constructed so that when illuminated, the message shall be white and remain dark when not in use. The message shall be illuminated only when the green permissive ball is lighted.</span></li>
+          <li><span class="pnum">05</span><span class="ptext">
+            The following apply to permissive left-turn phasing:
+            <ol type="1">
+              <li>This operation shall not be initiated where the left-turn collision warrant is satisfied.</li>
+              <li>Both directions of through traffic shall be terminated simultaneously except where opposing left turns or opposing U-turns are prohibited.</li>
+            </ol>
+          </span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">05.3</span><span class="ptext">Signal faces should not be placed in a median facing a left-turn lane, unless: the signal face is provided with some type of visibility control so that the indications are not visible to traffic in the left-turn storage lane; or a LEFT TURN YIELD ON GREEN (symbolic circular green) (R10-12) sign is installed below the said signal face.</span></li>
+        </ol>
+      </div>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">05.4</span><span class="ptext">Signs are not required for this operation unless U-turns are to be prohibited.</span></li>
+        </ol>
+      </div>
+
+      <h2 id="sec-4d-102"><span class="code">4D.102(CA)</span>Review of Traffic Signal Operations</h2>
+      <p class="section-meta">Guidance · Standard · Support — paraphrased faithfully below, organized by paragraph type.</p>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">01</span><span class="ptext">All traffic signals should be periodically reviewed for proper operation. The traffic signal operation should be observed during morning and evening peak traffic periods and during off-peak periods. If an operating deficiency is observed, the reason for the deficiency should be determined. If there is a malfunction, the Maintenance unit should be notified, and after corrective work is done, further surveillance should be conducted to be sure no deficiency remains. If a need for a design change is observed, an analysis should be made to determine what improvement might be necessary to improve the design.</span></li>
+          <li><span class="pnum">02</span><span class="ptext">
+            Improvements to consider are:
+            <ol type="1">
+              <li>Timing of: (a) Maximums or Force Offs, (b) Gap Interval, (c) Offsets, (d) Cycle Length</li>
+              <li>Time-of-Day or Traffic Responsive Settings</li>
+              <li>Signal Phasing or Phase Sequence</li>
+              <li>Type of Operation</li>
+              <li>Coordination of Signals</li>
+              <li>Signs, Striping and/or Pavement Markings</li>
+              <li>Roadway Improvements</li>
+            </ol>
+          </span></li>
+        </ol>
+      </div>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">03</span><span class="ptext">Timing and phasing of traffic signals and any subsequent changes in timing shall be approved by the public agency having jurisdiction. Timing records shall be kept by the agency responsible for the maintenance and/or operation and be readily available to the maintenance and traffic operations staffs and other agencies, where appropriate.</span></li>
+        </ol>
+      </div>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">04</span><span class="ptext">Aids for timing are shown in Tables 4D-102(CA) and 4D-103(CA).</span></li>
+        </ol>
+      </div>
+
+      <div class="table-wrap">
+        <table>
+          <caption>Table 4D-101(CA)a. Minimum Yellow Change Interval — For Speed Determined by 85th Percentile</caption>
+          <thead><tr><th>85th-Percentile Speed (mph)</th><th>Minimum Yellow Interval (sec)</th></tr></thead>
+          <tbody>
+            <tr><td>25 or less</td><td>3.0</td></tr>
+            <tr><td>30</td><td>3.2</td></tr>
+            <tr><td>35</td><td>3.6</td></tr>
+            <tr><td>40</td><td>3.9</td></tr>
+            <tr><td>45</td><td>4.3</td></tr>
+            <tr><td>50</td><td>4.7</td></tr>
+            <tr><td>55</td><td>5.0</td></tr>
+            <tr><td>60</td><td>5.4</td></tr>
+            <tr><td>65</td><td>5.8</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <caption>Table 4D-101(CA)b. Minimum Yellow Change Interval — For Posted or Prima Facie Speed</caption>
+          <thead><tr><th>Posted / Prima Facie Speed (mph)</th><th>Minimum Yellow Interval (sec)</th></tr></thead>
+          <tbody>
+            <tr><td>15</td><td>3.0</td></tr>
+            <tr><td>20</td><td>3.2</td></tr>
+            <tr><td>25</td><td>3.6</td></tr>
+            <tr><td>30</td><td>3.7</td></tr>
+            <tr><td>35</td><td>4.1</td></tr>
+            <tr><td>40</td><td>4.4</td></tr>
+            <tr><td>45</td><td>4.8</td></tr>
+            <tr><td>50</td><td>5.2</td></tr>
+            <tr><td>55</td><td>5.5</td></tr>
+            <tr><td>60 or higher</td><td>5.9</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>The minimum yellow change interval is derived as T = V/(2d) + t<sub>R</sub>, where T = the minimum yellow change interval (sec), V = approach speed (ft/sec), d = deceleration rate (10 ft/sec²), and t<sub>R</sub> = perception-reaction time (1 sec); the detector setback distance D for advance detection equals the deceleration distance plus the reaction distance, D = V²/(2d) + Vt<sub>R</sub>. Table 4D-101(CA)b's posted-speed values already build in the 7 mph added for speeds of 30 mph or higher, and 10 mph added for speeds of 25 mph or lower, used when computing the minimum yellow interval from a posted (rather than 85th-percentile) speed — see Section 4F.17 Standard, Paragraph 13c.</p>
+
+      <div class="table-wrap">
+        <table>
+          <caption>Table 4D-102(CA). Traffic Signal Timing Analysis Chart (representative excerpt — number of vehicles serviced per hour per lane at the indicated cycle length, by queue size)</caption>
+          <thead>
+            <tr><th>Cars in Queue</th><th>Min. Time Req. (sec)</th><th>Stopped Queue (ft)</th><th>Moving Queue (ft, 30 mph)</th><th>Moving Queue Time (sec)</th><th>50s</th><th>60s</th><th>70s</th><th>90s</th><th>120s</th><th>180s</th><th>240s</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>1</td><td>4</td><td>25</td><td>0</td><td>2</td><td>70</td><td>60</td><td>50</td><td>40</td><td>30</td><td>20</td><td>15</td></tr>
+            <tr><td>5</td><td>13</td><td>125</td><td>352</td><td>10</td><td>360</td><td>360</td><td>255</td><td>200</td><td>150</td><td>100</td><td>175</td></tr>
+            <tr><td>10</td><td>23</td><td>250</td><td>792</td><td>20</td><td>720</td><td>660</td><td>510</td><td>400</td><td>300</td><td>200</td><td>150</td></tr>
+            <tr><td>15</td><td>33</td><td>375</td><td>1232</td><td>30</td><td>1080</td><td>960</td><td>765</td><td>600</td><td>450</td><td>300</td><td>225</td></tr>
+            <tr><td>20</td><td>43</td><td>500</td><td>1672</td><td>40</td><td>1260</td><td>1020</td><td>900</td><td>720</td><td>600</td><td>400</td><td>300</td></tr>
+            <tr><td>25</td><td>53</td><td>625</td><td>2112</td><td>50</td><td>1275</td><td>1125</td><td>1000</td><td>900</td><td>750</td><td>500</td><td>375</td></tr>
+            <tr><td>29</td><td>61</td><td>725</td><td>2464</td><td>58</td><td>—</td><td>1305</td><td>1160</td><td>1020</td><td>870</td><td>580</td><td>435</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Table 4D-102(CA) in the source PDF tabulates every queue size from 1 to 29 vehicles (with the minimum green time required, stopped and moving queue lengths at 30 mph, and moving queue time) against ten signal cycle lengths (50, 60, 70, 80, 90, 100, 120, 150, 180, and 240 seconds); the excerpt above shows representative rows. Use it as a first-cut field aid for estimating queue storage length and per-lane hourly capacity at a candidate cycle length — verify against the full chart in the source PDF or a current capacity analysis tool before final design.</p>
+
+      <div class="table-wrap">
+        <table>
+          <caption>Table 4D-103(CA). Signal Operations — Vehicular Speed / Distance Traveled (feet) by Elapsed Time</caption>
+          <thead>
+            <tr><th>mph</th><th>ft/s</th><th>10s</th><th>15s</th><th>20s</th><th>25s</th><th>30s</th><th>35s</th><th>40s</th><th>45s</th><th>50s</th><th>55s</th><th>60s</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>5</td><td>7.30</td><td>73.0</td><td>110.0</td><td>147.0</td><td>183.0</td><td>220.0</td><td>257.0</td><td>293.0</td><td>330.0</td><td>367.0</td><td>403.0</td><td>440.0</td></tr>
+            <tr><td>10</td><td>14.60</td><td>146.0</td><td>220.0</td><td>293.0</td><td>366.0</td><td>440.0</td><td>513.0</td><td>587.0</td><td>660.0</td><td>733.0</td><td>807.0</td><td>880.0</td></tr>
+            <tr><td>15</td><td>22.00</td><td>220.0</td><td>330.0</td><td>440.0</td><td>550.0</td><td>660.0</td><td>770.0</td><td>880.0</td><td>990.0</td><td>1,100.0</td><td>1,210.0</td><td>1,320.0</td></tr>
+            <tr><td>20</td><td>29.30</td><td>293.0</td><td>440.0</td><td>587.0</td><td>733.0</td><td>880.0</td><td>1,027.0</td><td>1,173.0</td><td>1,320.0</td><td>1,467.0</td><td>1,613.0</td><td>1,760.0</td></tr>
+            <tr><td>25</td><td>36.70</td><td>367.0</td><td>550.0</td><td>733.0</td><td>917.0</td><td>1,100.0</td><td>1,283.0</td><td>1,467.0</td><td>1,650.0</td><td>1,833.0</td><td>2,017.0</td><td>2,200.0</td></tr>
+            <tr><td>30</td><td>44.00</td><td>440.0</td><td>660.0</td><td>880.0</td><td>1,100.0</td><td>1,320.0</td><td>1,540.0</td><td>1,760.0</td><td>1,980.0</td><td>2,200.0</td><td>2,420.0</td><td>2,640.0</td></tr>
+            <tr><td>35</td><td>51.30</td><td>513.0</td><td>770.0</td><td>1,027.0</td><td>1,283.0</td><td>1,540.0</td><td>1,797.0</td><td>2,053.0</td><td>2,310.0</td><td>2,567.0</td><td>2,823.0</td><td>3,080.0</td></tr>
+            <tr><td>40</td><td>58.70</td><td>587.0</td><td>880.0</td><td>1,173.0</td><td>1,467.0</td><td>1,760.0</td><td>2,053.0</td><td>2,347.0</td><td>2,640.0</td><td>2,933.0</td><td>3,227.0</td><td>3,520.0</td></tr>
+            <tr><td>45</td><td>66.00</td><td>660.0</td><td>990.0</td><td>1,320.0</td><td>1,650.0</td><td>1,980.0</td><td>2,310.0</td><td>2,640.0</td><td>2,970.0</td><td>3,300.0</td><td>3,630.0</td><td>3,960.0</td></tr>
+            <tr><td>50</td><td>73.30</td><td>733.0</td><td>1,100.0</td><td>1,467.0</td><td>1,833.0</td><td>2,200.0</td><td>2,567.0</td><td>2,933.0</td><td>3,300.0</td><td>3,667.0</td><td>4,033.0</td><td>4,400.0</td></tr>
+            <tr><td>55</td><td>80.70</td><td>807.0</td><td>1,210.0</td><td>1,613.0</td><td>2,017.0</td><td>2,420.0</td><td>2,823.0</td><td>3,227.0</td><td>3,630.0</td><td>4,033.0</td><td>4,437.0</td><td>4,840.0</td></tr>
+            <tr><td>60</td><td>88.00</td><td>880.0</td><td>1,320.0</td><td>1,760.0</td><td>2,200.0</td><td>2,640.0</td><td>3,080.0</td><td>3,520.0</td><td>3,960.0</td><td>4,400.0</td><td>4,840.0</td><td>5,280.0</td></tr>
+            <tr><td>65</td><td>95.30</td><td>953.0</td><td>1,430.0</td><td>1,907.0</td><td>2,383.0</td><td>2,860.0</td><td>3,337.0</td><td>3,813.0</td><td>4,290.0</td><td>4,767.0</td><td>5,243.0</td><td>5,720.0</td></tr>
+            <tr><td>70</td><td>102.70</td><td>1,027.0</td><td>1,540.0</td><td>2,053.0</td><td>2,567.0</td><td>3,080.0</td><td>3,593.0</td><td>4,107.0</td><td>4,620.0</td><td>5,133.0</td><td>5,647.0</td><td>6,160.0</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Table 4D-103(CA) provides speed-to-distance conversions (distance = speed in ft/s × elapsed time) from 1 to 120 mph in the source PDF; the rows above (5–70 mph, the common signal-design range) are reproduced in full. It is used to convert an approach speed and a desired advance-warning or clearance time directly into a placement distance without recalculating the ft/s conversion by hand.</p>
+
+      <div class="takeaways">
+        <h3>★ Key Takeaways — Chapter 4D</h3>
+        <ul>
+          <li>Every approach needs a minimum of two primary signal faces for its major movement (through, or the major turn if there is no through movement); faces must sit within a ±20° cone from a point 10 ft behind the stop line, be at least 8 ft apart (3 ft for retrofits), and land between 40 ft and 180 ft beyond the stop line (120 ft max for 8-inch lenses) unless a supplemental near-side face is added.</li>
+          <li>Mounting height: minimum 15 ft (Standard) / 17 ft (Guidance, per Caltrans Standard Plans) above the pavement for over-roadway faces, maximum 25.6 ft, with Figure 4D-3 governing the sliding scale for 40–53 ft viewing distances; side-mounted faces need minimum 8 ft (sidewalk) or 4.5 ft (near-side median) clearance, capped around 19–22 ft depending on arrangement.</li>
+          <li>On 45-mph-or-higher approaches with documented excessive red-light violations, Figure 4D-1 and Table 4D-1 govern: more overhead primary faces, all faces on the far side, and backplates on every face.</li>
+          <li>California's Table 4D-2 sets minimum continuous sight distance to signal faces (175 ft at 20 mph up to 715 ft at 60 mph); Table 4D-101(CA) sets minimum yellow change interval (3.0 sec at low speed up to 5.9 sec at 60+ mph), derived from the perception-reaction/deceleration formula T = V/(2d) + t_R.</li>
+          <li>CA-specific Section 4D.101(CA) requires that permissive left-turn phasing never be used where the left-turn collision warrant is satisfied, and that a used sign be the LEFT TURN YIELD ON GREEN (R10-12) or an equivalent Activated Blank-Out sign; Section 4D.102(CA) requires periodic peak/off-peak review of every signal's operation, with agency-approved, recorded timing changes, aided by the queue-capacity chart (Table 4D-102(CA)) and speed/distance chart (Table 4D-103(CA)).</li>
+        </ul>
+      </div>
+
+      <div class="chapter-progress">
+        <label><input type="checkbox" id="reviewed-checkbox" data-chapter-id="4d"> Mark Chapter 4D as reviewed</label>
+      </div>
+
+      <div class="pager"><a class="prev" href="c-traffic-control-signal-needs-studies.html"><span class="dir">← Previous</span><span class="lbl">Ch. 4C — Signal Needs Studies</span></a><a class="next" href="e-traffic-control-signal-indications.html"><span class="dir">Next →</span><span class="lbl">Ch. 4E — Signal Indications</span></a></div>
+    </div>
+  </main>
+</div>
+
+<footer class="site-footer"><div class="container">California MUTCD 2026 Edition — Interactive Training Reference. Not a substitute for the official California MUTCD; verify against the source document for legal/design purposes.</div></footer>
+
+<script src="../assets/js/search-index.js"></script>
+<script src="../assets/js/app.js"></script>
+</body>
+</html>

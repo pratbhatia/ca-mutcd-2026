@@ -1,0 +1,18 @@
+{
+  "part_num": 4,
+  "chapter_letter": "e",
+  "chapter_code": "4E",
+  "file": "e-traffic-control-signal-indications.html",
+  "title": "Traffic Control Signal Indications",
+  "short_title": "Signal Indications",
+  "description": "Design, illumination, color, shape, size, and positional-arrangement requirements for circular and arrow indications within a vehicular signal face.",
+  "sections": [
+    {"id": "sec-e-01", "code": "4E.01", "title": "Signal Indications — Design, Illumination, Color, and Shape"},
+    {"id": "sec-e-02", "code": "4E.02", "title": "Size of Vehicular Signal Indications"},
+    {"id": "sec-e-03", "code": "4E.03", "title": "Positions of Signal Indications Within a Signal Face — General"},
+    {"id": "sec-e-04", "code": "4E.04", "title": "Positions of Signal Indications Within a Vertical Signal Face"},
+    {"id": "sec-e-05", "code": "4E.05", "title": "Positions of Signal Indications Within a Horizontal Signal Face"}
+  ],
+  "figure_count": 2,
+  "source_pages": 7
+}

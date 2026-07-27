@@ -1,0 +1,17 @@
+{
+  "part_num": 3,
+  "chapter_letter": "e",
+  "chapter_code": "3E",
+  "file": "e-preferential-lane-markings-for-motor-vehicles.html",
+  "title": "Preferential Lane Markings for Motor Vehicles",
+  "short_title": "Preferential Lane Markings",
+  "description": "Pavement marking design for HOV, toll, priced-managed, transit, and other preferential lanes, including barrier-, buffer-, and contiguous-separated and counter-flow configurations, word/symbol markings, and part-time shoulder travel.",
+  "sections": [
+    {"id": "sec-e-01", "code": "3E.01", "title": "General"},
+    {"id": "sec-e-02", "code": "3E.02", "title": "Longitudinal Markings"},
+    {"id": "sec-e-03", "code": "3E.03", "title": "Preferential Lane Word and Symbol Markings"},
+    {"id": "sec-e-04", "code": "3E.04", "title": "Markings for Part-Time Travel on a Shoulder"}
+  ],
+  "figure_count": 10,
+  "source_pages": 15
+}

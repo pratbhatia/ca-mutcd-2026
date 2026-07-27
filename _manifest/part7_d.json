@@ -1,0 +1,16 @@
+{
+  "part_num": 7,
+  "chapter_letter": "d",
+  "chapter_code": "7D",
+  "file": "d-crossing-supervision.html",
+  "title": "Crossing Supervision",
+  "short_title": "Crossing Supervision",
+  "description": "Criteria, legal authority, funding, training, and operating procedures for adult crossing guards, plus the statutory basis for School Safety Patrols.",
+  "sections": [
+    {"id": "sec-d-01", "code": "7D.01", "title": "Adult Crossing Guards"},
+    {"id": "sec-d-02", "code": "7D.02", "title": "Operating Procedures for Adult Crossing Guards"},
+    {"id": "sec-d-101", "code": "7D.101(CA)", "title": "School Safety Patrols"}
+  ],
+  "figure_count": 0,
+  "source_pages": 2
+}

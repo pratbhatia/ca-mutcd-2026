@@ -1,0 +1,23 @@
+{
+  "part_num": 4,
+  "chapter_letter": "a",
+  "chapter_code": "4A",
+  "file": "a-general.html",
+  "title": "General",
+  "short_title": "General",
+  "description": "Defines the meanings of every steady and flashing vehicular, bicycle, and pedestrian signal indication, and the general rules for signs, pavement markings, and maintenance responsibility at signalized locations.",
+  "sections": [
+    {"id": "sec-4a-01", "code": "4A.01", "title": "Types"},
+    {"id": "sec-4a-02", "code": "4A.02", "title": "Meanings of Signal Indications"},
+    {"id": "sec-4a-03", "code": "4A.03", "title": "Meanings of Steady Vehicular Signal Indications"},
+    {"id": "sec-4a-04", "code": "4A.04", "title": "Meanings of Flashing Vehicular Signal Indications"},
+    {"id": "sec-4a-05", "code": "4A.05", "title": "Meanings of Bicycle Symbol Signal Indications"},
+    {"id": "sec-4a-06", "code": "4A.06", "title": "Meanings of Pedestrian Signal Indications"},
+    {"id": "sec-4a-07", "code": "4A.07", "title": "Lateral Offset of Signal Supports and Cabinets"},
+    {"id": "sec-4a-08", "code": "4A.08", "title": "Use of Signs at Signalized Locations"},
+    {"id": "sec-4a-09", "code": "4A.09", "title": "Use of Pavement Markings at Signalized Locations"},
+    {"id": "sec-4a-10", "code": "4A.10", "title": "Responsibility for Operation and Maintenance"}
+  ],
+  "figure_count": 0,
+  "source_pages": 7
+}

@@ -1,0 +1,18 @@
+{
+  "part_num": 4,
+  "chapter_letter": "k",
+  "chapter_code": "4K",
+  "file": "k-accessible-pedestrian-signals-and-detectors.html",
+  "title": "Accessible Pedestrian Signals and Detectors",
+  "short_title": "Accessible Pedestrian Signals",
+  "description": "Non-visual crossing information — audible walk indications, vibrotactile arrows, locator tones, and speech messages — for pedestrians with vision disabilities at signalized crossings.",
+  "sections": [
+    {"id": "sec-k-01", "code": "4K.01", "title": "General"},
+    {"id": "sec-k-02", "code": "4K.02", "title": "Location"},
+    {"id": "sec-k-03", "code": "4K.03", "title": "Walk Indications"},
+    {"id": "sec-k-04", "code": "4K.04", "title": "Vibrotactile Arrows and Locator Tones"},
+    {"id": "sec-k-05", "code": "4K.05", "title": "Extended Push Button Press Features"}
+  ],
+  "figure_count": 0,
+  "source_pages": 6
+}

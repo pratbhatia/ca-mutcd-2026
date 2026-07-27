@@ -1,0 +1,238 @@
+{
+  "part_num": 2,
+  "chapter_letter": "e",
+  "chapter_code": "2E",
+  "file": "e-guide-signs.html",
+  "title": "Guide Signs (Freeway and Expressway)",
+  "short_title": "Guide Signs (Freeway/Expressway)",
+  "description": "Freeway and expressway guide signing: advance guide signs, exit direction and gore signs, and overhead sign system design and placement for controlled-access highways.",
+  "sections": [
+    {
+      "id": "sec-2e-01",
+      "code": "2E.01",
+      "title": "Scope of Freeway and Expressway Guide Sign Standards"
+    },
+    {
+      "id": "sec-2e-02",
+      "code": "2E.02",
+      "title": "Freeway and Expressway Signing Principles"
+    },
+    {
+      "id": "sec-2e-03",
+      "code": "2E.03",
+      "title": "Guide Sign Classification"
+    },
+    {
+      "id": "sec-2e-04",
+      "code": "2E.04",
+      "title": "Characteristics of Urban Signing"
+    },
+    {
+      "id": "sec-2e-05",
+      "code": "2E.05",
+      "title": "Characteristics of Rural Signing"
+    },
+    {
+      "id": "sec-2e-06",
+      "code": "2E.06",
+      "title": "Signing of Named Highways"
+    },
+    {
+      "id": "sec-2e-07",
+      "code": "2E.07",
+      "title": "Designation of Destinations"
+    },
+    {
+      "id": "sec-2e-08",
+      "code": "2E.08",
+      "title": "General"
+    },
+    {
+      "id": "sec-2e-09",
+      "code": "2E.09",
+      "title": "Color of Guide Signs"
+    },
+    {
+      "id": "sec-2e-10",
+      "code": "2E.10",
+      "title": "Retroreflection or Illumination"
+    },
+    {
+      "id": "sec-2e-11",
+      "code": "2E.11",
+      "title": "Interchange Classification"
+    },
+    {
+      "id": "sec-2e-12",
+      "code": "2E.12",
+      "title": "Size of Signs and Letters"
+    },
+    {
+      "id": "sec-2e-13",
+      "code": "2E.13",
+      "title": "Interline and Edge Spacing"
+    },
+    {
+      "id": "sec-2e-14",
+      "code": "2E.14",
+      "title": "Sign Borders"
+    },
+    {
+      "id": "sec-2e-15",
+      "code": "2E.15",
+      "title": "Amount of Legend on Guide Signs"
+    },
+    {
+      "id": "sec-2e-16",
+      "code": "2E.16",
+      "title": "Abbreviations"
+    },
+    {
+      "id": "sec-2e-17",
+      "code": "2E.17",
+      "title": "Symbols"
+    },
+    {
+      "id": "sec-2e-18",
+      "code": "2E.18",
+      "title": "Arrows for Interchange Guide Signs"
+    },
+    {
+      "id": "sec-2e-19",
+      "code": "2E.19",
+      "title": "Overhead Sign Installations"
+    },
+    {
+      "id": "sec-2e-20",
+      "code": "2E.20",
+      "title": "Lateral Offset"
+    },
+    {
+      "id": "sec-2e-21",
+      "code": "2E.21",
+      "title": "Interchange Guide Signs"
+    },
+    {
+      "id": "sec-2e-22",
+      "code": "2E.22",
+      "title": "Interchange Exit Numbering"
+    },
+    {
+      "id": "sec-2e-23",
+      "code": "2E.23",
+      "title": "Interchange Advance Guide Signs (E1-1 through E1-3)"
+    },
+    {
+      "id": "sec-2e-24",
+      "code": "2E.24",
+      "title": "Interchange Sequence Signs (E9-1 and E9-2)"
+    },
+    {
+      "id": "sec-2e-25",
+      "code": "2E.25",
+      "title": "Exit Direction Signs (E4 Series)"
+    },
+    {
+      "id": "sec-2e-26",
+      "code": "2E.26",
+      "title": "Exit Gore Signs and Plaque (E5-1 Series)"
+    },
+    {
+      "id": "sec-2e-27",
+      "code": "2E.27",
+      "title": "Pull-Through Signs (E6-1 Series and E6-2 Series)"
+    },
+    {
+      "id": "sec-2e-28",
+      "code": "2E.28",
+      "title": "Signing for Interchange Lane Drops Without an Optional Exit Lane"
+    },
+    {
+      "id": "sec-2e-29",
+      "code": "2E.29",
+      "title": "Signing by Type of Interchange"
+    },
+    {
+      "id": "sec-2e-30",
+      "code": "2E.30",
+      "title": "Minor Interchange"
+    },
+    {
+      "id": "sec-2e-31",
+      "code": "2E.31",
+      "title": "Diamond Interchange"
+    },
+    {
+      "id": "sec-2e-32",
+      "code": "2E.32",
+      "title": "Diamond Interchange in Urban Area"
+    },
+    {
+      "id": "sec-2e-33",
+      "code": "2E.33",
+      "title": "Cloverleaf Interchange"
+    },
+    {
+      "id": "sec-2e-34",
+      "code": "2E.34",
+      "title": "Cloverleaf Interchange with Collector-Distributor Roadways"
+    },
+    {
+      "id": "sec-2e-35",
+      "code": "2E.35",
+      "title": "Partial Cloverleaf Interchange"
+    },
+    {
+      "id": "sec-2e-36",
+      "code": "2E.36",
+      "title": "Collector-Distributor Roadways for Successive Interchanges"
+    },
+    {
+      "id": "sec-2e-37",
+      "code": "2E.37",
+      "title": "Freeway-to-Freeway Interchanges"
+    },
+    {
+      "id": "sec-2e-38",
+      "code": "2E.38",
+      "title": "Freeway Split with Dedicated Lanes"
+    },
+    {
+      "id": "sec-2e-39",
+      "code": "2E.39",
+      "title": "Signing for Option Lanes at Splits and Multi-Lane Exits"
+    },
+    {
+      "id": "sec-2e-40",
+      "code": "2E.40",
+      "title": "Design of Overhead Arrow-per-Lane Guide Signs for Option Lanes"
+    },
+    {
+      "id": "sec-2e-41",
+      "code": "2E.41",
+      "title": "Design of Freeway and Expressway Diagrammatic Advance Guide Signs"
+    },
+    {
+      "id": "sec-2e-42",
+      "code": "2E.42",
+      "title": "Signing for Intermediate and Minor Interchange Multi-Lane Exits with an Option Lane"
+    },
+    {
+      "id": "sec-2e-43",
+      "code": "2E.43",
+      "title": "Number of Signs at an Overhead Installation and Sign Spreading"
+    },
+    {
+      "id": "sec-2e-44",
+      "code": "2E.44",
+      "title": "Closely-Spaced Interchanges"
+    },
+    {
+      "id": "sec-2e-45",
+      "code": "2E.45",
+      "title": "Guide Signing in Tunnels and Similar Structures"
+    }
+  ],
+  "figure_count": 54,
+  "source_pages": 115
+}

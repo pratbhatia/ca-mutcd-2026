@@ -1,0 +1,19 @@
+{
+  "part_num": 4,
+  "chapter_letter": "b",
+  "chapter_code": "4B",
+  "file": "b-traffic-control-signals.html",
+  "title": "Traffic Control Signals — General",
+  "short_title": "Signals — General",
+  "description": "Weighs the advantages and disadvantages of traffic control signals, surveys alternatives to signalization, and sets the policy framework for installing, removing, and modifying signals.",
+  "sections": [
+    {"id": "sec-4b-01", "code": "4B.01", "title": "General"},
+    {"id": "sec-4b-02", "code": "4B.02", "title": "Advantages and Disadvantages of Traffic Control Signals"},
+    {"id": "sec-4b-03", "code": "4B.03", "title": "Alternatives to Traffic Control Signals"},
+    {"id": "sec-4b-04", "code": "4B.04", "title": "Basis of Installation of Traffic Control Signals"},
+    {"id": "sec-4b-05", "code": "4B.05", "title": "Basis of Removal of Traffic Control Signals"},
+    {"id": "sec-4b-101", "code": "4B.101(CA)", "title": "Modifications of Existing Signals"}
+  ],
+  "figure_count": 0,
+  "source_pages": 3
+}

@@ -1,0 +1,26 @@
+{
+  "part_num": 4,
+  "chapter_letter": "d",
+  "chapter_code": "4D",
+  "file": "d-design-features-of-traffic-control-signals.html",
+  "title": "Design Features of Traffic Control Signals",
+  "short_title": "Signal Design Features",
+  "description": "Covers provisions for pedestrians, bicyclists, and transit; the number, visibility, positioning, and mounting height of signal faces; temporary/portable signals; and California-specific left-turn phasing and signal-timing review.",
+  "sections": [
+    {"id": "sec-4d-01", "code": "4D.01", "title": "General"},
+    {"id": "sec-4d-02", "code": "4D.02", "title": "Provisions for Pedestrians"},
+    {"id": "sec-4d-03", "code": "4D.03", "title": "Provisions for Bicyclists"},
+    {"id": "sec-4d-04", "code": "4D.04", "title": "Provisions for Transit Vehicles"},
+    {"id": "sec-4d-05", "code": "4D.05", "title": "Number of Signal Faces on an Approach"},
+    {"id": "sec-4d-06", "code": "4D.06", "title": "Visibility, Aiming, and Shielding of Signal Faces"},
+    {"id": "sec-4d-07", "code": "4D.07", "title": "Lateral Positioning of Signal Faces"},
+    {"id": "sec-4d-08", "code": "4D.08", "title": "Longitudinal Positioning of Signal Faces"},
+    {"id": "sec-4d-09", "code": "4D.09", "title": "Mounting Height of Signal Faces"},
+    {"id": "sec-4d-10", "code": "4D.10", "title": "Lateral Offset (Clearance) of Signal Faces"},
+    {"id": "sec-4d-11", "code": "4D.11", "title": "Temporary and Portable Traffic Control Signals"},
+    {"id": "sec-4d-101", "code": "4D.101(CA)", "title": "Permissive Left-Turn Phasing"},
+    {"id": "sec-4d-102", "code": "4D.102(CA)", "title": "Review of Traffic Signal Operations"}
+  ],
+  "figure_count": 3,
+  "source_pages": 16
+}

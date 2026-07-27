@@ -1,0 +1,16 @@
+{
+  "part_num": 4,
+  "chapter_letter": "r",
+  "chapter_code": "4R",
+  "file": "r-highway-traffic-signals-at-toll-plazas.html",
+  "title": "Highway Traffic Signals at Toll Plazas",
+  "short_title": "Toll Plaza Signals",
+  "description": "Restrictions on signal-like devices at toll lanes, and the specific use of lane-use control signals and Warning Beacons within a toll plaza.",
+  "sections": [
+    {"id": "sec-r-01", "code": "4R.01", "title": "Traffic Signals at Toll Plazas"},
+    {"id": "sec-r-02", "code": "4R.02", "title": "Lane-Use Control Signals at or Near Toll Plazas"},
+    {"id": "sec-r-03", "code": "4R.03", "title": "Warning Beacons at Toll Plazas"}
+  ],
+  "figure_count": 0,
+  "source_pages": 1
+}

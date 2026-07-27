@@ -1,0 +1,16 @@
+{
+  "part_num": 9,
+  "chapter_letter": "f",
+  "chapter_code": "9F",
+  "file": "f-signals.html",
+  "title": "Signals",
+  "short_title": "Signals",
+  "description": "A brief chapter covering signal warrant application for bicycles, the requirement to pair bicycle signal faces with the Bicycle Signal sign, and signal operations adjustments for bicyclists — with the substantive design content cross-referenced to Part 4, Chapter 4H.",
+  "sections": [
+    {"id": "sec-f-01", "code": "9F.01", "title": "Application"},
+    {"id": "sec-f-02", "code": "9F.02", "title": "Bicycle Signal Faces"},
+    {"id": "sec-f-03", "code": "9F.03", "title": "Signal Operations for Bicycles"}
+  ],
+  "figure_count": 0,
+  "source_pages": 1
+}

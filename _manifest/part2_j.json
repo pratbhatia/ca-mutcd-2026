@@ -1,0 +1,26 @@
+{
+  "part_num": 2,
+  "chapter_letter": "j",
+  "chapter_code": "2J",
+  "file": "j-specific-service-signs.html",
+  "title": "Specific Service Signs",
+  "short_title": "Specific Service Signs",
+  "description": "The Logo Sign Program — blue guide signs with business identification (logo) panels for eligible gas/fuel, food, lodging, camping, attraction, and EV charging businesses at rural interchanges and intersections.",
+  "sections": [
+    {"id": "sec-j-01", "code": "2J.01", "title": "Eligibility"},
+    {"id": "sec-j-02", "code": "2J.02", "title": "Application"},
+    {"id": "sec-j-03", "code": "2J.03", "title": "Logos and Business Identification Sign Panels"},
+    {"id": "sec-j-04", "code": "2J.04", "title": "Number and Size of Signs and Business Identification Sign Panels"},
+    {"id": "sec-j-05", "code": "2J.05", "title": "Size of Lettering"},
+    {"id": "sec-j-06", "code": "2J.06", "title": "Signs at Interchanges"},
+    {"id": "sec-j-07", "code": "2J.07", "title": "Single-Exit Interchanges"},
+    {"id": "sec-j-08", "code": "2J.08", "title": "Double-Exit Interchanges"},
+    {"id": "sec-j-09", "code": "2J.09", "title": "Collector-Distributor Roadways for Successive Interchanges"},
+    {"id": "sec-j-10", "code": "2J.10", "title": "Specific Service Trailblazer Signs"},
+    {"id": "sec-j-11", "code": "2J.11", "title": "Signs at Intersections"},
+    {"id": "sec-j-12", "code": "2J.12", "title": "Signing Policy"},
+    {"id": "sec-j-101", "code": "2J.101(CA)", "title": "Signs at Ramps (SG42-4(CA), SG42-5(CA), SG42-8(CA) and SG42-12(CA))"}
+  ],
+  "figure_count": 8,
+  "source_pages": 20
+}

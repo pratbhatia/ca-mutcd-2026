@@ -1,0 +1,16 @@
+{
+  "part_num": 3,
+  "chapter_letter": "f",
+  "chapter_code": "3F",
+  "file": "f-markings-for-toll-plazas.html",
+  "title": "Markings for Toll Plazas",
+  "short_title": "Toll Plaza Markings",
+  "description": "Longitudinal lane, purple ETC-supplement, and pavement word/symbol marking requirements that channelize toll-plaza approaches by payment method and separate open-road tolling lanes.",
+  "sections": [
+    {"id": "sec-f-01", "code": "3F.01", "title": "General"},
+    {"id": "sec-f-02", "code": "3F.02", "title": "Longitudinal Markings"},
+    {"id": "sec-f-03", "code": "3F.03", "title": "Pavement Word and Symbol Markings"}
+  ],
+  "figure_count": 0,
+  "source_pages": 2
+}

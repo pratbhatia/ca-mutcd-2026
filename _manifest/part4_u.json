@@ -1,0 +1,15 @@
+{
+  "part_num": 4,
+  "chapter_letter": "u",
+  "chapter_code": "4U",
+  "file": "u-in-roadway-warning-lights.html",
+  "title": "In-Roadway Warning Lights",
+  "short_title": "In-Roadway Warning Lights",
+  "description": "Flush-mounted, roadway-surface warning lights at uncontrolled marked crosswalks — application limits, crosswalk installation requirements, and evaluation criteria.",
+  "sections": [
+    {"id": "sec-u-01", "code": "4U.01", "title": "Application of In-Roadway Warning Lights"},
+    {"id": "sec-u-02", "code": "4U.02", "title": "In-Roadway Warning Lights at Crosswalks"}
+  ],
+  "figure_count": 1,
+  "source_pages": 4
+}

@@ -1,0 +1,23 @@
+{
+  "part_num": 4,
+  "chapter_letter": "c",
+  "chapter_code": "4C",
+  "file": "c-traffic-control-signal-needs-studies.html",
+  "title": "Traffic Control Signal Needs Studies",
+  "short_title": "Signal Needs Studies",
+  "description": "Defines the required engineering study for justifying a traffic control signal and all nine traffic signal warrants with their complete volume, crash, and geometric thresholds.",
+  "sections": [
+    {"id": "sec-4c-01", "code": "4C.01", "title": "Studies and Factors for Justifying Traffic Control Signals"},
+    {"id": "sec-4c-02", "code": "4C.02", "title": "Warrant 1, Eight-Hour Vehicular Volume"},
+    {"id": "sec-4c-03", "code": "4C.03", "title": "Warrant 2, Four-Hour Vehicular Volume"},
+    {"id": "sec-4c-04", "code": "4C.04", "title": "Warrant 3, Peak Hour"},
+    {"id": "sec-4c-05", "code": "4C.05", "title": "Warrant 4, Pedestrian Volume"},
+    {"id": "sec-4c-06", "code": "4C.06", "title": "Warrant 5, School Crossing"},
+    {"id": "sec-4c-07", "code": "4C.07", "title": "Warrant 6, Coordinated Signal System"},
+    {"id": "sec-4c-08", "code": "4C.08", "title": "Warrant 7, Crash Experience"},
+    {"id": "sec-4c-09", "code": "4C.09", "title": "Warrant 8, Roadway Network"},
+    {"id": "sec-4c-10", "code": "4C.10", "title": "Warrant 9, Intersection Near a Grade Crossing"}
+  ],
+  "figure_count": 13,
+  "source_pages": 30
+}

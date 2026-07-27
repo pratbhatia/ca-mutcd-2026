@@ -1,0 +1,318 @@
+{
+  "part_num": 2,
+  "chapter_letter": "d",
+  "chapter_code": "2D",
+  "file": "d-guide-signs.html",
+  "title": "Guide Signs",
+  "short_title": "Guide Signs (Conventional Roads)",
+  "description": "Conventional road guide signs: route markers, destination and distance signing, street name signs, and other non-freeway guide signing for the traveling public.",
+  "sections": [
+    {
+      "id": "sec-2d-01",
+      "code": "2D.01",
+      "title": "Scope of Conventional Road Guide Sign Standards and Application"
+    },
+    {
+      "id": "sec-2d-02",
+      "code": "2D.02",
+      "title": "Color, Retroreflection, and Illumination"
+    },
+    {
+      "id": "sec-2d-03",
+      "code": "2D.03",
+      "title": "Size of Signs"
+    },
+    {
+      "id": "sec-2d-04",
+      "code": "2D.04",
+      "title": "Lettering Style"
+    },
+    {
+      "id": "sec-2d-05",
+      "code": "2D.05",
+      "title": "Size of Lettering"
+    },
+    {
+      "id": "sec-2d-06",
+      "code": "2D.06",
+      "title": "Amount of Legend"
+    },
+    {
+      "id": "sec-2d-07",
+      "code": "2D.07",
+      "title": "Abbreviations"
+    },
+    {
+      "id": "sec-2d-08",
+      "code": "2D.08",
+      "title": "Arrows"
+    },
+    {
+      "id": "sec-2d-09",
+      "code": "2D.09",
+      "title": "Numbered Highway Systems"
+    },
+    {
+      "id": "sec-2d-10",
+      "code": "2D.10",
+      "title": "Route Signs and Auxiliary Plaques"
+    },
+    {
+      "id": "sec-2d-11",
+      "code": "2D.11",
+      "title": "Design of Route Signs"
+    },
+    {
+      "id": "sec-2d-12",
+      "code": "2D.12",
+      "title": "Design of Route Sign Auxiliary Plaques"
+    },
+    {
+      "id": "sec-2d-13",
+      "code": "2D.13",
+      "title": "Junction Auxiliary Plaque (M2-1P)"
+    },
+    {
+      "id": "sec-2d-14",
+      "code": "2D.14",
+      "title": "Combination Junction Sign (M2-2)"
+    },
+    {
+      "id": "sec-2d-15",
+      "code": "2D.15",
+      "title": "Cardinal Direction Auxiliary Plaques (M3-1P through M3-4P)"
+    },
+    {
+      "id": "sec-2d-16",
+      "code": "2D.16",
+      "title": "Alternative Route Auxiliary Plaques (M4-1P through M4-4P)"
+    },
+    {
+      "id": "sec-2d-17",
+      "code": "2D.17",
+      "title": "ALTERNATE Auxiliary Plaques (M4-1P and M4-1aP)"
+    },
+    {
+      "id": "sec-2d-18",
+      "code": "2D.18",
+      "title": "BY-PASS Auxiliary Plaque (M4-2P)"
+    },
+    {
+      "id": "sec-2d-19",
+      "code": "2D.19",
+      "title": "BUSINESS Auxiliary Plaque (M4-3P)"
+    },
+    {
+      "id": "sec-2d-20",
+      "code": "2D.20",
+      "title": "TRUCK Auxiliary Plaque (M4-4P)"
+    },
+    {
+      "id": "sec-2d-21",
+      "code": "2D.21",
+      "title": "TO Auxiliary Plaque (M4-5P)"
+    },
+    {
+      "id": "sec-2d-22",
+      "code": "2D.22",
+      "title": "END Auxiliary Plaque (M4-6P)"
+    },
+    {
+      "id": "sec-2d-23",
+      "code": "2D.23",
+      "title": "BEGIN Auxiliary Plaque (M4-14P)"
+    },
+    {
+      "id": "sec-2d-24",
+      "code": "2D.24",
+      "title": "TEMPORARY Auxiliary Plaques (M4-7P and M4-7aP)"
+    },
+    {
+      "id": "sec-2d-25",
+      "code": "2D.25",
+      "title": "Temporary Detour Signs and Auxiliary Plaques"
+    },
+    {
+      "id": "sec-2d-26",
+      "code": "2D.26",
+      "title": "Advance Turn Arrow Auxiliary Plaques (M5-1P, M5-2P, and M5-3P)"
+    },
+    {
+      "id": "sec-2d-27",
+      "code": "2D.27",
+      "title": "Lane Designation Auxiliary Plaques (M5-4P, M5-5P, and M5-6P)"
+    },
+    {
+      "id": "sec-2d-28",
+      "code": "2D.28",
+      "title": "Directional Arrow Auxiliary Plaques (M6 Series)"
+    },
+    {
+      "id": "sec-2d-29",
+      "code": "2D.29",
+      "title": "Route Sign Assemblies"
+    },
+    {
+      "id": "sec-2d-30",
+      "code": "2D.30",
+      "title": "Junction Assembly"
+    },
+    {
+      "id": "sec-2d-31",
+      "code": "2D.31",
+      "title": "Advance Route Turn Assembly"
+    },
+    {
+      "id": "sec-2d-32",
+      "code": "2D.32",
+      "title": "Directional Assembly"
+    },
+    {
+      "id": "sec-2d-33",
+      "code": "2D.33",
+      "title": "Confirming or Reassurance Assemblies"
+    },
+    {
+      "id": "sec-2d-34",
+      "code": "2D.34",
+      "title": "Trailblazer Assembly"
+    },
+    {
+      "id": "sec-2d-35",
+      "code": "2D.35",
+      "title": "Destination and Distance Signs"
+    },
+    {
+      "id": "sec-2d-36",
+      "code": "2D.36",
+      "title": "Destination Signs (D1 Series)"
+    },
+    {
+      "id": "sec-2d-37",
+      "code": "2D.37",
+      "title": "Overhead Arrow-per-Lane Destination Guide Signs"
+    },
+    {
+      "id": "sec-2d-38",
+      "code": "2D.38",
+      "title": "Combination Lane-Use/Destination Overhead Guide Sign (D15-1)"
+    },
+    {
+      "id": "sec-2d-39",
+      "code": "2D.39",
+      "title": "Destination Signs at Circular Intersections"
+    },
+    {
+      "id": "sec-2d-40",
+      "code": "2D.40",
+      "title": "Destination Signs at Jughandles"
+    },
+    {
+      "id": "sec-2d-41",
+      "code": "2D.41",
+      "title": "Destination Signs at Intersections with Indirect Turning Movements"
+    },
+    {
+      "id": "sec-2d-42",
+      "code": "2D.42",
+      "title": "Location of Destination Signs"
+    },
+    {
+      "id": "sec-2d-43",
+      "code": "2D.43",
+      "title": "Distance Signs (D2 Series)"
+    },
+    {
+      "id": "sec-2d-44",
+      "code": "2D.44",
+      "title": "Location of Distance Signs"
+    },
+    {
+      "id": "sec-2d-45",
+      "code": "2D.45",
+      "title": "Street Name Signs (D3-1 and D3-1a)"
+    },
+    {
+      "id": "sec-2d-46",
+      "code": "2D.46",
+      "title": "Advance Street Name Signs (D3-2 Series)"
+    },
+    {
+      "id": "sec-2d-47",
+      "code": "2D.47",
+      "title": "Parking Area Guide Sign (D4-1)"
+    },
+    {
+      "id": "sec-2d-48",
+      "code": "2D.48",
+      "title": "PARK - RIDE Sign (D4-2)"
+    },
+    {
+      "id": "sec-2d-49",
+      "code": "2D.49",
+      "title": "Signing on Conventional Roads on Approaches to Interchanges"
+    },
+    {
+      "id": "sec-2d-50",
+      "code": "2D.50",
+      "title": "Freeway Entrance Signs (D13-3 and D13-3a)"
+    },
+    {
+      "id": "sec-2d-51",
+      "code": "2D.51",
+      "title": "WEIGH STATION Signing (D8 Series)"
+    },
+    {
+      "id": "sec-2d-52",
+      "code": "2D.52",
+      "title": "Crossover Signs (D13-1 and D13-2)"
+    },
+    {
+      "id": "sec-2d-53",
+      "code": "2D.53",
+      "title": "Truck and Passing Lane Signs (D17-1 through D17-4)"
+    },
+    {
+      "id": "sec-2d-54",
+      "code": "2D.54",
+      "title": "Emergency and Slow Vehicle Turn-Out Signs (D17-5 through D17-7)"
+    },
+    {
+      "id": "sec-2d-55",
+      "code": "2D.55",
+      "title": "Community Wayfinding Signs"
+    },
+    {
+      "id": "sec-2d-56",
+      "code": "2D.56",
+      "title": "Signing of Named Highways for Mapping and Address Purposes"
+    },
+    {
+      "id": "sec-2d-57",
+      "code": "2D.57",
+      "title": "National Scenic Byways Sign and Plaque (M10-1 and M10-1aP)"
+    },
+    {
+      "id": "sec-2d-58",
+      "code": "2D.58",
+      "title": "State-Designated Scenic Byway, Historic Trail, and Auto Tour Route Signs"
+    },
+    {
+      "id": "sec-2d-59",
+      "code": "2D.59",
+      "title": "Emergency Routing Signs and Plaques (M4-11 and M4-12 Series)"
+    },
+    {
+      "id": "sec-2d-60",
+      "code": "2D.60",
+      "title": "Signing at Airports"
+    },
+    {
+      "id": "sec-2d-101ca",
+      "code": "2D.101(CA)",
+      "title": "Intersection Number (G98A(CA)) Sign"
+    }
+  ],
+  "figure_count": 37,
+  "source_pages": 105
+}

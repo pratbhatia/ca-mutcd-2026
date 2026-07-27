@@ -1,0 +1,26 @@
+{
+  "part_num": 6,
+  "chapter_letter": "k",
+  "chapter_code": "6K",
+  "file": "k-ttc-zone-channelizing-devices.html",
+  "title": "TTC Zone Channelizing Devices",
+  "short_title": "Channelizing Devices",
+  "description": "Design, sizing, retroreflectivity, and spacing rules for cones, tubular markers, channelizers, delineators, vertical panels, drums, barricades, temporary barriers, longitudinal channelizing devices, and lane separators.",
+  "sections": [
+    {"id": "sec-k-01", "code": "6K.01", "title": "Channelizing Devices — General"},
+    {"id": "sec-k-02", "code": "6K.02", "title": "Pedestrian Channelizing Devices"},
+    {"id": "sec-k-03", "code": "6K.03", "title": "Cones"},
+    {"id": "sec-k-04", "code": "6K.04", "title": "Tubular Markers"},
+    {"id": "sec-k-05", "code": "6K.05", "title": "Vertical Panels"},
+    {"id": "sec-k-06", "code": "6K.06", "title": "Drums"},
+    {"id": "sec-k-07", "code": "6K.07", "title": "Type 1, 2, or 3 Barricades"},
+    {"id": "sec-k-08", "code": "6K.08", "title": "Direction Indicator Barricades"},
+    {"id": "sec-k-09", "code": "6K.09", "title": "Temporary Traffic Barriers as Channelizing Devices"},
+    {"id": "sec-k-10", "code": "6K.10", "title": "Longitudinal Channelizing Devices"},
+    {"id": "sec-k-11", "code": "6K.11", "title": "Temporary Lane Separators"},
+    {"id": "sec-k-12", "code": "6K.12", "title": "Other Channelizing Devices"},
+    {"id": "sec-k-tables", "code": "Table 6K-101(CA)", "title": "Maximum Spacing of Channelizing Devices"}
+  ],
+  "figure_count": 3,
+  "source_pages": 13
+}

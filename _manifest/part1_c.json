@@ -1,0 +1,16 @@
+{
+  "part_num": 1,
+  "chapter_letter": "c",
+  "chapter_code": "1C",
+  "file": "c-definitions-acronyms-and-abbreviations-used-in.html",
+  "title": "Definitions, Acronyms, and Abbreviations Used in This Manual",
+  "short_title": "Definitions & Acronyms",
+  "description": "The Manual's master glossary: defines the Standard/Guidance/Option/Support headings, every defined word and phrase (including California Vehicle Code cross-references), and all acronyms and abbreviations used throughout the California MUTCD.",
+  "sections": [
+    {"id": "sec-1c-01", "code": "1C.01", "title": "Definitions of Headings Used in This Manual"},
+    {"id": "sec-1c-02", "code": "1C.02", "title": "Definitions of Words and Phrases Used in This Manual"},
+    {"id": "sec-1c-03", "code": "1C.03", "title": "Meanings of Acronyms and Abbreviations Used in This Manual"}
+  ],
+  "figure_count": 0,
+  "source_pages": 25
+}

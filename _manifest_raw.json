@@ -1,0 +1,5994 @@
+{
+  "1a-1.pdf": {
+    "chapter_code": "1A",
+    "chapter_title": "GENERAL",
+    "part_num": "1",
+    "pages": 12,
+    "sections": [
+      [
+        "1A.01",
+        "Purpose of the MUTCD"
+      ],
+      [
+        "1B.01",
+        "and 1C"
+      ],
+      [
+        "1A.02",
+        "Traffic Control Devices"
+      ],
+      [
+        "1C.02",
+        "of this Manual, traffic control devices include all signs, signals, markings, ch"
+      ],
+      [
+        "1A.03",
+        "Target Road Users"
+      ],
+      [
+        "1A.04",
+        "Use of the MUTCD"
+      ],
+      [
+        "4D.08",
+        "of this Manual would be referenced in writing as"
+      ],
+      [
+        "1A.05",
+        "Relation to Other Publications"
+      ],
+      [
+        "1A.06",
+        "Uniform Vehicle Code"
+      ],
+      [
+        "3B.12",
+        "for lane-reduction"
+      ],
+      [
+        "2C.48",
+        "for information about"
+      ]
+    ]
+  },
+  "1b-2.pdf": {
+    "chapter_code": "1B",
+    "chapter_title": "LEGAL REQUIREMENTS FOR TRAFFIC CONTROL DEVICES",
+    "part_num": null,
+    "pages": 18,
+    "sections": [
+      [
+        "1B.01",
+        "National Standard"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "1D.02",
+        "for more information"
+      ],
+      [
+        "1B.02",
+        "State Adoption and Conformance"
+      ],
+      [
+        "1A.01",
+        "for information on Caltrans"
+      ],
+      [
+        "1B.03",
+        "Compliance of Devices"
+      ],
+      [
+        "1B.04",
+        "Interpretations"
+      ],
+      [
+        "1B.08",
+        "contains information on submitting a request for interpretation"
+      ],
+      [
+        "1B.05",
+        "Experimentation"
+      ],
+      [
+        "1B.06",
+        "Changes to the MUTCD"
+      ],
+      [
+        "1B.07",
+        "Interim Approvals"
+      ],
+      [
+        "8B.03",
+        "and Paragraphs 15 and 18 in"
+      ],
+      [
+        "4D.26",
+        "August 1, 2015"
+      ]
+    ]
+  },
+  "1c-1.pdf": {
+    "chapter_code": "1C",
+    "chapter_title": "DEFINITIONS, ACRONYMS, AND ABBREVIATIONS USED IN THIS MANUAL",
+    "part_num": null,
+    "pages": 25,
+    "sections": [
+      [
+        "1C.01",
+        "Definitions of Headings Used in this Manual"
+      ],
+      [
+        "1C.02",
+        "Definitions of Words and Phrases Used in this Manual"
+      ],
+      [
+        "1D.11",
+        "contains additional information"
+      ],
+      [
+        "5A.03",
+        "contains descriptions of the automation levels"
+      ],
+      [
+        "1A.02",
+        "contains information regarding items that are not traffic control"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "1C.03",
+        "Meanings of Acronyms and Abbreviations Used in this Manual"
+      ]
+    ]
+  },
+  "1d-1.pdf": {
+    "chapter_code": "1D",
+    "chapter_title": "PROVISIONS APPLICABLE TO TRAFFIC CONTROL DEVICES IN GENERAL",
+    "part_num": null,
+    "pages": 10,
+    "sections": [
+      [
+        "1D.01",
+        "Purpose and Principles of Traffic Control Devices"
+      ],
+      [
+        "1A.03",
+        "contains additional information"
+      ],
+      [
+        "1D.02",
+        "Responsibility and Authority for Traffic Control Devices"
+      ],
+      [
+        "1D.03",
+        "Engineering Study and Engineering Judgment"
+      ],
+      [
+        "1D.04",
+        "Design of Traffic Control Devices"
+      ],
+      [
+        "1D.05",
+        "Color Code"
+      ],
+      [
+        "1D.06",
+        "Public Domain, Copyrights, and Patents"
+      ],
+      [
+        "1D.07",
+        "Advertising"
+      ],
+      [
+        "1D.08",
+        "Abbreviations Used on Traffic Control Devices"
+      ],
+      [
+        "1D.09",
+        "Placement and Operation of Traffic Control Devices"
+      ],
+      [
+        "2A.02",
+        "contains information on excessive use of signs and other considerations that can"
+      ],
+      [
+        "1D.10",
+        "Maintenance of Traffic Control Devices"
+      ],
+      [
+        "1D.11",
+        "Crashworthiness of Traffic Control Devices and Other Roadside Appurtenances"
+      ],
+      [
+        "1A.05",
+        "for information regarding this publication"
+      ]
+    ]
+  },
+  "2a.pdf": {
+    "chapter_code": "2A",
+    "chapter_title": "GENERAL",
+    "part_num": "2",
+    "pages": 32,
+    "sections": [
+      [
+        "2A.01",
+        "Function and Purpose of Signs"
+      ],
+      [
+        "2A.02",
+        "Standardization of Application"
+      ],
+      [
+        "2A.03",
+        "Classification of Signs"
+      ],
+      [
+        "2A.04",
+        "Design of Signs"
+      ],
+      [
+        "1A.05",
+        "contains information"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "2A.05",
+        "Shapes"
+      ],
+      [
+        "2A.06",
+        "Colors"
+      ],
+      [
+        "2J.03",
+        "for business identification sign panels"
+      ],
+      [
+        "2A.07",
+        "Dimensions"
+      ],
+      [
+        "2A.08",
+        "Word Messages"
+      ],
+      [
+        "2D.03",
+        "contains information regarding the acceptable methods of modifying the length of"
+      ],
+      [
+        "2A.09",
+        "Symbols"
+      ],
+      [
+        "2M.07",
+        "contains provisions for the use of recreational and cultural interest area symbo"
+      ],
+      [
+        "2A.10",
+        "Sign Borders"
+      ],
+      [
+        "2A.12",
+        "contains information regarding the use of light-emitting diode (LED) units withi"
+      ],
+      [
+        "2A.11",
+        "Enhanced Conspicuity for Standard Signs"
+      ],
+      [
+        "2A.20",
+        "contains information on"
+      ],
+      [
+        "4S.03",
+        "for the use of Warning Beacons to indicate when a regulatory or warning message "
+      ],
+      [
+        "6D.02",
+        "contains information about STOP/SLOW paddles used by flaggers"
+      ],
+      [
+        "7D.02",
+        "contains"
+      ],
+      [
+        "2A.13",
+        "Standardization of Location"
+      ],
+      [
+        "2A.14",
+        "Overhead Sign Installations"
+      ],
+      [
+        "2A.15",
+        "Mounting Height"
+      ],
+      [
+        "9A.02",
+        "contains provisions for the minimum mounting height of signs on shared-use paths"
+      ],
+      [
+        "2D.29",
+        "and 2D"
+      ],
+      [
+        "2A.16",
+        "Lateral Offset"
+      ],
+      [
+        "2A.17",
+        "Orientation"
+      ],
+      [
+        "2A.18",
+        "Posts and Mountings"
+      ],
+      [
+        "2A.19",
+        "Maintenance"
+      ],
+      [
+        "2A.21",
+        "Retroreflection and Illumination"
+      ],
+      [
+        "2A.22",
+        "Maintaining Minimum Retroreflectivity"
+      ],
+      [
+        "2A.23",
+        "Median Opening Treatments for Divided Highways"
+      ],
+      [
+        "2C.41",
+        "for the application of the W2-1 sign"
+      ],
+      [
+        "2C.35",
+        "for the application of the W3-1 sign"
+      ],
+      [
+        "2B.27",
+        "for the application of Intersection"
+      ]
+    ]
+  },
+  "2b.pdf": {
+    "chapter_code": "2B",
+    "chapter_title": "REGULATORY SIGNS, BARRICADES, AND GATES",
+    "part_num": null,
+    "pages": 153,
+    "sections": [
+      [
+        "2B.01",
+        "Application of Regulatory Signs"
+      ],
+      [
+        "2B.02",
+        "Design of Regulatory Signs"
+      ],
+      [
+        "2B.03",
+        "Size of Regulatory Signs"
+      ],
+      [
+        "2A.07",
+        "contains information regarding the applicability of the various columns in Table"
+      ],
+      [
+        "2B.04",
+        "STOP Sign (R1-1) and ALL-WAY Plaque (R1-3P)"
+      ],
+      [
+        "1A.05",
+        "for information"
+      ],
+      [
+        "2B.05",
+        "YIELD Sign (R1-2)"
+      ],
+      [
+        "2B.06",
+        "General Considerations"
+      ],
+      [
+        "2B.07",
+        "contains guidance on selecting the minor road"
+      ],
+      [
+        "9B.01",
+        "contains provisions regarding the assignment of priority where a shared-use path"
+      ],
+      [
+        "2B.08",
+        "Right-of-Way Intersection Control Considerations"
+      ],
+      [
+        "2B.09",
+        "No Intersection Control"
+      ],
+      [
+        "2B.10",
+        "Yield Control"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "2B.11",
+        "Minor Road Stop Control"
+      ],
+      [
+        "2B.12",
+        "All-Way Stop Control"
+      ],
+      [
+        "2B.13",
+        "All-Way Stop Control Warrant A"
+      ],
+      [
+        "2B.14",
+        "All-Way Stop Control Warrant B"
+      ],
+      [
+        "2B.15",
+        "All-Way Stop Control Warrant C"
+      ],
+      [
+        "2B.16",
+        "All-Way Stop Control Warrant D"
+      ],
+      [
+        "2B.17",
+        "All-Way Stop Control Warrant E"
+      ],
+      [
+        "2B.18",
+        "STOP Sign or YIELD Sign Placement"
+      ],
+      [
+        "2A.05",
+        "contains information about mounting signs back-to-back with a STOP or YIELD sign"
+      ],
+      [
+        "2A.13",
+        "contains additional information about separate and combined mounting of other si"
+      ],
+      [
+        "2B.19",
+        "Yield Here To Pedestrians Signs and Stop Here For Pedestrians Signs (R1-5 Series"
+      ],
+      [
+        "3B.19",
+        "and Figure 3B-16)"
+      ],
+      [
+        "2B.20",
+        "In-Street and Overhead Pedestrian and Trail Crossing Signs (R1-6 and R1-9 Series"
+      ],
+      [
+        "3I.02",
+        "contains information about the use of tubular markers to provide additional emph"
+      ],
+      [
+        "2A.15",
+        "concerning mounting height are not applicable for the In-Street Pedestrian Cross"
+      ],
+      [
+        "2A.18",
+        "contains information about sign mounting methods"
+      ],
+      [
+        "2B.21",
+        "Speed Limit Sign (R2-1)"
+      ],
+      [
+        "6B.01",
+        "for speed limit signs in temporary traffic control zones"
+      ],
+      [
+        "2B.22",
+        "for TRUCK and BUS speed zone signs"
+      ],
+      [
+        "2C.40",
+        "contains information about the use of speed zone signs to inform road users of a"
+      ],
+      [
+        "2C.13",
+        "contains information about the use of a Vehicle Speed Feedback plaque mounted be"
+      ],
+      [
+        "2B.23",
+        "Night Speed Limit Plaque (R2-3P)"
+      ],
+      [
+        "2B.24",
+        "Minimum Speed Limit Plaque (R2-4P) and Combined Maximum and Minimum Speed"
+      ],
+      [
+        "2B.25",
+        "Higher Fines Signs and Plaque (R2-6P, R2-10, and R2-11)"
+      ],
+      [
+        "6G.08",
+        "and CVC"
+      ],
+      [
+        "2B.26",
+        "Movement Prohibition Signs (R3-1 through R3-4, R3-18, and R3-27)"
+      ],
+      [
+        "2B.27",
+        "Intersection Lane Control Signs (R3-5 through R3-8)"
+      ],
+      [
+        "2B.28",
+        "Mandatory Movement Lane Control Signs (R3-5, R3-5a, R3-7, R3-19 Series, and R3-2"
+      ],
+      [
+        "2C.50",
+        "for warning signs used in advance of the R3-7 sign"
+      ],
+      [
+        "2B.29",
+        "Optional Movement Lane Control Signs (R3-6 Series)"
+      ],
+      [
+        "2B.30",
+        "Advance Intersection Lane Control Signs (R3-8 Series)"
+      ],
+      [
+        "2B.31",
+        "RIGHT (LEFT) LANE MUST EXIT Signs (R3-33, R3-33a)"
+      ],
+      [
+        "2B.32",
+        "Two-Way Left-Turn-Only Signs (R3-9a and R3-9b) and Plaques"
+      ],
+      [
+        "2B.33",
+        "BEGIN and END Plaques (R3-9cP and R3-9dP)"
+      ],
+      [
+        "2B.34",
+        "Reversible Lane Control Signs (R3-9e through R3-9i)"
+      ],
+      [
+        "2B.35",
+        "Jughandle Signs (R3-23, R3-24, R3-25, and R3-26 Series)"
+      ],
+      [
+        "2C.12",
+        "contains information regarding the use of advisory exit and ramp speed signs for"
+      ],
+      [
+        "2D.40",
+        "contains information regarding the use of guide signs for jughandles"
+      ],
+      [
+        "2B.36",
+        "DO NOT PASS Sign (R4-1)"
+      ],
+      [
+        "2B.37",
+        "PASS WITH CARE Sign (R4-2)"
+      ],
+      [
+        "2B.38",
+        "KEEP RIGHT EXCEPT TO PASS Sign (R4-16), SLOWER TRAFFIC KEEP RIGHT Sign"
+      ],
+      [
+        "3B.12",
+        "and Figure 3B-14)"
+      ],
+      [
+        "3B.01",
+        "for further details"
+      ],
+      [
+        "2B.39",
+        "Keep Right and Keep Left Signs (R4-7 Series and R4-8 Series)"
+      ],
+      [
+        "2B.49",
+        "provides more information about the use of the Keep Right sign in combination wi"
+      ],
+      [
+        "2B.40",
+        "STAY IN LANE Sign (R4-9)"
+      ],
+      [
+        "2B.41",
+        "RUNAWAY VEHICLES ONLY Sign (R4-10)"
+      ],
+      [
+        "2B.42",
+        "Slow Vehicle Turn-Out Signs (R4-12, R4-13, and R4-14)"
+      ],
+      [
+        "2D.54",
+        "contains information regarding advance information signs for slow vehicle turn-o"
+      ],
+      [
+        "2B.43",
+        "DO NOT DRIVE ON SHOULDER Sign (R4-17) and DO NOT PASS ON SHOULDER"
+      ],
+      [
+        "2B.44",
+        "ALL TRAFFIC Sign (R4-20) and RIGHT (LEFT) TURN ONLY Sign (R4-21)"
+      ],
+      [
+        "2B.45",
+        "Selective Exclusion Signs and Plaques"
+      ],
+      [
+        "2E.59",
+        "for additional details"
+      ],
+      [
+        "2B.46",
+        "DO NOT ENTER Sign (R5-1)"
+      ],
+      [
+        "2B.48",
+        "(see Figure"
+      ],
+      [
+        "2A.12",
+        "contains the provisions for the use of continuously-operated or actuated LEDs to"
+      ],
+      [
+        "2B.47",
+        "WRONG WAY Sign (R5-1a)"
+      ],
+      [
+        "2B.50",
+        "Divided Highway Crossing Signs (R6-3 and R6-3a)"
+      ],
+      [
+        "2B.51",
+        "Roundabout Circulation Plaque (R6-5P)"
+      ],
+      [
+        "2B.52",
+        "Parking, Standing, and Stopping Signs (R7 and R8 Series)"
+      ],
+      [
+        "3B.20",
+        "for"
+      ],
+      [
+        "2B.53",
+        "Design of Parking, Standing, and Stopping Signs"
+      ],
+      [
+        "2B.54",
+        "Placement of Parking, Standing, and Stopping Signs"
+      ],
+      [
+        "2B.55",
+        "Emergency Restriction Signs (R8-4 and R8-7)"
+      ],
+      [
+        "8B.07",
+        "contains information for the use of the DO NOT STOP ON TRACKS (R8-8) sign (see F"
+      ],
+      [
+        "2B.56",
+        "WALK ON LEFT FACING TRAFFIC and No Hitchhiking Signs (R9-1, R9-4, and R9-4a)"
+      ],
+      [
+        "2B.57",
+        "Pedestrian Crossing Signs (R9-2 and R9-3)"
+      ],
+      [
+        "2B.58",
+        "Traffic Signal Pedestrian and Bicyclist Actuation Signs (R10-1 through R10-4 and"
+      ],
+      [
+        "4U.02",
+        "for standards related to the R10-25 sign"
+      ],
+      [
+        "4I.05",
+        "contains information regarding the application of the R10-32P plaque"
+      ],
+      [
+        "2B.59",
+        "Traffic Signal Signs and Plaques (R10-5 through R10-30)"
+      ],
+      [
+        "2B.60",
+        "No Turn on Red Signs (R10-11 Series, R10-17a, and R10-30)"
+      ],
+      [
+        "2B.61",
+        "Ramp Metering Signs (R10-28 and R10-29)"
+      ],
+      [
+        "2B.62",
+        "KEEP OFF MEDIAN Sign (R11-1)"
+      ],
+      [
+        "2B.63",
+        "ROAD CLOSED Sign (R11-2) and LOCAL TRAFFIC ONLY Signs (R11-3 Series, R11-4)"
+      ],
+      [
+        "2B.64",
+        "Weight Limit Signs (R12-1 through R12-7)"
+      ],
+      [
+        "2B.65",
+        "Weigh Station Sign (R13-1)"
+      ],
+      [
+        "2B.66",
+        "TRUCK ROUTE Sign (R14-1)"
+      ],
+      [
+        "2D.20",
+        "contains information regarding the use of the TRUCK (M4-4P) auxiliary plaque (se"
+      ],
+      [
+        "2B.67",
+        "Hazardous Material Signs (R14-2 and R14-3)"
+      ],
+      [
+        "2B.68",
+        "National Network Signs (R14-4 and R14-5)"
+      ],
+      [
+        "2B.69",
+        "Photo Enforced Signs and Plaques (R10-18, R10-18a, R10-19P, R10-19aP)"
+      ],
+      [
+        "2B.70",
+        "Move Vehicles from Travel Lanes Sign (R16-4)"
+      ],
+      [
+        "2A.01",
+        "to require motorists to move their vehicle out of the"
+      ],
+      [
+        "2B.71",
+        "Move Over or Reduce Speed Sign (R16-3)"
+      ],
+      [
+        "2B.72",
+        "No Hand-Held Phone Use by Driver Signs (R16-15 and R16-15a)"
+      ],
+      [
+        "2B.73",
+        "Headlight Use Signs (R16-5 through R16-11)"
+      ],
+      [
+        "2B.74",
+        "Seat Belt Symbol"
+      ],
+      [
+        "2B.75",
+        "Barricades"
+      ],
+      [
+        "6K.07",
+        "for a Type 3 Barricade, except that the colors of"
+      ],
+      [
+        "2B.76",
+        "Gates"
+      ],
+      [
+        "8D.03",
+        "Paragraph 5 if the Gate arm extends beyond 32 feet"
+      ],
+      [
+        "2D.39",
+        "for guide"
+      ]
+    ]
+  },
+  "2c.pdf": {
+    "chapter_code": "2C",
+    "chapter_title": "WARNING SIGNS AND OBJECT MARKERS",
+    "part_num": null,
+    "pages": 81,
+    "sections": [
+      [
+        "2C.01",
+        "Application of Warning Signs"
+      ],
+      [
+        "2C.02",
+        "Design of Warning Signs"
+      ],
+      [
+        "2A.05",
+        "contains information on allowable methods to accommodate a diamond-shaped warnin"
+      ],
+      [
+        "2A.09",
+        "for the use of educational plaques"
+      ],
+      [
+        "2C.03",
+        "Size of Warning Signs and Plaques"
+      ],
+      [
+        "2A.07",
+        "contains information regarding the applicability of the various columns in Table"
+      ],
+      [
+        "2C.04",
+        "Placement of Warning Signs"
+      ],
+      [
+        "2C.05",
+        "Horizontal Alignment Warning Signs"
+      ],
+      [
+        "2C.06",
+        "Device Selection for Changes in Horizontal Alignment"
+      ],
+      [
+        "2C.07",
+        "Horizontal Alignment Signs (W1-1 through W1-5, W1-11, and W1-15)"
+      ],
+      [
+        "2C.35",
+        "for use of an oversized square shape version of W1-1 at a short ramp length with"
+      ],
+      [
+        "2C.08",
+        "Chevron Alignment Sign (W1-8)"
+      ],
+      [
+        "2C.09",
+        "Combination Horizontal Alignment/Intersection Signs (W1-10 Series)"
+      ],
+      [
+        "2C.65",
+        "contains information about the use of an advance street name plaque to identify "
+      ],
+      [
+        "2C.10",
+        "One-Direction Large Arrow Sign (W1-6)"
+      ],
+      [
+        "2C.59",
+        "for use of the Confirmation Advisory Speed Plaque (W13-1aP)"
+      ],
+      [
+        "2C.11",
+        "Truck Rollover Sign (W1-13)"
+      ],
+      [
+        "2C.12",
+        "Advisory Exit and Ramp Speed Signs (W13-2 and W13-3) and Combination Horizontal"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "2C.13",
+        "Vehicle Speed Feedback Sign and Plaque (W13-20 and W13-20aP)"
+      ],
+      [
+        "2C.14",
+        "Hill Signs (W7-1 and W7-1a)"
+      ],
+      [
+        "2C.15",
+        "Truck Escape Ramp Signs (W7-4 Series)"
+      ],
+      [
+        "2C.16",
+        "HILL BLOCKS VIEW Sign (W7-6)"
+      ],
+      [
+        "2C.17",
+        "ROAD NARROWS Sign (W5-1)"
+      ],
+      [
+        "2C.18",
+        "NARROW BRIDGE and NARROW UNDERPASS Signs (W5-2 and W5-2a)"
+      ],
+      [
+        "2C.19",
+        "ONE LANE BRIDGE and ONE LANE UNDERPASS Signs (W5-3 and W5-3a)"
+      ],
+      [
+        "2C.20",
+        "Divided Highway Sign (W6-1)"
+      ],
+      [
+        "2C.21",
+        "Divided Highway Ends Sign (W6-2)"
+      ],
+      [
+        "2C.22",
+        "Freeway or Expressway Ends Signs (W19 Series)"
+      ],
+      [
+        "2C.23",
+        "Double Arrow Sign (W12-1)"
+      ],
+      [
+        "2C.24",
+        "DEAD END, NO OUTLET, and ROAD ENDS Signs (W14-1, W14-1a, W14-2, W14-2a,"
+      ],
+      [
+        "2C.25",
+        "Low Clearance Signs (W12-2, W12-2a, and W12-2b)"
+      ],
+      [
+        "2C.26",
+        "BUMP and DIP Signs (W8-1 and W8-2)"
+      ],
+      [
+        "2C.27",
+        "SPEED HUMP Sign (W17-1)"
+      ],
+      [
+        "2C.28",
+        "PAVEMENT ENDS Sign (W8-3)"
+      ],
+      [
+        "2C.29",
+        "Shoulder Signs (W8-4, W8-9, W8-17, W8-23, and W8-25)"
+      ],
+      [
+        "6H.26",
+        "for use of W8-9 on state highway construction zones"
+      ],
+      [
+        "2C.30",
+        "Surface Condition Signs (W8-5, W8-7, W8-8, W8-11, W8-13, and W8-14)"
+      ],
+      [
+        "2C.31",
+        "Warning Signs and Plaque for Motorcyclists (W8-15, W8-15aP, and W8-16)"
+      ],
+      [
+        "2C.32",
+        "NO CENTER LINE Sign (W8-12)"
+      ],
+      [
+        "2C.33",
+        "NO TRAFFIC SIGNS Sign (W18-1)"
+      ],
+      [
+        "2C.34",
+        "Weather Condition Signs (W8-18, W8-19, W8-21, and W8-22)"
+      ],
+      [
+        "1A.05",
+        "for information regarding this publication"
+      ],
+      [
+        "2C.45",
+        "contains information regarding the use of a NO MERGE AREA (W4-5aP) supplemental "
+      ],
+      [
+        "2C.36",
+        "DRAW BRIDGE Sign (W3-6)"
+      ],
+      [
+        "2C.37",
+        "Advance Ramp Control Signal Signs (W3-7 and W3-8)"
+      ],
+      [
+        "2C.38",
+        "NEW TRAFFIC PATTERN and NEW SIGNAL OPERATION AHEAD Signs (W23-2"
+      ],
+      [
+        "2C.39",
+        "WATCH FOR STOPPED TRAFFIC Sign (W26-1)"
+      ],
+      [
+        "2C.40",
+        "Reduced Speed Limit Ahead and Speed Zone Signs (W3-5, W3-5a, W3-5b, and W3-5c)"
+      ],
+      [
+        "2C.41",
+        "Intersection Warning Signs (W2-1 through W2-8)"
+      ],
+      [
+        "2C.42",
+        "Actuated Advance Intersection Signs (W2-10 and W2-11)"
+      ],
+      [
+        "2C.43",
+        "Two-Direction Large Arrow Sign (W1-7)"
+      ],
+      [
+        "2C.44",
+        "Traffic Signal Oncoming Extended Green Signs (W25-1 and W25-2)"
+      ],
+      [
+        "2C.46",
+        "Added Lane Signs (W4-3 and W4-6)"
+      ],
+      [
+        "2C.47",
+        "Lane Ends Signs (W4-2 and W9-1)"
+      ],
+      [
+        "3B.12",
+        "contains information regarding the use of pavement markings in conjunction with "
+      ],
+      [
+        "2C.48",
+        "Lanes Merge Signs (W9-4 and W4-8)"
+      ],
+      [
+        "6H.08",
+        "contains information about the use of the late merge sign"
+      ],
+      [
+        "2C.49",
+        "HEAVY MERGE FROM LEFT (RIGHT) Sign (W4-7)"
+      ],
+      [
+        "2C.50",
+        "RIGHT (LEFT) LANE FOR EXIT ONLY Sign (W9-7)"
+      ],
+      [
+        "2B.31",
+        "contains information regarding a regulatory sign that can be used for lane drops"
+      ],
+      [
+        "2C.51",
+        "Two-Way Traffic Sign (W6-3)"
+      ],
+      [
+        "6H.17",
+        "contains information on a Narrow Two-Way Traffic (W6-4) sign for use in temporar"
+      ],
+      [
+        "2C.52",
+        "Two-Way Traffic on a Three-Lane Roadway Signs (W6-5 and W6-5a)"
+      ],
+      [
+        "2C.53",
+        "NO PASSING ZONE Sign (W14-3)"
+      ],
+      [
+        "2C.54",
+        "Vehicular Traffic Warning Signs (W8-6, W11-1, W11-5, W11-8, W11-10, W11- 11, W11"
+      ],
+      [
+        "2C.67",
+        "for more information for IN STREET and IN ROAD plaques"
+      ],
+      [
+        "2C.55",
+        "Non-Vehicular Warning Signs (W11-2, W11-3, W11-4, W11-6, W11-7, W11-9, and W11-1"
+      ],
+      [
+        "2C.56",
+        "Playground Sign (W15-1)"
+      ],
+      [
+        "2C.57",
+        "Use of Supplemental Warning Plaques"
+      ],
+      [
+        "2C.58",
+        "Design of Supplemental Warning Plaques"
+      ],
+      [
+        "2C.60",
+        "NEW Plaque (W16-15P)"
+      ],
+      [
+        "2C.61",
+        "Distance Plaques (W16-2 Series, W16-3 Series, W16-4P, and W7-3aP)"
+      ],
+      [
+        "2C.62",
+        "Supplemental Arrow Plaques (W16-5P and W16-6P)"
+      ],
+      [
+        "2C.63",
+        "Diagonal Downward-Pointing Arrow Plaques (W16-7P and W16-7aP)"
+      ],
+      [
+        "2C.64",
+        "Hill-Related Plaques (W7-2 Series and W7-3 Series)"
+      ],
+      [
+        "2C.66",
+        "Traffic Does Not Stop Plaques (W4-4P Series)"
+      ],
+      [
+        "9C.06",
+        "contains information for Bicycle Cross Traffic warning plaques that can be used "
+      ],
+      [
+        "9B.14",
+        "contains information about the use of a Bicycles Allowed Use of Full Lane (R9-20"
+      ],
+      [
+        "2C.68",
+        "EXCEPT BICYCLES Plaque (W16-20P)"
+      ],
+      [
+        "2C.69",
+        "Photo Enforced Plaques (W16-10P and W16-10aP)"
+      ],
+      [
+        "2C.70",
+        "Object Marker Design and Placement Height"
+      ],
+      [
+        "9C.09",
+        "contains information regarding the use of object markers on shared-use paths"
+      ],
+      [
+        "2C.71",
+        "Object Markers for Obstructions Within the Roadway"
+      ],
+      [
+        "2C.72",
+        "Object Markers for Obstructions Adjacent to the Roadway"
+      ],
+      [
+        "2C.73",
+        "Object Markers for Ends of Roadways"
+      ],
+      [
+        "2B.64",
+        "for regulatory Weight Limit signs"
+      ]
+    ]
+  },
+  "2d.pdf": {
+    "chapter_code": "2D",
+    "chapter_title": "GUIDE SIGNS",
+    "part_num": null,
+    "pages": 105,
+    "sections": [
+      [
+        "2D.01",
+        "Scope of Conventional Road Guide Sign Standards and Application"
+      ],
+      [
+        "2D.02",
+        "Color, Retroreflection, and Illumination"
+      ],
+      [
+        "2D.55",
+        "contains specific provisions regarding Community Wayfinding guide signs"
+      ],
+      [
+        "2D.03",
+        "Size of Signs"
+      ],
+      [
+        "2A.07",
+        "contains information regarding the applicability of the various columns in Table"
+      ],
+      [
+        "1A.05",
+        "for additional information"
+      ],
+      [
+        "2D.04",
+        "Lettering Style"
+      ],
+      [
+        "2D.05",
+        "Size of Lettering"
+      ],
+      [
+        "2D.06",
+        "Amount of Legend"
+      ],
+      [
+        "2D.07",
+        "Abbreviations"
+      ],
+      [
+        "2D.08",
+        "Arrows"
+      ],
+      [
+        "2E.25",
+        "for additional information regarding Exit Direction"
+      ],
+      [
+        "2D.37",
+        "contains the provisions for arrows used in Overhead Arrow-per-Lane signs on appr"
+      ],
+      [
+        "2D.41",
+        "contains the provisions for arrows used in Diagrammatic Advance guide"
+      ],
+      [
+        "2D.39",
+        "contains the"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "2D.09",
+        "Numbered Highway Systems"
+      ],
+      [
+        "2D.56",
+        "contains information regarding the signing of unnumbered highways to enhance rou"
+      ],
+      [
+        "2D.10",
+        "Route Signs and Auxiliary Plaques"
+      ],
+      [
+        "2D.57",
+        "contains information regarding the signing for National Scenic Byways"
+      ],
+      [
+        "2D.58",
+        "contains information regarding the signing for State-designated scenic byways, h"
+      ],
+      [
+        "2D.11",
+        "Design of Route Signs"
+      ],
+      [
+        "2D.12",
+        "Design of Route Sign Auxiliary Plaques"
+      ],
+      [
+        "2D.13",
+        "Junction Auxiliary Plaque (M2-1P)"
+      ],
+      [
+        "2D.14",
+        "Combination Junction Sign (M2-2)"
+      ],
+      [
+        "2D.15",
+        "Cardinal Direction Auxiliary Plaques (M3-1P through M3-4P)"
+      ],
+      [
+        "2D.16",
+        "Alternative Route Auxiliary Plaques (M4-1P through M4-4P)"
+      ],
+      [
+        "2D.17",
+        "ALTERNATE Auxiliary Plaques (M4-1P and M4-1aP)"
+      ],
+      [
+        "2D.18",
+        "BY-PASS Auxiliary Plaque (M4-2P)"
+      ],
+      [
+        "2D.19",
+        "BUSINESS Auxiliary Plaque (M4-3P)"
+      ],
+      [
+        "2D.20",
+        "TRUCK Auxiliary Plaque (M4-4P)"
+      ],
+      [
+        "2D.21",
+        "TO Auxiliary Plaque (M4-5P)"
+      ],
+      [
+        "2D.22",
+        "END Auxiliary Plaque (M4-6P)"
+      ],
+      [
+        "2D.23",
+        "BEGIN Auxiliary Plaque (M4-14P)"
+      ],
+      [
+        "2D.24",
+        "TEMPORARY Auxiliary Plaques (M4-7P and M4-7aP)"
+      ],
+      [
+        "2D.25",
+        "Temporary Detour Signs and Auxiliary Plaques"
+      ],
+      [
+        "2D.26",
+        "Advance Turn Arrow Auxiliary Plaques (M5-1P, M5-2P, and M5-3P)"
+      ],
+      [
+        "2D.27",
+        "Lane Designation Auxiliary Plaques (M5-4P, M5-5P, and M5-6P)"
+      ],
+      [
+        "2D.28",
+        "Directional Arrow Auxiliary Plaques (M6 Series)"
+      ],
+      [
+        "2D.29",
+        "Route Sign Assemblies"
+      ],
+      [
+        "2D.30",
+        "Junction Assembly"
+      ],
+      [
+        "2D.31",
+        "Advance Route Turn Assembly"
+      ],
+      [
+        "2D.32",
+        "Directional Assembly"
+      ],
+      [
+        "2D.33",
+        "Confirming or Reassurance Assemblies"
+      ],
+      [
+        "2D.34",
+        "Trailblazer Assembly"
+      ],
+      [
+        "2D.35",
+        "Destination and Distance Signs"
+      ],
+      [
+        "2D.36",
+        "Destination Signs (D1 Series)"
+      ],
+      [
+        "2E.07",
+        "for the Designation of Destinations and control cities"
+      ],
+      [
+        "2D.38",
+        "Combination Lane-Use/Destination Overhead Guide Sign (D15-1)"
+      ],
+      [
+        "2D.40",
+        "Destination Signs at Jughandles"
+      ],
+      [
+        "2B.35",
+        "contains information regarding regulatory signs for jughandle turns"
+      ],
+      [
+        "2D.42",
+        "Location of Destination Signs"
+      ],
+      [
+        "2D.43",
+        "Distance Signs (D2 Series)"
+      ],
+      [
+        "2D.44",
+        "Location of Distance Signs"
+      ],
+      [
+        "2D.45",
+        "Street Name Signs (D3-1 and D3-1a)"
+      ],
+      [
+        "2H.10",
+        "contains information about signs used to identify the names of grade-separated s"
+      ],
+      [
+        "2A.04",
+        "may be used on a D3-1 sign"
+      ],
+      [
+        "2D.46",
+        "Advance Street Name Signs (D3-2 Series)"
+      ],
+      [
+        "2D.47",
+        "Parking Area Guide Sign (D4-1)"
+      ],
+      [
+        "2D.48",
+        "PARK - RIDE Sign (D4-2)"
+      ],
+      [
+        "2D.49",
+        "Signing on Conventional Roads on Approaches to Interchanges"
+      ],
+      [
+        "2D.50",
+        "contains information regarding the use of a Directional assembly or a FREEWAY EN"
+      ],
+      [
+        "2B.48",
+        "contains information regarding the use of regulatory signs to deter wrong-way mo"
+      ],
+      [
+        "2D.51",
+        "WEIGH STATION Signing (D8 Series)"
+      ],
+      [
+        "2D.52",
+        "Crossover Signs (D13-1 and D13-2)"
+      ],
+      [
+        "2D.53",
+        "Truck and Passing Lane Signs (D17-1 through D17-4)"
+      ],
+      [
+        "2B.38",
+        "contains information regarding regulatory signs for these types of lanes"
+      ],
+      [
+        "2D.54",
+        "Emergency and Slow Vehicle Turn-Out Signs (D17-5 through D17-7)"
+      ],
+      [
+        "2B.42",
+        "contains information regarding regulatory signs for slow vehicle turn-out areas"
+      ],
+      [
+        "1D.09",
+        "provides information on the authority for placement of traffic control devices w"
+      ],
+      [
+        "2M.09",
+        "for additional guidance on the design of signs for historic trails"
+      ],
+      [
+        "2D.59",
+        "Emergency Routing Signs and Plaques (M4-11 and M4-12 Series)"
+      ],
+      [
+        "2D.60",
+        "Signing at Airports"
+      ]
+    ]
+  },
+  "2e-1.pdf": {
+    "chapter_code": "2E",
+    "chapter_title": "GUIDE SIGNS",
+    "part_num": null,
+    "pages": 115,
+    "sections": [
+      [
+        "2E.01",
+        "Scope of Freeway and Expressway Guide Sign Standards"
+      ],
+      [
+        "1C.02",
+        "includes definitions of freeway and expressway"
+      ],
+      [
+        "2E.02",
+        "Freeway and Expressway Signing Principles"
+      ],
+      [
+        "2E.03",
+        "Guide Sign Classification"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "2E.04",
+        "Characteristics of Urban Signing"
+      ],
+      [
+        "2E.05",
+        "Characteristics of Rural Signing"
+      ],
+      [
+        "2E.06",
+        "Signing of Named Highways"
+      ],
+      [
+        "2M.10",
+        "contains information regarding memorial or dedication signing of routes, bridges"
+      ],
+      [
+        "2E.07",
+        "Designation of Destinations"
+      ],
+      [
+        "2E.08",
+        "General"
+      ],
+      [
+        "2E.09",
+        "Color of Guide Signs"
+      ],
+      [
+        "2E.10",
+        "Retroreflection or Illumination"
+      ],
+      [
+        "2E.11",
+        "Interchange Classification"
+      ],
+      [
+        "2E.12",
+        "Size of Signs and Letters"
+      ],
+      [
+        "2A.07",
+        "contains information regarding the applicability of the various columns in Table"
+      ],
+      [
+        "2D.05",
+        "for additional information on the specification of letter heights)"
+      ],
+      [
+        "2E.13",
+        "lnterline and Edge Spacing"
+      ],
+      [
+        "2E.14",
+        "Sign Borders"
+      ],
+      [
+        "2E.15",
+        "Amount of Legend on Guide Signs"
+      ],
+      [
+        "2E.16",
+        "Abbreviations"
+      ],
+      [
+        "2D.07",
+        "of this Manual"
+      ],
+      [
+        "2E.17",
+        "Symbols"
+      ],
+      [
+        "2E.18",
+        "Arrows for Interchange Guide Signs"
+      ],
+      [
+        "2B.38",
+        "and Figure 2B-10(CA) for sign options that allow trucks to legally use a lane ot"
+      ],
+      [
+        "2E.19",
+        "Overhead Sign Installations"
+      ],
+      [
+        "2A.14",
+        "and"
+      ],
+      [
+        "2E.20",
+        "Lateral Offset"
+      ],
+      [
+        "2A.16",
+        "for additional information about lateral offset"
+      ],
+      [
+        "2E.21",
+        "Interchange Guide Signs"
+      ],
+      [
+        "2D.31",
+        "for additional Interchange Guide signs"
+      ],
+      [
+        "2E.22",
+        "Interchange Exit Numbering"
+      ],
+      [
+        "2E.36",
+        "for Collector-Distributor Roadways or as otherwise provided for in this"
+      ],
+      [
+        "2E.23",
+        "Interchange Advance Guide Signs (E1-1 through E1-3)"
+      ],
+      [
+        "2F.10",
+        "and Figure"
+      ],
+      [
+        "2E.24",
+        "Interchange Sequence Signs (E9-1 and E9-2)"
+      ],
+      [
+        "2E.25",
+        "Exit Direction Signs (E4 Series)"
+      ],
+      [
+        "2E.43",
+        "for additional"
+      ],
+      [
+        "2E.26",
+        "Exit Gore Signs and Plaque (E5-1 Series)"
+      ],
+      [
+        "2E.27",
+        "Pull-Through Signs (E6-1 Series and E6-2 Series)"
+      ],
+      [
+        "2E.28",
+        "Signing for Interchange Lane Drops Without an Optional Exit Lane"
+      ],
+      [
+        "2B.31",
+        "contains information regarding regulatory signs that can also be used for freewa"
+      ],
+      [
+        "2C.50",
+        "contains information regarding warning signs that can also be used for freeway l"
+      ],
+      [
+        "2E.29",
+        "Signing by Type of Interchange"
+      ],
+      [
+        "2D.49",
+        "contains information regarding the signing of"
+      ],
+      [
+        "2E.30",
+        "Minor Interchange"
+      ],
+      [
+        "2E.31",
+        "Diamond Interchange"
+      ],
+      [
+        "2C.12",
+        "contains provisions for the use of an Advisory Exit Speed (W13-2) sign for situa"
+      ],
+      [
+        "2E.32",
+        "Diamond Interchange in Urban Area"
+      ],
+      [
+        "2E.33",
+        "Cloverleaf Interchange"
+      ],
+      [
+        "2E.34",
+        "Cloverleaf Interchange with Collector-Distributor Roadways"
+      ],
+      [
+        "2E.35",
+        "Partial Cloverleaf Interchange"
+      ],
+      [
+        "2J.09",
+        "contains provisions for General Service and Specific Service signs"
+      ],
+      [
+        "2E.37",
+        "Freeway-to-Freeway Interchanges"
+      ],
+      [
+        "2E.41",
+        "contains information about the use of a Diagrammatic Advance guide sign for comp"
+      ],
+      [
+        "2E.38",
+        "Freeway Split with Dedicated Lanes"
+      ],
+      [
+        "2E.39",
+        "Signing for Option Lanes at Splits and Multi-Lane Exits"
+      ],
+      [
+        "2E.40",
+        "Design of Overhead Arrow-per-Lane Guide Signs for Option Lanes"
+      ],
+      [
+        "2E.42",
+        "for partial width Overhead Arrow-per-Lane signs, the sign shall"
+      ],
+      [
+        "2E.44",
+        "Closely-Spaced Interchanges"
+      ],
+      [
+        "2E.45",
+        "Guide Signing in Tunnels and Similar Structures"
+      ],
+      [
+        "2E.46",
+        "Next Exit Plaques (E2-1P and E2-1aP)"
+      ],
+      [
+        "2E.47",
+        "Post-Interchange Signs"
+      ],
+      [
+        "2E.48",
+        "Post-Interchange Distance Signs (E7-1 through E7-3)"
+      ],
+      [
+        "2D.43",
+        "for additional guidance on distance legends"
+      ],
+      [
+        "2D.44",
+        "for additional guidance on the placement of distance signs"
+      ],
+      [
+        "2E.49",
+        "Post-Interchange Travel Time Sign (E7-4)"
+      ],
+      [
+        "2E.50",
+        "contains information on Distance and Travel Time and Comparative Travel Time sig"
+      ],
+      [
+        "2G.19",
+        "contains information on Comparative Travel Time signs for parallel lanes within "
+      ],
+      [
+        "2E.51",
+        "Supplemental Guide Signs (E3 Series)"
+      ],
+      [
+        "2D.36",
+        "and Table 2D-101(CA) for additional guidance and specific criteria regarding Sup"
+      ],
+      [
+        "2E.52",
+        "Community Interchanges Identification Signs (E9-4 and E9-5)"
+      ],
+      [
+        "2E.53",
+        "Next Exits Signs (E9-3 and E9-3a)"
+      ],
+      [
+        "2E.54",
+        "Weigh Station Signing"
+      ],
+      [
+        "2E.55",
+        "Route Signs and Trailblazer Assemblies"
+      ],
+      [
+        "2D.58",
+        "contains information regarding the design of signs for Auto Tour Routes"
+      ],
+      [
+        "2E.56",
+        "Eisenhower Interstate System Signs (M1-10 and M1-10a)"
+      ],
+      [
+        "2E.57",
+        "Signs for Route Diversion by Vehicle Class"
+      ],
+      [
+        "2E.58",
+        "Signing on Conventional Road Approaches and Connecting Roadways"
+      ],
+      [
+        "2E.59",
+        "Wrong-Way Traffic Control at Interchange Ramps"
+      ],
+      [
+        "2B.48",
+        "contains information regarding the use of regulatory signs to deter wrong-way mo"
+      ],
+      [
+        "2D.50",
+        "contains information regarding the use of a Directional assembly or a guide sign"
+      ]
+    ]
+  },
+  "2f.pdf": {
+    "chapter_code": "2F",
+    "chapter_title": "TOLL ROAD SIGNS",
+    "part_num": null,
+    "pages": 36,
+    "sections": [
+      [
+        "2F.01",
+        "Scope"
+      ],
+      [
+        "2F.02",
+        "Sizes of Toll Road Signs and Electronic Toll Collection (ETC) System Pictographs"
+      ],
+      [
+        "2A.07",
+        "contains information regarding the applicability of the various columns in Table"
+      ],
+      [
+        "2F.03",
+        "Use of Color on Toll Signs"
+      ],
+      [
+        "2F.04",
+        "Regulatory Signs for Toll Plazas"
+      ],
+      [
+        "2F.12",
+        "contains information regarding the incorporation of regulatory messages into gui"
+      ],
+      [
+        "2F.16",
+        "contains information regarding the design and use of toll plaza canopy signs"
+      ],
+      [
+        "2F.05",
+        "Electronic Toll Collection (ETC) Account-Only Regulatory Sign and Plaque (R3-31 "
+      ],
+      [
+        "2F.06",
+        "Pay Toll and Take Ticket Advance Warning Signs (W9-6 and W9-6e)"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "2F.07",
+        "Pay Toll and Take Ticket Advance Warning Plaques (W9-6bP, W9-6dP, and W9-6gP)"
+      ],
+      [
+        "2F.08",
+        "Stop Ahead Pay Toll and Stop Ahead Take Ticket Warning Signs (W9-6a and W9-6f)"
+      ],
+      [
+        "2F.09",
+        "Stop Ahead Pay Toll and Stop Ahead Take Ticket Warning Plaques (W9- 6cP and W9-"
+      ],
+      [
+        "2F.10",
+        "LAST EXIT BEFORE TOLL Warning Plaques (W16-16P and W16-16aP)"
+      ],
+      [
+        "2F.11",
+        "TOLL Warning Plaque (W16-17P)"
+      ],
+      [
+        "2F.13",
+        "Electronic Toll Collection (ETC) Signs"
+      ],
+      [
+        "2F.14",
+        "Advance Signs for Conventional Toll Plazas"
+      ],
+      [
+        "2F.15",
+        "Advance Signs for Toll Plazas on Diverging Alignments from Open-Road ETC Account"
+      ],
+      [
+        "4R.02",
+        "contains information regarding the use of lane-use control signals for Open-Road"
+      ],
+      [
+        "2F.17",
+        "Guide Signs for Entrances to Electronic Toll Collection (ETC) Only Facilities"
+      ],
+      [
+        "2F.18",
+        "Guide Signs for ETC-Only Entrance Ramps to Non-Toll Highways"
+      ],
+      [
+        "2F.19",
+        "ETC Account Program Information Signs"
+      ]
+    ]
+  },
+  "2g.pdf": {
+    "chapter_code": "2G",
+    "chapter_title": "PREFERENTIAL AND MANAGED LANE SIGNS",
+    "part_num": null,
+    "pages": 69,
+    "sections": [
+      [
+        "2G.01",
+        "Scope"
+      ],
+      [
+        "9B.04",
+        "contains information regarding Preferential Lane signs for bicycle lanes"
+      ],
+      [
+        "2G.02",
+        "Sizes of Preferential and Managed Lane Signs"
+      ],
+      [
+        "2A.07",
+        "contains information regarding the applicability of the various columns in Table"
+      ],
+      [
+        "2G.03",
+        "Regulatory Signs for Preferential Lanes"
+      ],
+      [
+        "2A.14",
+        "2A"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "1A.05",
+        "for more information about this"
+      ],
+      [
+        "2G.04",
+        "Vehicle Occupancy Definition Signs (R3-10 Series and R3-13 Series)"
+      ],
+      [
+        "2G.18",
+        "contains information regarding the legends of Vehicle Occupancy Definition signs"
+      ],
+      [
+        "2G.05",
+        "Preferential Lane Operation Signs (R3-11 Series and R3-14 Series)"
+      ],
+      [
+        "2G.06",
+        "Preferential Lane Advance Signs (R3-12, R3-12e, R3-12f, R3-15, R3-15a, and R3-15"
+      ],
+      [
+        "2G.07",
+        "Preferential Lane Ends Signs (R3-12a, R3-12b, R3-12c, R3-12d, R3-12g, R3- 12h, R"
+      ],
+      [
+        "2G.08",
+        "Warning Signs on Median Barriers for Preferential Lanes"
+      ],
+      [
+        "2A.15",
+        "for overhead mounting"
+      ],
+      [
+        "2G.09",
+        "High-Occupancy Vehicle (HOV) Plaque (W16-11P)"
+      ],
+      [
+        "2G.10",
+        "Preferential Lane Guide Signs"
+      ],
+      [
+        "2G.11",
+        "Signing for Initial Entry Points to Preferential Lanes"
+      ],
+      [
+        "2G.12",
+        "Signing for Intermediate Entry Points to Preferential Lanes"
+      ],
+      [
+        "2G.13",
+        "Signing for Egress from Preferential Lanes to General-Purpose Lanes"
+      ],
+      [
+        "2G.14",
+        "Signing for Direct Entrances to Preferential Lanes from Another Highway"
+      ],
+      [
+        "2G.15",
+        "Signing for Direct Exits from Preferential Lanes to Another Highway"
+      ],
+      [
+        "2G.16",
+        "Signs for Managed Lanes"
+      ],
+      [
+        "2G.17",
+        "Signs for Priced Managed Lanes"
+      ],
+      [
+        "2G.19",
+        "for the"
+      ],
+      [
+        "2G.20",
+        "Signs for Part-Time Travel on a Shoulder"
+      ],
+      [
+        "3E.04",
+        "contains provisions regarding the placement of markings on paved shoulders that "
+      ],
+      [
+        "2G.21",
+        "Regulatory Signs and Plaques for Part-Time Travel on a Shoulder"
+      ],
+      [
+        "2B.05",
+        "and Drawing C in Figure 2G-32)"
+      ],
+      [
+        "2G.22",
+        "Warning Signs for Part-Time Travel on a Shoulder"
+      ],
+      [
+        "2G.23",
+        "Guide Signs for Part-Time Travel on a Shoulder"
+      ],
+      [
+        "2E.28",
+        "and is displayed only during the periods that the shoulder is open to travel (se"
+      ],
+      [
+        "2G.24",
+        "Lane-Use Control Signals for Part-Time Travel on a Shoulder"
+      ],
+      [
+        "2G.25",
+        "Lane-Use Control Signals for Active Lane Management on Freeways and Expressways"
+      ],
+      [
+        "2G.26",
+        "Variable Speed Limits for Active Traffic Management on Freeways and Expressways"
+      ],
+      [
+        "2B.21",
+        "and the"
+      ],
+      [
+        "1C.05",
+        "1A"
+      ],
+      [
+        "2B.61",
+        "for additional regulatory signs to be used at metered on-ramps"
+      ]
+    ]
+  },
+  "2h.pdf": {
+    "chapter_code": "2H",
+    "chapter_title": "GENERAL INFORMATION SIGNS",
+    "part_num": null,
+    "pages": 26,
+    "sections": [
+      [
+        "2H.01",
+        "Scope"
+      ],
+      [
+        "1D.09",
+        "contains"
+      ],
+      [
+        "2A.20",
+        "contains information on the excessive use of signs"
+      ],
+      [
+        "2E.17",
+        "when a General Information symbol is incorporated into the legend of a guide sig"
+      ],
+      [
+        "2H.02",
+        "Sizes of General Information Signs"
+      ],
+      [
+        "2A.07",
+        "contains information regarding the applicability of the various columns in Table"
+      ],
+      [
+        "2H.03",
+        "Airport Signs"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "2H.04",
+        "Traffic Signal Speed Sign (I1-1)"
+      ],
+      [
+        "2H.05",
+        "Jurisdictional Boundary Signs (I2-1)"
+      ],
+      [
+        "2H.07",
+        "contains information on State Welcome signs"
+      ],
+      [
+        "2H.06",
+        "Geographical Feature Signs (I2-2)"
+      ],
+      [
+        "2A.04",
+        "of this"
+      ],
+      [
+        "2H.08",
+        "Future Interstate Corridor Signs (I2-4 and I2-4a)"
+      ],
+      [
+        "2H.09",
+        "Project Information Sign (I2-5)"
+      ],
+      [
+        "2H.10",
+        "Grade-Separated Roadway Identification Signs (I2-3 and I2-3a)"
+      ],
+      [
+        "2H.11",
+        "Reference Location Signs (D10-1 through D10-3) and Intermediate Reference Locati"
+      ],
+      [
+        "2H.12",
+        "Enhanced Reference Location Signs (D10-4) and Intermediate Enhanced Reference"
+      ],
+      [
+        "2H.13",
+        "Acknowledgment Signs and Plaques (I20 Series)"
+      ],
+      [
+        "2H.14",
+        "Alternative Fuels Corridor Sign (D9-19)"
+      ]
+    ]
+  },
+  "2i.pdf": {
+    "chapter_code": "2I",
+    "chapter_title": "GENERAL SERVICE SIGNS",
+    "part_num": null,
+    "pages": 35,
+    "sections": [
+      [
+        "2I.01",
+        "Sizes of General Service Signs"
+      ],
+      [
+        "2A.07",
+        "contains information regarding the applicability of the various columns in Table"
+      ],
+      [
+        "2I.02",
+        "General Service Signs for Conventional Roads"
+      ],
+      [
+        "2I.03",
+        "General Service Signs for Freeways and Expressways"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "2A.04",
+        "on the development of new word message signs for alternative fuels"
+      ],
+      [
+        "2I.04",
+        "Interstate Oasis Signing (D5-12 Series)"
+      ],
+      [
+        "2I.05",
+        "Rest Area and Other Roadside Area Signs (D5-1 through D5-11 Series)"
+      ],
+      [
+        "1A.05",
+        "for information"
+      ],
+      [
+        "2I.06",
+        "Brake Check Area Signs (D5-13 and D5-14)"
+      ],
+      [
+        "2I.07",
+        "Chain-Up Area Signs (D5-15 and D5-16)"
+      ],
+      [
+        "2I.08",
+        "Tourist Information and Welcome Center Signs (D5-7 Series and D5-8)"
+      ],
+      [
+        "2I.09",
+        "Radio Information Signing (D12-1 Series)"
+      ],
+      [
+        "2I.10",
+        "Channel 9 Monitored Sign (D12-3)"
+      ],
+      [
+        "2I.11",
+        "EMERGENCY CALL 911 Sign (D12-4)"
+      ],
+      [
+        "2I.12",
+        "TRAVEL INFO CALL 511 Signs (D12-5 and D12-5a)"
+      ],
+      [
+        "2I.13",
+        "Roadside Assistance Sign (D12-6)"
+      ],
+      [
+        "2I.14",
+        "Carpool and Ridesharing Signing (D12-2)"
+      ],
+      [
+        "2I.15",
+        "Signing for Truck Parking Availability (D9-16b through D9-16e)"
+      ]
+    ]
+  },
+  "2j.pdf": {
+    "chapter_code": "2J",
+    "chapter_title": "SPECIFIC SERVICE SIGNS",
+    "part_num": null,
+    "pages": 20,
+    "sections": [
+      [
+        "2J.01",
+        "Eligibility"
+      ],
+      [
+        "1A.05",
+        "for information regarding these publications"
+      ],
+      [
+        "2J.12",
+        "contains additional information on criteria for the statewide policy regarding s"
+      ],
+      [
+        "2I.04",
+        "contains information regarding the Interstate Oasis program"
+      ],
+      [
+        "2J.02",
+        "Application"
+      ],
+      [
+        "2J.03",
+        "Logos and Business Identification Sign Panels"
+      ],
+      [
+        "2J.05",
+        "contains information regarding the minimum letter heights for business identific"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "2J.04",
+        "Number and Size of Signs and Business Identification Sign Panels"
+      ],
+      [
+        "2J.08",
+        "contains information regarding Specific Service signs for double-exit interchang"
+      ],
+      [
+        "2J.09",
+        "contains information regarding Specific Service signs for multiple interchanges "
+      ],
+      [
+        "2J.06",
+        "Signs at Interchanges"
+      ],
+      [
+        "2J.07",
+        "Single-Exit Interchanges"
+      ],
+      [
+        "2J.10",
+        "Specific Service Trailblazer Signs"
+      ],
+      [
+        "2J.11",
+        "Signs at Intersections"
+      ]
+    ]
+  },
+  "2k.pdf": {
+    "chapter_code": "2K",
+    "chapter_title": "TOURIST-ORIENTED DIRECTIONAL SIGNS",
+    "part_num": null,
+    "pages": 8,
+    "sections": [
+      [
+        "2K.01",
+        "Purpose and Application"
+      ],
+      [
+        "2K.07",
+        "contains information on the adoption of a State policy for States that elect to "
+      ],
+      [
+        "1A.05",
+        "for information regarding these publications"
+      ],
+      [
+        "2K.02",
+        "Design"
+      ],
+      [
+        "2K.03",
+        "Style and Size of Lettering"
+      ],
+      [
+        "2K.04",
+        "Arrangement and Size of Signs"
+      ],
+      [
+        "2K.05",
+        "Advance Signs"
+      ],
+      [
+        "2K.06",
+        "Sign Locations"
+      ]
+    ]
+  },
+  "2l.pdf": {
+    "chapter_code": "2L",
+    "chapter_title": "CHANGEABLE MESSAGE SIGNS",
+    "part_num": null,
+    "pages": 13,
+    "sections": [
+      [
+        "2L.01",
+        "Description of Changeable Message Signs"
+      ],
+      [
+        "2L.02",
+        "Applications of Changeable Message Signs"
+      ],
+      [
+        "2B.21",
+        "contains information regarding the design of CMS that are used to display variab"
+      ],
+      [
+        "2C.13",
+        "contains information regarding the design of CMS that are used to display the sp"
+      ],
+      [
+        "2H.04",
+        "contains information regarding the design of CMS that are used to display variab"
+      ],
+      [
+        "5B.01",
+        "contains provisions for LEDs used in electronic-display signs to accommodate dri"
+      ],
+      [
+        "2L.03",
+        "Legibility and Visibility of Changeable Message Signs"
+      ],
+      [
+        "2L.05",
+        "for information regarding the lengths of messages"
+      ],
+      [
+        "2L.04",
+        "Design Characteristics of Messages"
+      ],
+      [
+        "1D.01",
+        "should be consulted for the principles"
+      ],
+      [
+        "2L.06",
+        "Travel Time Messages"
+      ],
+      [
+        "2L.07",
+        "Traffic Safety Campaign Messages"
+      ],
+      [
+        "2L.08",
+        "Permanently-Located (Fixed) Changeable Message Signs"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ]
+    ]
+  },
+  "2m.pdf": {
+    "chapter_code": "2M",
+    "chapter_title": "RECREATIONAL AND CULTURAL INTEREST AREA SIGNS",
+    "part_num": null,
+    "pages": 27,
+    "sections": [
+      [
+        "2M.01",
+        "Scope"
+      ],
+      [
+        "2M.02",
+        "Application of Recreational and Cultural Interest Area Signs"
+      ],
+      [
+        "2A.09",
+        "contains information regarding the use of recreational and cultural interest are"
+      ],
+      [
+        "2M.03",
+        "Regulatory and Warning Signs"
+      ],
+      [
+        "2M.04",
+        "General Design Requirements for Recreational and Cultural Interest Area Symbol G"
+      ],
+      [
+        "2M.05",
+        "Symbol Sign Sizes"
+      ],
+      [
+        "2M.06",
+        "Use of Educational Plaques"
+      ],
+      [
+        "2M.07",
+        "Use of Prohibitive Circle and Diagonal for Non-Road Applications"
+      ],
+      [
+        "2M.08",
+        "Placement of Recreational and Cultural Interest Area Symbol Signs"
+      ],
+      [
+        "2M.09",
+        "Destination Guide Signs"
+      ],
+      [
+        "2M.10",
+        "Memorial or Dedication Signing"
+      ],
+      [
+        "2A.20",
+        "contains information regarding excessive use of signs"
+      ],
+      [
+        "2D.45",
+        "contains provisions regarding the use of memorial or dedication signing in"
+      ],
+      [
+        "1A.11",
+        "for"
+      ],
+      [
+        "2A.16",
+        "for reduced lateral offset distances that may be used in areas where lateral off"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ]
+    ]
+  },
+  "2n.pdf": {
+    "chapter_code": "2N",
+    "chapter_title": "EMERGENCY MANAGEMENT SIGNS",
+    "part_num": null,
+    "pages": 6,
+    "sections": [
+      [
+        "2N.01",
+        "Emergency Management"
+      ],
+      [
+        "2N.02",
+        "Design and Use of Emergency Management Signs"
+      ],
+      [
+        "2A.07",
+        "contains information regarding the applicability of the various columns in Table"
+      ],
+      [
+        "2N.03",
+        "Evacuation Route Signs (EM1 Series)"
+      ],
+      [
+        "2N.04",
+        "AREA CLOSED Sign (EM2-1)"
+      ],
+      [
+        "2N.05",
+        "TRAFFIC CONTROL POINT Sign (EM2-2)"
+      ],
+      [
+        "2N.06",
+        "MAINTAIN TOP SAFE SPEED Sign (EM2-3)"
+      ],
+      [
+        "2N.07",
+        "Permit Required Sign (EM2-4)"
+      ],
+      [
+        "2N.08",
+        "Emergency Aid Center Signs (EM3-1 Series)"
+      ],
+      [
+        "2N.09",
+        "Shelter Directional Signs (EM4-1 Series)"
+      ]
+    ]
+  },
+  "3a.pdf": {
+    "chapter_code": "3A",
+    "chapter_title": "GENERAL",
+    "part_num": "3",
+    "pages": 20,
+    "sections": [
+      [
+        "3A.01",
+        "Standardization of Application"
+      ],
+      [
+        "3A.02",
+        "Materials"
+      ],
+      [
+        "3A.03",
+        "Colors"
+      ],
+      [
+        "3A.04",
+        "Functions, Widths, and Patterns of Longitudinal Pavement Markings"
+      ],
+      [
+        "5B.02",
+        "contains information on pavement marking considerations for driving automation s"
+      ],
+      [
+        "3A.05",
+        "Maintaining Minimum Pavement Marking Retroreflectivity"
+      ]
+    ]
+  },
+  "3b.pdf": {
+    "chapter_code": "3B",
+    "chapter_title": "PAVEMENT AND CURB MARKINGS",
+    "part_num": null,
+    "pages": 90,
+    "sections": [
+      [
+        "3B.01",
+        "Yellow Center Line Pavement Markings"
+      ],
+      [
+        "3B.11",
+        "contains information for application of pavement markings through intersections "
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "3B.02",
+        "Warrants for Yellow Center Lines"
+      ],
+      [
+        "3B.03",
+        "No-Passing Zone Pavement Markings"
+      ],
+      [
+        "3B.04",
+        "Yellow Pavement Markings for Reversible Lanes"
+      ],
+      [
+        "3E.02",
+        "contains additional applications of pavement markings for counter-flow preferent"
+      ],
+      [
+        "3B.05",
+        "Pavement Markings for Two-Way Left-Turn Lanes"
+      ],
+      [
+        "8A.06",
+        "contains guidance information for discontinuing a two-way left-turn lane in the "
+      ],
+      [
+        "1A.11",
+        "for information regarding this publication"
+      ],
+      [
+        "1A.05",
+        "for information regarding this publication"
+      ],
+      [
+        "3B.06",
+        "White Lane Line Pavement Markings"
+      ],
+      [
+        "3B.07",
+        "White Lane Line Markings for Non-Continuing Lanes"
+      ],
+      [
+        "3B.12",
+        "contains information about the lane line markings that are to be used for transi"
+      ],
+      [
+        "3B.08",
+        "Channelizing Lines"
+      ],
+      [
+        "3E.04",
+        "and Paragraph 6 of Section 3J"
+      ],
+      [
+        "3B.09",
+        "Edge Line Pavement Markings"
+      ],
+      [
+        "3B.10",
+        "Warrants for Use of Edge Lines"
+      ],
+      [
+        "2C.51",
+        "for the W6-3 sign"
+      ],
+      [
+        "3B.31",
+        "contains information about edge lines through diverging diamond interchanges wit"
+      ],
+      [
+        "3D.03",
+        "provides information for edge lines through roundabouts"
+      ],
+      [
+        "5B.02",
+        "contains information on edge line extensions for driving automation system consi"
+      ],
+      [
+        "8C.05",
+        "contains information about the extension of edge lines through grade crossing ar"
+      ],
+      [
+        "9E.03",
+        "contains information for the extensions of bicycle lanes through intersections"
+      ],
+      [
+        "2C.47",
+        "contains information for warning signing used for lane reductions"
+      ],
+      [
+        "3G.03",
+        "for freeways and expressways,"
+      ],
+      [
+        "3B.13",
+        "Approach Markings for Obstructions"
+      ],
+      [
+        "3B.14",
+        "Raised Pavement Markers"
+      ],
+      [
+        "9A.03",
+        "contains information for the application of raised pavement markers to bicycle f"
+      ],
+      [
+        "3B.15",
+        "Raised Pavement Markers as Vehicle Positioning Guides with Other Longitudinal"
+      ],
+      [
+        "3B.16",
+        "Raised Pavement Markers Supplementing Other Markings"
+      ],
+      [
+        "3B.17",
+        "Raised Pavement Markers Substituting for Pavement Markings"
+      ],
+      [
+        "6J.02",
+        "contains information for flexible temporary pavement markers used during surface"
+      ],
+      [
+        "3B.18",
+        "Curb Markings for Parking Regulations"
+      ],
+      [
+        "2B.52",
+        "for Parking Regulations"
+      ],
+      [
+        "3B.19",
+        "Stop and Yield Lines"
+      ],
+      [
+        "4J.02",
+        "contains information regarding the use and application of stop lines in conjunct"
+      ],
+      [
+        "3D.04",
+        "and at midblock"
+      ],
+      [
+        "9B.12",
+        "contains information for providing signing applicable to bicyclists also subject"
+      ],
+      [
+        "8C.03",
+        "contains information regarding the use of stop lines and yield lines at grade cr"
+      ],
+      [
+        "3B.20",
+        "Word, Symbol, and Arrow Pavement Markings"
+      ],
+      [
+        "8C.04",
+        "contains information for arrow pavement markings in the vicinity of grade crossi"
+      ],
+      [
+        "3B.21",
+        "Word Pavement Markings"
+      ],
+      [
+        "9E.01",
+        "for the BIKE LANE"
+      ],
+      [
+        "9E.15",
+        "for a bicycle detector symbol and WAIT HERE FOR GREEN word"
+      ],
+      [
+        "3B.22",
+        "Symbol Pavement Markings"
+      ],
+      [
+        "3E.03",
+        "contains information on the diamond-shaped symbol for high-occupancy vehicle (HO"
+      ],
+      [
+        "3A.03",
+        "provides information on route sign colors"
+      ],
+      [
+        "9E.14",
+        "contains information on route markers for designated bicycle routes that can be "
+      ],
+      [
+        "3B.23",
+        "Lane-Use Arrows"
+      ],
+      [
+        "2B.48",
+        "and 2E"
+      ],
+      [
+        "3B.24",
+        "Wrong-Way Arrows"
+      ],
+      [
+        "3B.25",
+        "Chevron and Diagonal Markings"
+      ],
+      [
+        "3B.26",
+        "Do Not Block Intersection Markings"
+      ],
+      [
+        "3B.27",
+        "Parking Space Markings"
+      ],
+      [
+        "2B.45",
+        "for Parking Signs"
+      ],
+      [
+        "3B.28",
+        "Speed Reduction Markings"
+      ],
+      [
+        "3B.29",
+        "Speed Hump and Speed Table Markings"
+      ],
+      [
+        "3B.30",
+        "Advance Speed Hump and Speed Table Markings"
+      ],
+      [
+        "3C.11",
+        "contains information on crosswalks and pedestrian movements for diverging diamon"
+      ],
+      [
+        "3J.03",
+        "for the design of the flush"
+      ]
+    ]
+  },
+  "3c.pdf": {
+    "chapter_code": "3C",
+    "chapter_title": "CROSSWALK MARKINGS",
+    "part_num": null,
+    "pages": 9,
+    "sections": [
+      [
+        "3C.01",
+        "General"
+      ],
+      [
+        "3C.02",
+        "Application of Crosswalk Markings"
+      ],
+      [
+        "4S.03",
+        "contains information regarding Warning Beacons to provide active warning of a pe"
+      ],
+      [
+        "4U.02",
+        "contains information regarding In-Roadway Warning Lights at crosswalks"
+      ],
+      [
+        "9E.13",
+        "contains information on crosswalk markings for shared-use path crossings"
+      ],
+      [
+        "3C.03",
+        "Design of Crosswalk Markings"
+      ],
+      [
+        "3B.19",
+        "contains information regarding placement of stop line markings and yield line ma"
+      ],
+      [
+        "3C.04",
+        "Transverse Line Crosswalks"
+      ],
+      [
+        "3C.05",
+        "High-Visibility Crosswalks"
+      ],
+      [
+        "3C.06",
+        "Longitudinal Bar Crosswalks"
+      ],
+      [
+        "3C.07",
+        "Ladder Crosswalks"
+      ],
+      [
+        "3C.08",
+        "Bar Pair Crosswalks"
+      ],
+      [
+        "3C.09",
+        "Crosswalk Markings at Circular Intersections"
+      ],
+      [
+        "3C.10",
+        "Crosswalks for Exclusive Pedestrian Phases that Permit Diagonal Crossings"
+      ],
+      [
+        "3C.11",
+        "Crosswalks at Diamond Interchanges with a Transposed Alignment Crossroad"
+      ],
+      [
+        "3B.31",
+        "contains information on markings, such as edge lines, lane lines, and lane-use a"
+      ],
+      [
+        "3C.12",
+        "Pedestrian Islands and Medians"
+      ]
+    ]
+  },
+  "3d.pdf": {
+    "chapter_code": "3D",
+    "chapter_title": "CIRCULAR INTERSECTION MARKINGS",
+    "part_num": null,
+    "pages": 11,
+    "sections": [
+      [
+        "3D.01",
+        "General"
+      ],
+      [
+        "8A.12",
+        "provides information about circular intersections that contain or are in close p"
+      ],
+      [
+        "9E.05",
+        "contains information regarding bicycle lane markings at circular intersections"
+      ],
+      [
+        "3C.09",
+        "contains information regarding crosswalks at circular intersections"
+      ],
+      [
+        "3D.02",
+        "White Lane Line Pavement Markings for Roundabouts"
+      ],
+      [
+        "3D.03",
+        "Edge Line Pavement Markings for Roundabout Circulatory Roadways"
+      ],
+      [
+        "3D.04",
+        "Yield Lines for Roundabouts"
+      ],
+      [
+        "2B.18",
+        "contains information regarding the TO ALL LANES (R1-2cP) plaque that can be used"
+      ],
+      [
+        "3D.05",
+        "Word and Symbol Pavement Markings for Roundabouts"
+      ],
+      [
+        "3D.06",
+        "Arrow Pavement Markings for Roundabouts"
+      ],
+      [
+        "3B.23",
+        "and Figure 3B-21) should be used"
+      ],
+      [
+        "3D.07",
+        "Markings for Other Circular Intersections"
+      ]
+    ]
+  },
+  "3e.pdf": {
+    "chapter_code": "3E",
+    "chapter_title": "PREFERENTIAL LANE MARKINGS FOR MOTOR VEHICLES",
+    "part_num": null,
+    "pages": 15,
+    "sections": [
+      [
+        "3E.01",
+        "General"
+      ],
+      [
+        "3E.02",
+        "Longitudinal Markings"
+      ],
+      [
+        "1C.02",
+        "contains definitions of these"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "3E.03",
+        "Preferential Lane Word and Symbol Markings"
+      ],
+      [
+        "1A.05",
+        "for information regarding these publications"
+      ],
+      [
+        "3E.04",
+        "Markings for Part-Time Travel on a Shoulder"
+      ]
+    ]
+  },
+  "3f.pdf": {
+    "chapter_code": "3F",
+    "chapter_title": "MARKINGS FOR TOLL PLAZAS",
+    "part_num": null,
+    "pages": 2,
+    "sections": [
+      [
+        "3F.01",
+        "General"
+      ],
+      [
+        "3H.08",
+        "contains information on the use and application of purple-colored pavement at to"
+      ],
+      [
+        "3F.02",
+        "Longitudinal Markings"
+      ],
+      [
+        "3B.13",
+        "and Chapter 3J"
+      ],
+      [
+        "3F.03",
+        "Pavement Word and Symbol Markings"
+      ],
+      [
+        "3E.03",
+        "contains information on the use of pavement word and symbol markings for ETC Acc"
+      ]
+    ]
+  },
+  "3g.pdf": {
+    "chapter_code": "3G",
+    "chapter_title": "DELINEATORS",
+    "part_num": null,
+    "pages": 12,
+    "sections": [
+      [
+        "3G.01",
+        "General"
+      ],
+      [
+        "3G.02",
+        "Design"
+      ],
+      [
+        "3G.03",
+        "Application"
+      ],
+      [
+        "3B.12",
+        "and Figure"
+      ],
+      [
+        "3G.04",
+        "Placement and Spacing"
+      ]
+    ]
+  },
+  "3h.pdf": {
+    "chapter_code": "3H",
+    "chapter_title": "COLORED PAVEMENT",
+    "part_num": null,
+    "pages": 12,
+    "sections": [
+      [
+        "3H.01",
+        "Standardization of Application"
+      ],
+      [
+        "3H.02",
+        "Materials"
+      ],
+      [
+        "3H.03",
+        "Aesthetic Surface Treatments"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "3H.04",
+        "Yellow-Colored Pavement"
+      ],
+      [
+        "3H.05",
+        "White-Colored Pavement"
+      ],
+      [
+        "3H.06",
+        "Green-Colored Pavement for Bicycle Facilities"
+      ],
+      [
+        "3H.07",
+        "Red-Colored Pavement for Public Transit Systems"
+      ],
+      [
+        "3H.08",
+        "Purple-Colored Pavement for Electronic Toll Collection (ETC) Account-Only Prefer"
+      ]
+    ]
+  },
+  "3i.pdf": {
+    "chapter_code": "3I",
+    "chapter_title": "CHANNELIZING DEVICES USED FOR EMPHASIS OF PAVEMENT",
+    "part_num": null,
+    "pages": 5,
+    "sections": [
+      [
+        "3I.01",
+        "Channelizing Devices"
+      ],
+      [
+        "3I.02",
+        "Tubular Markers"
+      ],
+      [
+        "6K.04",
+        "contains information for temporary installations of tubular markers"
+      ]
+    ]
+  },
+  "3j-1.pdf": {
+    "chapter_code": "3J",
+    "chapter_title": "MARKING AND DELINEATION OF ISLANDS AND SIDEWALK EXTENSIONS",
+    "part_num": null,
+    "pages": 11,
+    "sections": [
+      [
+        "3J.01",
+        "General"
+      ],
+      [
+        "3C.12",
+        "contains information on pedestrian islands and medians"
+      ],
+      [
+        "1A.05",
+        "for"
+      ],
+      [
+        "3J.02",
+        "Approach-End Treatment"
+      ],
+      [
+        "3B.13",
+        "contains information on pavement markings that function as approach-end treatmen"
+      ],
+      [
+        "3J.03",
+        "Islands Designated by Pavement Markings"
+      ],
+      [
+        "3J.04",
+        "Curb Markings for Raised Islands"
+      ],
+      [
+        "3J.05",
+        "Pavement Markings for Raised Islands"
+      ],
+      [
+        "3J.06",
+        "Island Delineation"
+      ],
+      [
+        "3J.07",
+        "Sidewalk Extensions Designated by Pavement Markings"
+      ]
+    ]
+  },
+  "3k.pdf": {
+    "chapter_code": "3K",
+    "chapter_title": "RUMBLE STRIP MARKINGS",
+    "part_num": null,
+    "pages": 2,
+    "sections": [
+      [
+        "3K.01",
+        "Longitudinal Rumble Strip Markings"
+      ],
+      [
+        "6M.06",
+        "contains information related to longitudinal rumble strips"
+      ],
+      [
+        "3K.02",
+        "Transverse Rumble Strip Markings"
+      ]
+    ]
+  },
+  "4a.pdf": {
+    "chapter_code": "4A",
+    "chapter_title": "GENERAL",
+    "part_num": "4",
+    "pages": 7,
+    "sections": [
+      [
+        "4A.01",
+        "Types"
+      ],
+      [
+        "4A.02",
+        "Meanings of Signal Indications"
+      ],
+      [
+        "4A.03",
+        "Meanings of Steady Vehicular Signal Indications"
+      ],
+      [
+        "4A.04",
+        "Meanings of Flashing Vehicular Signal Indications"
+      ],
+      [
+        "4A.05",
+        "Meanings of Bicycle Symbol Signal Indications"
+      ],
+      [
+        "4A.06",
+        "Meanings of Pedestrian Signal Indications"
+      ],
+      [
+        "4A.07",
+        "Lateral Offset of Signal Supports and Cabinets"
+      ],
+      [
+        "4A.08",
+        "Use of Signs at Signalized Locations"
+      ],
+      [
+        "2B.27",
+        "contains information regarding the use of overhead lane-control signs on signali"
+      ],
+      [
+        "4A.09",
+        "Use of Pavement Markings at Signalized Locations"
+      ],
+      [
+        "4A.10",
+        "Responsibility for Operation and Maintenance"
+      ]
+    ]
+  },
+  "4b.pdf": {
+    "chapter_code": "4B",
+    "chapter_title": "TRAFFIC CONTROL SIGNALS",
+    "part_num": null,
+    "pages": 3,
+    "sections": [
+      [
+        "4B.01",
+        "General"
+      ],
+      [
+        "4B.02",
+        "Advantages and Disadvantages of Traffic Control Signals"
+      ],
+      [
+        "4B.03",
+        "Alternatives to Traffic Control Signals"
+      ],
+      [
+        "8A.12",
+        "if the location is in close proximity to a grade crossing)"
+      ],
+      [
+        "4B.04",
+        "Basis of Installation of Traffic Control Signals"
+      ],
+      [
+        "4B.05",
+        "Basis of Removal of Traffic Control Signals"
+      ]
+    ]
+  },
+  "4c.pdf": {
+    "chapter_code": "4C",
+    "chapter_title": "TRAFFIC CONTROL SIGNAL NEEDS STUDIES",
+    "part_num": null,
+    "pages": 30,
+    "sections": [
+      [
+        "4C.01",
+        "Studies and Factors for Justifying Traffic Control Signals"
+      ],
+      [
+        "4C.02",
+        "Warrant 1, Eight-Hour Vehicular Volume"
+      ],
+      [
+        "4C.03",
+        "Warrant 2, Four-Hour Vehicular Volume"
+      ],
+      [
+        "4C.04",
+        "Warrant 3, Peak Hour"
+      ],
+      [
+        "4C.05",
+        "Warrant 4, Pedestrian Volume"
+      ],
+      [
+        "4C.06",
+        "Warrant 5, School Crossing"
+      ],
+      [
+        "4C.07",
+        "Warrant 6, Coordinated Signal System"
+      ],
+      [
+        "4C.08",
+        "Warrant 7, Crash Experience"
+      ],
+      [
+        "4C.09",
+        "Warrant 8, Roadway Network"
+      ],
+      [
+        "4C.10",
+        "Warrant 9, Intersection Near a Grade Crossing"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ]
+    ]
+  },
+  "4d.pdf": {
+    "chapter_code": "4D",
+    "chapter_title": "DESIGN FEATURES OF TRAFFIC CONTROL SIGNALS",
+    "part_num": null,
+    "pages": 16,
+    "sections": [
+      [
+        "4D.01",
+        "General"
+      ],
+      [
+        "4D.02",
+        "Provisions for Pedestrians"
+      ],
+      [
+        "4D.03",
+        "Provisions for Bicyclists"
+      ],
+      [
+        "4D.04",
+        "Provisions for Transit Vehicles"
+      ],
+      [
+        "4D.05",
+        "Number of Signal Faces on an Approach"
+      ],
+      [
+        "4D.06",
+        "Visibility, Aiming, and Shielding of Signal Faces"
+      ],
+      [
+        "4D.07",
+        "Lateral Positioning of Signal Faces"
+      ],
+      [
+        "4D.08",
+        "(see Figure 4D-2)"
+      ],
+      [
+        "4D.09",
+        "Mounting Height of Signal Faces"
+      ],
+      [
+        "1A.05",
+        "for information regarding this publication"
+      ],
+      [
+        "4D.10",
+        "Lateral Offset (Clearance) of Signal Faces"
+      ],
+      [
+        "4D.11",
+        "Temporary and Portable Traffic Control Signals"
+      ],
+      [
+        "6P.01",
+        "and Typical Application 14 Haul Road Crossing (Figure 6P-14(CA) and related Note"
+      ],
+      [
+        "6L.01",
+        "contains information about the use of temporary traffic control signals in tempo"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "4E.02",
+        "12-inch signal indications"
+      ],
+      [
+        "4F.17",
+        "Standard under paragraph 13c"
+      ]
+    ]
+  },
+  "4e.pdf": {
+    "chapter_code": "4E",
+    "chapter_title": "TRAFFIC CONTROL SIGNAL INDICATIONS",
+    "part_num": null,
+    "pages": 7,
+    "sections": [
+      [
+        "4E.01",
+        "Signal Indications"
+      ],
+      [
+        "4E.02",
+        "Size of Vehicular Signal Indications"
+      ],
+      [
+        "4E.03",
+        "Positions of Signal Indications Within a Signal Face"
+      ],
+      [
+        "4E.04",
+        "Positions of Signal Indications Within a Vertical Signal Face"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "4F.16",
+        "(see Drawing B in Figure 4F-15), two signal sections,"
+      ],
+      [
+        "4E.05",
+        "Positions of Signal Indications Within a Horizontal Signal Face"
+      ]
+    ]
+  },
+  "4f.pdf": {
+    "chapter_code": "4F",
+    "chapter_title": "STEADY",
+    "part_num": null,
+    "pages": 41,
+    "sections": [
+      [
+        "4F.01",
+        "Application of Steady and Flashing Signal Indications during Steady (Stop-and- G"
+      ],
+      [
+        "4F.16",
+        "contains information regarding the signalization of approaches that have a combi"
+      ],
+      [
+        "4D.07",
+        "contains information regarding limitations on left-turn arrows, right-turn arrow"
+      ],
+      [
+        "4F.02",
+        "Signal Indications for Left-Turn Movements"
+      ],
+      [
+        "4F.03",
+        "Signal Indications for Permissive Only Mode Left-Turn Movements in a Shared Sign"
+      ],
+      [
+        "4F.04",
+        "Signal Indications for Permissive Only Mode Left-Turn Movements in a Separate Si"
+      ],
+      [
+        "4F.05",
+        "Signal Indications for Protected Only Mode Left-Turn Movements in a Shared Signa"
+      ],
+      [
+        "4F.06",
+        "Signal Indications for Protected Only Mode Left-Turn Movements in a Separate Sig"
+      ],
+      [
+        "4F.08",
+        "and"
+      ],
+      [
+        "4F.07",
+        "for the requirements of protected-permissive or permissive-protected left"
+      ],
+      [
+        "4F.09",
+        "Signal Indications for Right-Turn Movements"
+      ],
+      [
+        "4F.10",
+        "Signal Indications for Permissive Only Mode Right-Turn Movements in a Shared Sig"
+      ],
+      [
+        "4F.11",
+        "Signal Indications for Permissive Only Mode Right-Turn Movements in a Separate S"
+      ],
+      [
+        "4F.12",
+        "Signal Indications for Protected Only Mode Right-Turn Movements in a Shared Sign"
+      ],
+      [
+        "4F.13",
+        "Signal Indications for Protected Only Mode Right-Turn Movements in a Separate Si"
+      ],
+      [
+        "4F.14",
+        "Signal Indications for Protected/Permissive Mode Right-Turn Movements in a Share"
+      ],
+      [
+        "4F.15",
+        "Signal Indications for Protected/Permissive Mode Right-Turn Movements in a Separ"
+      ],
+      [
+        "4E.04",
+        "or 4E"
+      ],
+      [
+        "4F.17",
+        "Yellow Change and Red Clearance Intervals"
+      ],
+      [
+        "4F.18",
+        "Preemption and Priority Control of Traffic Control Signals"
+      ],
+      [
+        "8D.15",
+        "and as illustrated in Figure 8D-3 may be used for preemption or priority"
+      ],
+      [
+        "4F.19",
+        "Preemption Control of Traffic Control Signals"
+      ],
+      [
+        "8D.09",
+        "contains additional information regarding the pedestrian change interval for rai"
+      ],
+      [
+        "8D.10",
+        "contains"
+      ],
+      [
+        "4F.20",
+        "Priority Control of Traffic Control Signals"
+      ],
+      [
+        "4I.06",
+        "shall not be"
+      ],
+      [
+        "1A.04",
+        "for"
+      ]
+    ]
+  },
+  "4g.pdf": {
+    "chapter_code": "4G",
+    "chapter_title": "FLASHING OPERATION OF TRAFFIC CONTROL SIGNALS",
+    "part_num": null,
+    "pages": 3,
+    "sections": [
+      [
+        "4G.01",
+        "Flashing Operation of Traffic Control Signals"
+      ],
+      [
+        "4G.02",
+        "Flashing Operation"
+      ],
+      [
+        "4G.03",
+        "Flashing Operation"
+      ],
+      [
+        "4G.04",
+        "Flashing Operation"
+      ]
+    ]
+  },
+  "4h.pdf": {
+    "chapter_code": "4H",
+    "chapter_title": "BICYCLE SIGNALS",
+    "part_num": null,
+    "pages": 11,
+    "sections": [
+      [
+        "4H.01",
+        "Use of Bicycle Signal Faces"
+      ],
+      [
+        "9E.02",
+        "or"
+      ],
+      [
+        "4C.01",
+        "and Paragraph 2 of Section 9F"
+      ],
+      [
+        "4H.02",
+        "Prohibited Uses of Bicycle Signal Faces"
+      ],
+      [
+        "4H.03",
+        "Bicycle Signal Signs"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "4H.04",
+        "Application of Bicycle Symbol Signal Indications during Steady (Stop-and-Go) Ope"
+      ],
+      [
+        "4H.05",
+        "Application of Bicycle Symbol Signal Indications during Flashing Operation"
+      ],
+      [
+        "4H.06",
+        "Layout of Bicycle Signal Faces"
+      ],
+      [
+        "4H.07",
+        "Size of Bicycle Symbol Signal Indications"
+      ],
+      [
+        "4H.08",
+        "Placement of Bicycle Signal Faces"
+      ],
+      [
+        "4H.09",
+        "Mounting Height of Bicycle Signal Faces"
+      ],
+      [
+        "4D.09",
+        "shall apply to the mounting height of bicycle signal faces except as follows"
+      ],
+      [
+        "4H.10",
+        "Intensity and Light Distribution of Bicycle Signal Faces"
+      ],
+      [
+        "4E.01",
+        "to the extent practical"
+      ],
+      [
+        "4H.11",
+        "Yellow Change and Red Clearance Intervals for Bicycle Signal Faces"
+      ],
+      [
+        "4F.17",
+        "shall apply to the duration of the yellow change and the red clearance"
+      ],
+      [
+        "4H.12",
+        "Bicycle Push Buttons"
+      ],
+      [
+        "1B.01",
+        "for applicability and"
+      ],
+      [
+        "1C.02",
+        "for definitions and meanings) shall either provide a Limit Line Bicycle Detectio"
+      ]
+    ]
+  },
+  "4i.pdf": {
+    "chapter_code": "4I",
+    "chapter_title": "PEDESTRIAN CONTROL FEATURES",
+    "part_num": null,
+    "pages": 10,
+    "sections": [
+      [
+        "4I.01",
+        "Pedestrian Signal Heads"
+      ],
+      [
+        "4D.02",
+        "contains information on when to use pedestrian signal heads"
+      ],
+      [
+        "4I.02",
+        "Size, Design, and Illumination of Pedestrian Signal Head Indications"
+      ],
+      [
+        "4I.03",
+        "Location and Height of Pedestrian Signal Heads"
+      ],
+      [
+        "4I.04",
+        "Countdown Pedestrian Signals"
+      ],
+      [
+        "9E.12",
+        "for countdown pedestrian signals, when used with bicycle boxes"
+      ],
+      [
+        "4I.05",
+        "Pedestrian Detectors"
+      ],
+      [
+        "4I.06",
+        "Pedestrian Intervals and Signal Phases"
+      ],
+      [
+        "1A.04",
+        "for"
+      ]
+    ]
+  },
+  "4j.pdf": {
+    "chapter_code": "4J",
+    "chapter_title": "PEDESTRIAN HYBRID BEACONS",
+    "part_num": null,
+    "pages": 6,
+    "sections": [
+      [
+        "4J.01",
+        "Application of Pedestrian Hybrid Beacons"
+      ],
+      [
+        "4J.02",
+        "Design of Pedestrian Hybrid Beacons"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "4J.03",
+        "Operation of Pedestrian Hybrid Beacons"
+      ]
+    ]
+  },
+  "4k.pdf": {
+    "chapter_code": "4K",
+    "chapter_title": "ACCESSIBLE PEDESTRIAN SIGNALS AND DETECTORS",
+    "part_num": null,
+    "pages": 6,
+    "sections": [
+      [
+        "4K.01",
+        "General"
+      ],
+      [
+        "4K.02",
+        "Location"
+      ],
+      [
+        "4I.05",
+        "and should be located as close as possible to the crosswalk line furthest from t"
+      ],
+      [
+        "4K.03",
+        "Walk Indications"
+      ],
+      [
+        "4K.04",
+        "Vibrotactile Arrows and Locator Tones"
+      ],
+      [
+        "4K.05",
+        "Extended Push Button Press Features"
+      ]
+    ]
+  },
+  "4l.pdf": {
+    "chapter_code": "4L",
+    "chapter_title": "RECTANGULAR RAPID FLASHING BEACONS",
+    "part_num": null,
+    "pages": 5,
+    "sections": [
+      [
+        "4L.01",
+        "Application of Rectangular Rapid Flashing Beacons"
+      ],
+      [
+        "4L.02",
+        "Design of Rectangular Rapid Flashing Beacons"
+      ],
+      [
+        "1D.04",
+        "for light brilliance and CVC"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "4I.05",
+        "contains further information about pedestrian push button detector location crit"
+      ],
+      [
+        "4H.12",
+        "contains information about bicyclist push buttons"
+      ],
+      [
+        "4L.03",
+        "Operation of Rectangular Rapid Flashing Beacons"
+      ]
+    ]
+  },
+  "4m.pdf": {
+    "chapter_code": "4M",
+    "chapter_title": "TRAFFIC CONTROL SIGNALS FOR EMERGENCY-VEHICLE ACCESS",
+    "part_num": null,
+    "pages": 2,
+    "sections": [
+      [
+        "4M.01",
+        "Application of Emergency-Vehicle Traffic Control Signals"
+      ],
+      [
+        "4M.02",
+        "Design of Emergency-Vehicle Traffic Control Signals"
+      ],
+      [
+        "4M.03",
+        "Operation of Emergency-Vehicle Traffic Control Signals"
+      ]
+    ]
+  },
+  "4n.pdf": {
+    "chapter_code": "4N",
+    "chapter_title": "HYBRID BEACONS FOR EMERGENCY-VEHICLE ACCESS",
+    "part_num": null,
+    "pages": 3,
+    "sections": [
+      [
+        "4N.01",
+        "Application of Emergency-Vehicle Hybrid Beacons"
+      ],
+      [
+        "4N.02",
+        "Design of Emergency-Vehicle Hybrid Beacons"
+      ],
+      [
+        "4N.03",
+        "Operation of Emergency-Vehicle Hybrid Beacons"
+      ]
+    ]
+  },
+  "4o.pdf": {
+    "chapter_code": "4O",
+    "chapter_title": "TRAFFIC CONTROL SIGNALS FOR ONE-LANE, TWO-WAY FACILITIES",
+    "part_num": null,
+    "pages": 1,
+    "sections": [
+      [
+        "4O.01",
+        "Application of Traffic Control Signals for One-Lane, Two-Way Facilities"
+      ],
+      [
+        "4O.02",
+        "Design of Traffic Control Signals for One-Lane, Two-Way Facilities"
+      ],
+      [
+        "4O.03",
+        "Operation of Traffic Control Signals for One-Lane, Two-Way Facilities"
+      ]
+    ]
+  },
+  "4p.pdf": {
+    "chapter_code": "4P",
+    "chapter_title": "TRAFFIC CONTROL SIGNALS FOR FREEWAY ENTRANCE RAMPS",
+    "part_num": null,
+    "pages": 2,
+    "sections": [
+      [
+        "4P.01",
+        "Application of Freeway Entrance Ramp Control Signals"
+      ],
+      [
+        "4P.02",
+        "Design of Freeway Entrance Ramp Control Signals"
+      ],
+      [
+        "4P.03",
+        "Operation of Freeway Entrance Ramp Control Signals"
+      ]
+    ]
+  },
+  "4q.pdf": {
+    "chapter_code": "4Q",
+    "chapter_title": "TRAFFIC CONTROL FOR MOVABLE BRIDGES",
+    "part_num": null,
+    "pages": 3,
+    "sections": [
+      [
+        "4Q.01",
+        "Application of Traffic Control for Movable Bridges"
+      ],
+      [
+        "4Q.02",
+        "Design and Location of Movable Bridge Signals and Gates"
+      ],
+      [
+        "4Q.03",
+        "Operation of Movable Bridge Signals and Gates"
+      ]
+    ]
+  },
+  "4r.pdf": {
+    "chapter_code": "4R",
+    "chapter_title": "HIGHWAY TRAFFIC SIGNALS AT TOLL PLAZAS",
+    "part_num": null,
+    "pages": 1,
+    "sections": [
+      [
+        "4R.01",
+        "Traffic Signals at Toll Plazas"
+      ],
+      [
+        "4R.02",
+        "Lane-Use Control Signals at or Near Toll Plazas"
+      ],
+      [
+        "4R.03",
+        "Warning Beacons at Toll Plazas"
+      ]
+    ]
+  },
+  "4s.pdf": {
+    "chapter_code": "4S",
+    "chapter_title": "FLASHING BEACONS",
+    "part_num": null,
+    "pages": 5,
+    "sections": [
+      [
+        "4S.01",
+        "General Design and Operation of Flashing Beacons"
+      ],
+      [
+        "4S.02",
+        "Intersection Control Beacon"
+      ],
+      [
+        "4S.03",
+        "Warning Beacon"
+      ],
+      [
+        "2A.12",
+        "prohibits the use flashing light-emitting diode (LED) units within the legend or"
+      ],
+      [
+        "4S.04",
+        "Speed Limit Sign Beacon"
+      ],
+      [
+        "4S.05",
+        "Stop Beacon"
+      ]
+    ]
+  },
+  "4t.pdf": {
+    "chapter_code": "4T",
+    "chapter_title": "LANE-USE CONTROL SIGNALS",
+    "part_num": null,
+    "pages": 4,
+    "sections": [
+      [
+        "4T.01",
+        "Application of Lane-Use Control Signals"
+      ],
+      [
+        "4T.02",
+        "Meaning of Lane-Use Control Signal Indications"
+      ],
+      [
+        "4T.03",
+        "Design of Lane-Use Control Signals"
+      ],
+      [
+        "4T.04",
+        "Operation of Lane-Use Control Signals"
+      ],
+      [
+        "2B.34",
+        "contains additional information concerning considerations involving left-turn pr"
+      ],
+      [
+        "2G.24",
+        "contains additional information concerning lane-use control"
+      ],
+      [
+        "2G.25",
+        "contains additional information concerning lane-use"
+      ]
+    ]
+  },
+  "4u.pdf": {
+    "chapter_code": "4U",
+    "chapter_title": "IN-ROADWAY WARNING LIGHTS",
+    "part_num": null,
+    "pages": 4,
+    "sections": [
+      [
+        "4U.01",
+        "Application of In-Roadway Warning Lights"
+      ],
+      [
+        "4U.02",
+        "In-Roadway Warning Lights at Crosswalks"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ]
+    ]
+  },
+  "5a.pdf": {
+    "chapter_code": "5A",
+    "chapter_title": "GENERAL",
+    "part_num": "5",
+    "pages": 4,
+    "sections": [
+      [
+        "5A.01",
+        "Scope and Purpose"
+      ],
+      [
+        "5A.02",
+        "Overview of Automated Vehicles and Connected Vehicles"
+      ],
+      [
+        "5A.03",
+        "Definitions and Terms"
+      ],
+      [
+        "5A.04",
+        "Traffic Control Device Design and Use Considerations"
+      ]
+    ]
+  },
+  "5b.pdf": {
+    "chapter_code": "5B",
+    "chapter_title": "PROVISIONS FOR TRAFFIC CONTROL DEVICES",
+    "part_num": null,
+    "pages": 3,
+    "sections": [
+      [
+        "5B.01",
+        "Signs"
+      ],
+      [
+        "5B.02",
+        "Markings"
+      ],
+      [
+        "5B.03",
+        "Highway Traffic Signals"
+      ],
+      [
+        "5B.04",
+        "Temporary Traffic Control"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "6J.01",
+        "describes the use of pavement markings in TTC zones and the removal or obliterat"
+      ],
+      [
+        "6J.02",
+        "describes the use of temporary pavement markings in TTC zones"
+      ],
+      [
+        "5B.05",
+        "Traffic Control for Highway-Rail and Highway-Light Rail Transit Grade Crossings"
+      ],
+      [
+        "5B.06",
+        "Traffic Control for Bicycle Facilities"
+      ]
+    ]
+  },
+  "6a.pdf": {
+    "chapter_code": "6A",
+    "chapter_title": "GENERAL",
+    "part_num": "6",
+    "pages": 5,
+    "sections": [
+      [
+        "6A.01",
+        "General"
+      ],
+      [
+        "6A.02",
+        "Fundamental Principles of Temporary Traffic Control"
+      ],
+      [
+        "6A.03",
+        "TTC Devices"
+      ],
+      [
+        "1A.05",
+        "for information regarding"
+      ],
+      [
+        "6A.04",
+        "Crashworthiness of TTC Devices"
+      ],
+      [
+        "6A.05",
+        "Night Work"
+      ],
+      [
+        "6N.18",
+        "contains specific provisions on TTC for work during nighttime hours"
+      ]
+    ]
+  },
+  "6b.pdf": {
+    "chapter_code": "6B",
+    "chapter_title": "TEMPORARY TRAFFIC CONTROL ELEMENTS",
+    "part_num": null,
+    "pages": 14,
+    "sections": [
+      [
+        "6B.01",
+        "Temporary Traffic Control Plans"
+      ],
+      [
+        "8A.13",
+        "for additional light rail transit issues to consider for TTC)"
+      ],
+      [
+        "2B.21",
+        "for Regulatory Speed Limit signs and Speed Zones"
+      ],
+      [
+        "6G.08",
+        "for WORK ZONE (G20-5aP) plaque and END WORK ZONE SPEED LIMIT (R2-12) sign"
+      ],
+      [
+        "6H.32",
+        "Guidance"
+      ],
+      [
+        "6B.02",
+        "Temporary Traffic Control Zones"
+      ],
+      [
+        "6B.03",
+        "Components of Temporary Traffic Control Zones"
+      ],
+      [
+        "6B.04",
+        "Advance Warning Area"
+      ],
+      [
+        "6B.05",
+        "Transition Area"
+      ],
+      [
+        "6B.06",
+        "Activity Area"
+      ],
+      [
+        "6B.07",
+        "Termination Area"
+      ],
+      [
+        "6B.08",
+        "Tapers"
+      ],
+      [
+        "1A.05",
+        "for information regarding this publication"
+      ],
+      [
+        "6B.09",
+        "Detours and Diversions"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ]
+    ]
+  },
+  "6c.pdf": {
+    "chapter_code": "6C",
+    "chapter_title": "PEDESTRIAN AND WORKER SAFETY",
+    "part_num": null,
+    "pages": 6,
+    "sections": [
+      [
+        "6C.01",
+        "Pedestrian and Worker Safety"
+      ],
+      [
+        "6C.02",
+        "Pedestrian Considerations"
+      ],
+      [
+        "6C.03",
+        "contains additional"
+      ],
+      [
+        "4K.01",
+        "contains information on accessible pedestrian"
+      ],
+      [
+        "6C.04",
+        "Worker Safety Considerations"
+      ],
+      [
+        "6C.05",
+        "High-Visibility Safety Apparel"
+      ],
+      [
+        "1A.05",
+        "for information regarding this publication"
+      ],
+      [
+        "6N.04",
+        "for more details"
+      ]
+    ]
+  },
+  "6d.pdf": {
+    "chapter_code": "6D",
+    "chapter_title": "FLAGGER CONTROL",
+    "part_num": null,
+    "pages": 5,
+    "sections": [
+      [
+        "6D.01",
+        "Qualifications for Flaggers"
+      ],
+      [
+        "1A.05",
+        "for information regarding this publication"
+      ],
+      [
+        "6D.02",
+        "STOP/SLOW Paddle for Hand-Signaling"
+      ],
+      [
+        "6D.03",
+        "Flag for Hand-Signaling"
+      ],
+      [
+        "6D.04",
+        "Flashlight for Hand-Signaling"
+      ],
+      [
+        "6D.05",
+        "Flagger Procedures"
+      ],
+      [
+        "6O.01",
+        "or provided by uniformed law enforcement officers"
+      ],
+      [
+        "6D.06",
+        "Flagger Stations"
+      ]
+    ]
+  },
+  "6e.pdf": {
+    "chapter_code": "6E",
+    "chapter_title": "ONE-LANE, TWO-WAY TRAFFIC CONTROL",
+    "part_num": null,
+    "pages": 2,
+    "sections": [
+      [
+        "6E.01",
+        "One-Lane, Two-Way Traffic Control"
+      ],
+      [
+        "6E.02",
+        "Flagger Method"
+      ],
+      [
+        "6E.03",
+        "Flag Transfer Method"
+      ],
+      [
+        "6E.04",
+        "Pilot Car Method"
+      ],
+      [
+        "6E.05",
+        "Temporary Traffic Control Signal Method"
+      ],
+      [
+        "6E.06",
+        "Stop or Yield Control Method"
+      ],
+      [
+        "3B.03",
+        "and Figure 6P-11"
+      ]
+    ]
+  },
+  "6f.pdf": {
+    "chapter_code": "6F",
+    "chapter_title": "TEMPORARY TRAFFIC CONTROL ZONE SIGNS",
+    "part_num": null,
+    "pages": 4,
+    "sections": [
+      [
+        "6F.01",
+        "General Characteristics of TTC Zone Signs"
+      ],
+      [
+        "2A.04",
+        "contains additional information regarding the design of signs, including an Opti"
+      ],
+      [
+        "1A.05",
+        "for information regarding these publications"
+      ],
+      [
+        "6F.02",
+        "Sign Placement"
+      ],
+      [
+        "2A.18",
+        "for mounting of small plastic signs on channelizers (CA), cones or portable deli"
+      ],
+      [
+        "6F.03",
+        "Sign Maintenance"
+      ],
+      [
+        "2A.21",
+        "contains information regarding the retroreflectivity of signs, including the sig"
+      ]
+    ]
+  },
+  "6g.pdf": {
+    "chapter_code": "6G",
+    "chapter_title": "TTC ZONE REGULATORY SIGNS",
+    "part_num": null,
+    "pages": 10,
+    "sections": [
+      [
+        "6G.01",
+        "Regulatory Sign Authority"
+      ],
+      [
+        "6G.02",
+        "Regulatory Sign Design and Size"
+      ],
+      [
+        "6G.03",
+        "Regulatory Sign Applications"
+      ],
+      [
+        "6G.04",
+        "Road Closed Signs (R11-2 Series)"
+      ],
+      [
+        "6G.05",
+        "Local Traffic Only Signs (R11-3 Series and R11-4)"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "6G.06",
+        "Weight Limit Signs (R12-1, R12-2, and R12-5)"
+      ],
+      [
+        "6G.07",
+        "STAY IN LANE Signs (R4-9 and R4-9a)"
+      ],
+      [
+        "6G.08",
+        "Work Zone and Higher Fines Signs and Plaques"
+      ],
+      [
+        "2B.25",
+        "and Figure 6G-1) may be mounted"
+      ],
+      [
+        "6G.09",
+        "PEDESTRIAN CROSSWALK Sign (R9-8)"
+      ],
+      [
+        "6G.10",
+        "SIDEWALK CLOSED Signs (R9-9, R9-10, R9-11, and R9-11a)"
+      ],
+      [
+        "6G.11",
+        "TURN OFF 2-WAY RADIO AND CELL PHONE Sign (R22-2)"
+      ],
+      [
+        "6H.25",
+        "contains information about the full sequence of signs for blasting zones and the"
+      ],
+      [
+        "6G.12",
+        "Other Regulatory Signs"
+      ],
+      [
+        "1A.05",
+        "for information regarding this publication"
+      ]
+    ]
+  },
+  "6h.pdf": {
+    "chapter_code": "6H",
+    "chapter_title": "TTC ZONE WARNING SIGNS",
+    "part_num": null,
+    "pages": 22,
+    "sections": [
+      [
+        "6H.01",
+        "Warning Sign Function, Design, and Application"
+      ],
+      [
+        "6H.02",
+        "Position of Advance Warning Signs"
+      ],
+      [
+        "6H.03",
+        "ROAD (STREET) WORK Sign (W20-1)"
+      ],
+      [
+        "6H.04",
+        "DETOUR Sign (W20-2)"
+      ],
+      [
+        "6H.05",
+        "ROAD (STREET) CLOSED Sign (W20-3)"
+      ],
+      [
+        "6H.06",
+        "ONE LANE ROAD Sign (W20-4)"
+      ],
+      [
+        "6H.07",
+        "Lane(s) Closed Signs (W20-5, W20-5a, and W9-3)"
+      ],
+      [
+        "1A.05",
+        "for information regarding"
+      ],
+      [
+        "6H.08",
+        "Lane Ends Signs (W4-2 and W9-2a)"
+      ],
+      [
+        "6H.09",
+        "ON RAMP Plaque (W13-4P)"
+      ],
+      [
+        "6H.10",
+        "RAMP NARROWS Sign (W5-4)"
+      ],
+      [
+        "6H.11",
+        "SLOW TRAFFIC AHEAD Sign (W23-1)"
+      ],
+      [
+        "6H.12",
+        "EXIT OPEN and EXIT CLOSED Signs (E5-2 and E5-2a)"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "6H.13",
+        "EXIT ONLY Sign (E5-3)"
+      ],
+      [
+        "6H.14",
+        "NEW TRAFFIC PATTERN AHEAD Sign (W23-2)"
+      ],
+      [
+        "6H.15",
+        "Flagger Signs (W20-7 and W20-7a)"
+      ],
+      [
+        "6H.16",
+        "Two-Way Traffic Sign (W6-3)"
+      ],
+      [
+        "6H.17",
+        "Narrow Two-Way Traffic Sign (W6-4)"
+      ],
+      [
+        "6H.18",
+        "Workers Signs (W21-1 and W21-1a)"
+      ],
+      [
+        "6H.19",
+        "FRESH OIL (TAR) Sign (W21-2)"
+      ],
+      [
+        "6H.20",
+        "ROAD MACHINERY AHEAD Sign (W21-3)"
+      ],
+      [
+        "6H.21",
+        "Motorized Traffic Signs (W8-6 and W11-10)"
+      ],
+      [
+        "6H.22",
+        "Shoulder Work Signs (W21-5, W21-5a, and W21-5b)"
+      ],
+      [
+        "6H.23",
+        "SURVEY CREW Sign (W21-6)"
+      ],
+      [
+        "6H.24",
+        "UTILITY WORK Sign (W21-7)"
+      ],
+      [
+        "6H.25",
+        "Signs for Blasting Areas"
+      ],
+      [
+        "6G.11",
+        "and Figure 6G-1) shall"
+      ],
+      [
+        "6H.26",
+        "Shoulder Signs and Plaque (W8-4, W8-9, W8-17, and W8-17P)"
+      ],
+      [
+        "6H.27",
+        "UNEVEN LANES Sign (W8-11)"
+      ],
+      [
+        "6H.28",
+        "STEEL PLATE AHEAD Sign (W8-24)"
+      ],
+      [
+        "6H.29",
+        "NO CENTER LINE Sign (W8-12)"
+      ],
+      [
+        "6J.02",
+        "contains information regarding temporary markings"
+      ],
+      [
+        "6H.30",
+        "Reverse Curve Signs (W1-4 Series)"
+      ],
+      [
+        "6H.31",
+        "Double Reverse Curve Signs (W24-1 Series)"
+      ],
+      [
+        "6H.32",
+        "Advisory Speed Plaque (W13-1P)"
+      ],
+      [
+        "6H.33",
+        "Supplementary Distance Plaque (W7-3aP)"
+      ],
+      [
+        "6H.34",
+        "Motorcycle Plaque (W8-15P)"
+      ],
+      [
+        "6H.35",
+        "ROAD WORK NEXT XX MILES Sign (G20-1)"
+      ],
+      [
+        "6H.36",
+        "END ROAD WORK Sign (G20-2)"
+      ],
+      [
+        "6H.37",
+        "PILOT CAR FOLLOW ME Sign (G20-4)"
+      ],
+      [
+        "6H.38",
+        "Other Warning Signs"
+      ]
+    ]
+  },
+  "6i.pdf": {
+    "chapter_code": "6I",
+    "chapter_title": "TTC ZONE GUIDE SIGNS",
+    "part_num": null,
+    "pages": 7,
+    "sections": [
+      [
+        "6I.01",
+        "Guide Signs"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "6I.02",
+        "Detour Signs and Plaques (M4-8P, M4-8a, M4-8bP, M4-9, M4-9a, M4-9b, M4-9c, and M"
+      ],
+      [
+        "6I.03",
+        "EXIT CLOSED Panel"
+      ]
+    ]
+  },
+  "6j.pdf": {
+    "chapter_code": "6J",
+    "chapter_title": "TTC ZONE PAVEMENT MARKINGS",
+    "part_num": null,
+    "pages": 3,
+    "sections": [
+      [
+        "6J.01",
+        "Pavement Markings in TTC Zones"
+      ],
+      [
+        "6J.02",
+        "Temporary Markings"
+      ],
+      [
+        "6J.03",
+        "for spacing requirements"
+      ],
+      [
+        "6J.04",
+        "Delineators"
+      ],
+      [
+        "3G.04",
+        "and should be such that several delineators"
+      ]
+    ]
+  },
+  "6k.pdf": {
+    "chapter_code": "6K",
+    "chapter_title": "TTC ZONE CHANNELIZING DEVICES",
+    "part_num": null,
+    "pages": 13,
+    "sections": [
+      [
+        "6K.01",
+        "Channelizing Devices"
+      ],
+      [
+        "6K.02",
+        "Pedestrian Channelizing Devices"
+      ],
+      [
+        "6M.04",
+        "also contains information regarding detectable edging for pedestrian channelizat"
+      ],
+      [
+        "6K.03",
+        "Cones"
+      ],
+      [
+        "1A.05",
+        "for information"
+      ],
+      [
+        "6K.04",
+        "Tubular Markers"
+      ],
+      [
+        "3I.01",
+        "and shown in Figure 3I-101(CA),"
+      ],
+      [
+        "6K.05",
+        "Vertical Panels"
+      ],
+      [
+        "6K.06",
+        "Drums"
+      ],
+      [
+        "6K.07",
+        "Type 1, 2, or 3 Barricades"
+      ],
+      [
+        "6K.08",
+        "Direction Indicator Barricades"
+      ],
+      [
+        "6K.09",
+        "Temporary Traffic Barriers as Channelizing Devices"
+      ],
+      [
+        "6K.10",
+        "Longitudinal Channelizing Devices"
+      ],
+      [
+        "6K.11",
+        "Temporary Lane Separators"
+      ],
+      [
+        "6K.12",
+        "Other Channelizing Devices"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ]
+    ]
+  },
+  "6l.pdf": {
+    "chapter_code": "6L",
+    "chapter_title": "OTHER TTC ZONE TRAFFIC CONTROL DEVICES",
+    "part_num": null,
+    "pages": 15,
+    "sections": [
+      [
+        "6L.01",
+        "Temporary Traffic Control Signals"
+      ],
+      [
+        "1A.05",
+        "for information regarding this publication"
+      ],
+      [
+        "6L.02",
+        "Automated Flagger Assistance Devices"
+      ],
+      [
+        "6L.03",
+        "STOP/SLOW Automated Flagger Assistance Devices"
+      ],
+      [
+        "6L.04",
+        "Red/Yellow Lens Automated Flagger Assistance Devices"
+      ],
+      [
+        "6L.05",
+        "Portable Changeable Message Signs"
+      ],
+      [
+        "2L.02",
+        "contains information regarding overly simplistic or vague messages that is also "
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "2L.04",
+        "contains information regarding the luminance, luminance contrast, and contrast o"
+      ],
+      [
+        "2B.21",
+        "contains information regarding the design of portable changeable message signs t"
+      ],
+      [
+        "1D.08",
+        "shall be followed"
+      ],
+      [
+        "6L.06",
+        "Arrow Boards"
+      ],
+      [
+        "6L.07",
+        "Flashing Beacons and Warning Lights"
+      ],
+      [
+        "6L.08",
+        "High-Level Warning Devices (Flag Trees)"
+      ]
+    ]
+  },
+  "6m.pdf": {
+    "chapter_code": "6M",
+    "chapter_title": "OTHER TTC ZONE DESIGN FEATURES AND SAFETY DEVICES",
+    "part_num": null,
+    "pages": 5,
+    "sections": [
+      [
+        "6M.01",
+        "General"
+      ],
+      [
+        "1D.04",
+        "contains additional information about these devices and design features"
+      ],
+      [
+        "6M.02",
+        "Positive Protection and Temporary Traffic Barriers"
+      ],
+      [
+        "1A.05",
+        "for information regarding these publications"
+      ],
+      [
+        "6M.03",
+        "Temporary Raised Islands"
+      ],
+      [
+        "6M.04",
+        "Detectable Edging for Pedestrians"
+      ],
+      [
+        "6M.05",
+        "Crash Cushions"
+      ],
+      [
+        "6M.06",
+        "Rumble Strips"
+      ],
+      [
+        "6M.07",
+        "Screens"
+      ],
+      [
+        "6M.08",
+        "Lighting for Night Work"
+      ]
+    ]
+  },
+  "6n.pdf": {
+    "chapter_code": "6N",
+    "chapter_title": "TYPES OF TEMPORARY TRAFFIC CONTROL ZONE ACTIVITIES",
+    "part_num": null,
+    "pages": 14,
+    "sections": [
+      [
+        "6N.01",
+        "Work Duration"
+      ],
+      [
+        "6N.02",
+        "Location of Work"
+      ],
+      [
+        "6N.03",
+        "Modifications To Fulfill Special Needs"
+      ],
+      [
+        "6M.04",
+        "for information regarding detectable edging"
+      ],
+      [
+        "6N.04",
+        "Work Affecting Pedestrian and Bicycle Facilities"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "6C.02",
+        "for details"
+      ],
+      [
+        "6N.05",
+        "Work Outside of the Shoulder"
+      ],
+      [
+        "6N.06",
+        "Work on the Shoulder with No Encroachment"
+      ],
+      [
+        "6N.07",
+        "Work on the Shoulder with Minor Encroachment"
+      ],
+      [
+        "6N.08",
+        "Work Within the Median"
+      ],
+      [
+        "6N.09",
+        "Work Within the Traveled Way of a Two-Lane Highway"
+      ],
+      [
+        "6N.10",
+        "Work Within the Traveled Way of an Urban Street"
+      ],
+      [
+        "6N.11",
+        "Work Within the Traveled Way of a Multi-Lane, Non-Access Controlled Highway"
+      ],
+      [
+        "6N.12",
+        "Work Within the Traveled Way at an Intersection"
+      ],
+      [
+        "6N.13",
+        "Work Within the Traveled Way of a Freeway or Expressway"
+      ],
+      [
+        "1A.05",
+        "for information regarding this publication"
+      ],
+      [
+        "6N.14",
+        "Two-Lane, Two-Way Traffic on One Roadway of a Normally Divided Highway"
+      ],
+      [
+        "6N.15",
+        "Crossovers"
+      ],
+      [
+        "6N.16",
+        "Interchanges"
+      ],
+      [
+        "6N.17",
+        "Work in the Vicinity of a Grade Crossing"
+      ],
+      [
+        "8A.13",
+        "contains additional information regarding TTC zones in the vicinity of grade cro"
+      ],
+      [
+        "6N.18",
+        "Work During Nighttime Hours"
+      ],
+      [
+        "6A.05",
+        "contains additional information regarding considerations for conducting work ope"
+      ],
+      [
+        "6N.19",
+        "Late Merge"
+      ]
+    ]
+  },
+  "6o.pdf": {
+    "chapter_code": "6O",
+    "chapter_title": "CONTROL OF TRAFFIC THROUGH TRAFFIC INCIDENT MANAGEMENT AREAS",
+    "part_num": null,
+    "pages": 6,
+    "sections": [
+      [
+        "6O.01",
+        "General"
+      ],
+      [
+        "6B.05",
+        "for details on high-visibility apparel requirements"
+      ],
+      [
+        "6O.02",
+        "Major Traffic Incidents"
+      ],
+      [
+        "6O.03",
+        "Intermediate Traffic Incidents"
+      ],
+      [
+        "6O.04",
+        "Minor Traffic Incidents"
+      ],
+      [
+        "6O.05",
+        "Use of Emergency-Vehicle Lighting"
+      ]
+    ]
+  },
+  "6p.pdf": {
+    "chapter_code": "6P",
+    "chapter_title": "TYPICAL APPLICATIONS",
+    "part_num": null,
+    "pages": 121,
+    "sections": [
+      [
+        "6P.01",
+        "Typical Applications"
+      ],
+      [
+        "6A.02",
+        "contains discussions on development of"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "1A.05",
+        "for information regarding this publication"
+      ],
+      [
+        "3B.03",
+        "and 6E"
+      ],
+      [
+        "9E.09",
+        "DETOUR"
+      ],
+      [
+        "6L.06",
+        "W12-1"
+      ],
+      [
+        "2C.45",
+        "for merge signs"
+      ],
+      [
+        "6K.01",
+        "for spacing of channelizing devices"
+      ]
+    ]
+  },
+  "7a.pdf": {
+    "chapter_code": "7A",
+    "chapter_title": "GENERAL",
+    "part_num": "7",
+    "pages": 3,
+    "sections": [
+      [
+        "7A.01",
+        "Introduction"
+      ],
+      [
+        "7A.02",
+        "School Route Plans and School Crossings"
+      ]
+    ]
+  },
+  "7b.pdf": {
+    "chapter_code": "7B",
+    "chapter_title": "SIGNS",
+    "part_num": null,
+    "pages": 23,
+    "sections": [
+      [
+        "7B.01",
+        "Design of School Signs"
+      ],
+      [
+        "2A.15",
+        "contains provisions regarding the mounting heights of signs"
+      ],
+      [
+        "2A.16",
+        "contains provisions regarding the lateral offsets of signs"
+      ],
+      [
+        "7B.02",
+        "School Area Signs and Plaques"
+      ],
+      [
+        "7B.03",
+        "School Crossing Signs"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "2B.20",
+        "and Figure 7B-1) or the In- Street School"
+      ],
+      [
+        "7B.04",
+        "School Bus Stop Signs"
+      ],
+      [
+        "7B.05",
+        "School Speed Limit Signs and Plaques"
+      ],
+      [
+        "7B.06",
+        "Higher Fines Zone Signs and Plaques in School Areas"
+      ],
+      [
+        "7B.07",
+        "Parking and Stopping (R7 and R8 Series) Signs"
+      ],
+      [
+        "2C.04",
+        "500 ft Maximum"
+      ]
+    ]
+  },
+  "7c.pdf": {
+    "chapter_code": "7C",
+    "chapter_title": "MARKINGS",
+    "part_num": null,
+    "pages": 4,
+    "sections": [
+      [
+        "7C.01",
+        "Crosswalk Markings"
+      ],
+      [
+        "3C.02",
+        "should be performed before a marked"
+      ],
+      [
+        "3C.03",
+        "contains provisions regarding the placement and design of crosswalks, and Sectio"
+      ],
+      [
+        "7C.02",
+        "Pavement Word, Symbol, and Arrow Markings"
+      ],
+      [
+        "3B.20",
+        "contains provisions regarding other word, symbol, and arrow pavement markings th"
+      ],
+      [
+        "1A.05",
+        "for more information regarding this publication"
+      ],
+      [
+        "7B.02",
+        "and 7B"
+      ]
+    ]
+  },
+  "7d.pdf": {
+    "chapter_code": "7D",
+    "chapter_title": "CROSSING SUPERVISION",
+    "part_num": null,
+    "pages": 2,
+    "sections": [
+      [
+        "7D.01",
+        "Adult Crossing Guards"
+      ],
+      [
+        "7D.02",
+        "Operating Procedures for Adult Crossing Guards"
+      ],
+      [
+        "6D.02",
+        "for details on STOP paddles and rigid staff"
+      ]
+    ]
+  },
+  "8a.pdf": {
+    "chapter_code": "8A",
+    "chapter_title": "GENERAL",
+    "part_num": "8",
+    "pages": 8,
+    "sections": [
+      [
+        "8A.01",
+        "Introduction"
+      ],
+      [
+        "1B.01",
+        "and 1C"
+      ],
+      [
+        "8A.02",
+        "Highway-LRT Grade Crossings"
+      ],
+      [
+        "8A.03",
+        "Traffic Control Systems and Practices at Grade Crossings"
+      ],
+      [
+        "8A.04",
+        "Traffic Control Systems at Highway-LRT Grade Crossings"
+      ],
+      [
+        "8A.05",
+        "Engineering Studies at Grade Crossings"
+      ],
+      [
+        "8A.06",
+        "Uniform Provisions"
+      ],
+      [
+        "2A.21",
+        "to show the same shape and similar color to an approaching road user during both"
+      ],
+      [
+        "8A.07",
+        "Minimum Track Clearance Distance and Clear Storage Distance"
+      ],
+      [
+        "8A.08",
+        "Adjacent Grade Crossings"
+      ],
+      [
+        "8A.09",
+        "Grade Crossing Elimination"
+      ],
+      [
+        "8A.10",
+        "Illumination at Grade Crossings"
+      ],
+      [
+        "8A.11",
+        "Quiet Zone Treatments at Highway-Rail Grade Crossings"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "8A.12",
+        "Grade Crossings Within or In Close Proximity to Circular Intersections"
+      ],
+      [
+        "8A.13",
+        "Temporary Traffic Control Zones"
+      ],
+      [
+        "6N.17",
+        "contains additional information regarding temporary traffic control zones in the"
+      ]
+    ]
+  },
+  "8b.pdf": {
+    "chapter_code": "8B",
+    "chapter_title": "SIGNS",
+    "part_num": null,
+    "pages": 24,
+    "sections": [
+      [
+        "8B.01",
+        "Purpose and Application"
+      ],
+      [
+        "8B.02",
+        "Sizes of Grade Crossing Signs"
+      ],
+      [
+        "8B.03",
+        "Grade Crossing (Crossbuck) Sign (R15-1) and Number of Tracks Plaque (R15-2P) at"
+      ],
+      [
+        "8B.04",
+        "Crossbuck Assemblies with YIELD or STOP Signs at Passive Grade Crossings"
+      ],
+      [
+        "2C.35",
+        "is met"
+      ],
+      [
+        "8C.03",
+        "contains provisions regarding the use of stop lines or yield lines at grade cros"
+      ],
+      [
+        "8B.05",
+        "Use of STOP (R1-1) or YIELD (R1-2) Signs without Crossbuck Signs at Highway-LRT"
+      ],
+      [
+        "8B.06",
+        "Grade Crossing Advance Warning Signs (W10-1 through W10-4)"
+      ],
+      [
+        "2C.04",
+        "and"
+      ],
+      [
+        "8B.07",
+        "DO NOT STOP ON TRACKS Sign (R8-8)"
+      ],
+      [
+        "8B.08",
+        "TRACKS OUT OF SERVICE Sign (R8-9)"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "8B.09",
+        "STOP HERE WHEN FLASHING Signs (R8-10 and R8-10a)"
+      ],
+      [
+        "8B.10",
+        "STOP HERE ON RED Signs (R10-6 and R10-6a)"
+      ],
+      [
+        "8B.11",
+        "EXEMPT Grade Crossing Plaques (R15-3P and W10-1aP)"
+      ],
+      [
+        "8B.12",
+        "Light Rail Transit Only Lane Signs (R15-4 Series)"
+      ],
+      [
+        "8C.06",
+        "contains more information regarding the dynamic envelope"
+      ],
+      [
+        "8B.13",
+        "Do Not Pass Light Rail Transit Signs (R15-5 and R15-5a)"
+      ],
+      [
+        "8B.14",
+        "No Motor Vehicles On Tracks Signs (R15-6 and R15-6a)"
+      ],
+      [
+        "8B.15",
+        "Divided Highway with Light Rail Transit Crossing Signs (R15-7 Series)"
+      ],
+      [
+        "8B.16",
+        "Low Ground Clearance Grade Crossing Sign (W10-5)"
+      ],
+      [
+        "8B.17",
+        "Light Rail Transit Approaching-Activated Blank-Out Warning Sign (W10-7)"
+      ],
+      [
+        "8B.18",
+        "Another Train Coming Sign (W10-16)"
+      ],
+      [
+        "8B.19",
+        "TRAINS MAY EXCEED 80 MPH Sign (W10-8)"
+      ],
+      [
+        "8B.20",
+        "NO TRAIN HORN Sign or Plaque (W10-9 and W10-9P)"
+      ],
+      [
+        "8B.21",
+        "Storage Space Signs (W10-11, W10-11a, and W10-11b)"
+      ],
+      [
+        "8B.22",
+        "Skewed Crossing Sign (W10-12)"
+      ],
+      [
+        "8B.23",
+        "NO GATES OR LIGHTS Plaque (W10-13P)"
+      ],
+      [
+        "8B.24",
+        "Next Crossing Plaques (W10-14P and W10-14aP)"
+      ],
+      [
+        "8B.25",
+        "ROUGH CROSSING Plaque (W10-15P)"
+      ],
+      [
+        "8B.26",
+        "Light Rail Transit Station Sign (I3-8)"
+      ],
+      [
+        "2D.08",
+        "and Figure 8B-101(CA)"
+      ],
+      [
+        "8B.27",
+        "Emergency Notification System Sign (I13-1)"
+      ],
+      [
+        "2A.16",
+        "regarding"
+      ]
+    ]
+  },
+  "8c.pdf": {
+    "chapter_code": "8C",
+    "chapter_title": "MARKINGS",
+    "part_num": null,
+    "pages": 11,
+    "sections": [
+      [
+        "8C.01",
+        "Purpose and Application"
+      ],
+      [
+        "8C.02",
+        "Grade Crossing Pavement Markings"
+      ],
+      [
+        "3B.03",
+        "for additional details regarding no-passing zone markings"
+      ],
+      [
+        "8C.03",
+        "Stop and Yield Lines"
+      ],
+      [
+        "8C.04",
+        "Lane-Use Arrow Markings"
+      ],
+      [
+        "8C.05",
+        "Edge Lines, Lane Lines, Center Lines, Raised Pavement Markers, and Tubular Marke"
+      ],
+      [
+        "8C.06",
+        "Dynamic Envelope and Do Not Block Pavement Markings"
+      ],
+      [
+        "3A.03",
+        "and Chapter 3H) and/or contrasting pavement texture may be used"
+      ]
+    ]
+  },
+  "8d.pdf": {
+    "chapter_code": "8D",
+    "chapter_title": "FLASHING-LIGHT SIGNALS, AUTOMATIC GATES,",
+    "part_num": null,
+    "pages": 23,
+    "sections": [
+      [
+        "8D.01",
+        "Introduction"
+      ],
+      [
+        "8D.02",
+        "Flashing-Light Signals"
+      ],
+      [
+        "8D.04",
+        "contains additional information regarding flashing-light signals at highway-LRT "
+      ],
+      [
+        "8D.03",
+        "Automatic Gates"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "8D.05",
+        "Exit Gate and Four-Quadrant Gate Systems"
+      ],
+      [
+        "8D.06",
+        "Wayside Horn Systems"
+      ],
+      [
+        "8D.07",
+        "Rail Traffic Detection"
+      ],
+      [
+        "8D.08",
+        "Use of Traffic Control Signals at Grade Crossings"
+      ],
+      [
+        "8D.09",
+        "Preemption of Highway Traffic Signals at or Near Grade Crossings"
+      ],
+      [
+        "4F.19",
+        "unless otherwise"
+      ],
+      [
+        "4C.10",
+        "describes the Intersection Near a Grade Crossing signal warrant that is intended"
+      ],
+      [
+        "8D.10",
+        "Movements Prohibited During Preemption"
+      ],
+      [
+        "8D.11",
+        "Pre-Signals at or Near Grade Crossings"
+      ],
+      [
+        "8D.12",
+        "contains information for grade crossings located 200 feet or more from a downstr"
+      ],
+      [
+        "4D.07",
+        "regarding the lateral positioning of separate turn signal faces are applicable t"
+      ],
+      [
+        "8D.13",
+        "Warning Beacons or LED-Enhanced Warning Signs at Grade Crossings"
+      ],
+      [
+        "8D.14",
+        "Traffic Control Signals at or Near Highway-LRT Grade Crossings"
+      ],
+      [
+        "4F.18",
+        "contains information regarding traffic control signals at or near highway-LRT gr"
+      ],
+      [
+        "8D.15",
+        "Use of LRT Signals for Control of LRT Vehicles at Highway-LRT Grade Crossings"
+      ],
+      [
+        "8B.27",
+        "regarding the Emergency Notification System (I13-1) sign"
+      ]
+    ]
+  },
+  "8e.pdf": {
+    "chapter_code": "8E",
+    "chapter_title": "PATHWAY AND SIDEWALK GRADE CROSSINGS",
+    "part_num": null,
+    "pages": 19,
+    "sections": [
+      [
+        "8E.01",
+        "Purpose"
+      ],
+      [
+        "8E.02",
+        "Use of Standard Devices, Systems, and Practices"
+      ],
+      [
+        "8E.03",
+        "Pathway and Sidewalk Grade Crossing Signs and Markings"
+      ],
+      [
+        "8E.04",
+        "Stop Lines, Edge Lines, and Detectable Warnings"
+      ],
+      [
+        "8E.05",
+        "Passive Traffic Control Devices"
+      ],
+      [
+        "8E.06",
+        "Channelizing Devices used with Sidewalk and Pathway Traffic Control Devices"
+      ],
+      [
+        "8E.07",
+        "Active Traffic Control Systems"
+      ],
+      [
+        "8E.08",
+        "Active Traffic Control Devices"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "8E.09",
+        "Active Traffic Control Devices"
+      ],
+      [
+        "8E.10",
+        "Active Traffic Control Devices"
+      ]
+    ]
+  },
+  "9a.pdf": {
+    "chapter_code": "9A",
+    "chapter_title": "GENERAL",
+    "part_num": "9",
+    "pages": 8,
+    "sections": [
+      [
+        "9A.01",
+        "General"
+      ],
+      [
+        "1D.01",
+        "provides more information on"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "9A.02",
+        "Standardization of Application for Signing"
+      ],
+      [
+        "9A.03",
+        "Standardization of Application for Markings"
+      ],
+      [
+        "3H.06",
+        "contains information on green-colored pavement for use with certain traffic cont"
+      ],
+      [
+        "9E.17",
+        "contains information on the use of channelizing devices to emphasize the pavemen"
+      ]
+    ]
+  },
+  "9b.pdf": {
+    "chapter_code": "9B",
+    "chapter_title": "REGULATORY SIGNS",
+    "part_num": null,
+    "pages": 16,
+    "sections": [
+      [
+        "9B.01",
+        "STOP and YIELD Signs (R1-1 and R1-2)"
+      ],
+      [
+        "9B.02",
+        "EXCEPT BICYCLES Regulatory Plaque (R3-7bP)"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "9C.05",
+        "contains information regarding the EXCEPT BICYCLES warning plaque when applicabl"
+      ],
+      [
+        "9B.03",
+        "Advance Intersection Lane Control Signs (R3-8 Series) for Bicycle Lanes"
+      ],
+      [
+        "9D.02",
+        "through 9D"
+      ],
+      [
+        "9B.04",
+        "Bicycle Lane Signs and Plaques (R3-17, R3-5hP, R3-17aP, and R3-17bP)"
+      ],
+      [
+        "2B.33",
+        "contains information for the application of BEGIN and END plaques"
+      ],
+      [
+        "9B.05",
+        "BEGIN RIGHT TURN LANE YIELD TO BIKES Sign (R4-4)"
+      ],
+      [
+        "9B.06",
+        "Bicycle WRONG WAY Sign and RIDE WITH TRAFFIC Plaque (R5-1b and R9-3cP)"
+      ],
+      [
+        "9B.07",
+        "NO MOTOR VEHICLES Sign (R5-3)"
+      ],
+      [
+        "9B.08",
+        "Selective Exclusion Signs"
+      ],
+      [
+        "9B.09",
+        "No Parking Bike Lane Signs (R7-9 and R7-9a)"
+      ],
+      [
+        "9B.10",
+        "Back-In Parking Sign (R7-10)"
+      ],
+      [
+        "2B.52",
+        "and Figure 9B-1) may be used where back-in parking is"
+      ],
+      [
+        "9B.11",
+        "Bicycles Use Ped Signal Sign (R9-5)"
+      ],
+      [
+        "9B.12",
+        "Bicycles Yield to Peds Sign (R9-6)"
+      ],
+      [
+        "9B.13",
+        "Shared-Use Path Restriction Sign (R9-7)"
+      ],
+      [
+        "9B.14",
+        "Bicycles Allowed Use of Full Lane Sign (R9-20)"
+      ],
+      [
+        "9E.09",
+        "describes a shared-lane marking that may be used in addition to or instead of th"
+      ],
+      [
+        "9B.15",
+        "Bicycle Passing Clearance Sign (R4-19)"
+      ],
+      [
+        "9B.16",
+        "Bicycles Use Shoulder Only Sign (R9-21)"
+      ],
+      [
+        "9B.17",
+        "Signing for Bicycles on Freeways and Expressways"
+      ],
+      [
+        "2B.45",
+        "contains information on regulatory signing for prohibiting bicycles from using p"
+      ],
+      [
+        "9B.18",
+        "Two-Stage Bicycle Turn Box Regulatory Signing (R9-23 Series)"
+      ],
+      [
+        "9E.11",
+        "contains information regarding pavement markings and turning restrictions for tw"
+      ],
+      [
+        "9B.19",
+        "Bicycle Jughandle Signs (R9-24, R9-25, R9-26, and R9-27 Series)"
+      ],
+      [
+        "9D.01",
+        "contains information regarding the use of Bicycle Destination signs that can be "
+      ],
+      [
+        "9B.20",
+        "Bicycle Actuation Signs (R10-4, R10-22, R10-24, R10-25, and R10-26)"
+      ],
+      [
+        "9B.21",
+        "Left Turn Yield to Bicycles Sign (R10-12b)"
+      ],
+      [
+        "2B.59",
+        "contains provisions on the placement and use of regulatory Traffic Signal signs"
+      ],
+      [
+        "9B.22",
+        "Bicycle Signal Signs (R10-40, R10-40a, R10-41, R10-41a, R10-41b, and R10-41c)"
+      ],
+      [
+        "4H.03",
+        "contains information on signs that are used in conjunction with bicycle signal f"
+      ],
+      [
+        "9B.23",
+        "LOOK Sign (R15-8)"
+      ],
+      [
+        "9B.24",
+        "Other Regulatory Signs"
+      ]
+    ]
+  },
+  "9c.pdf": {
+    "chapter_code": "9C",
+    "chapter_title": "WARNING SIGNS AND OBJECT MARKERS",
+    "part_num": null,
+    "pages": 5,
+    "sections": [
+      [
+        "9C.01",
+        "Turn or Curve Warning Signs (W1 Series)"
+      ],
+      [
+        "9C.02",
+        "Intersection Warning Signs (W2 Series)"
+      ],
+      [
+        "9C.03",
+        "Bicycle Surface Condition Warning Sign (W8-10)"
+      ],
+      [
+        "9C.04",
+        "Bicycle Warning and Trail Crossing Signs (W11-1 and W11-15)"
+      ],
+      [
+        "9C.06",
+        "contains information for Bicycle Cross Traffic Warning plaques that can be used "
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "9C.05",
+        "EXCEPT BICYCLES Warning Plaque (W16-20P)"
+      ],
+      [
+        "9C.07",
+        "Bicycle Lane Ends Warning Sign (W9-5) and Bicycles Merging Sign (W9-5a)"
+      ],
+      [
+        "9C.08",
+        "Other Bicycle Warning Signs"
+      ],
+      [
+        "8B.22",
+        "for Skewed Crossing (W10-12) Sign"
+      ],
+      [
+        "9C.09",
+        "Object Markers"
+      ]
+    ]
+  },
+  "9d.pdf": {
+    "chapter_code": "9D",
+    "chapter_title": "GUIDE AND SERVICE SIGNS",
+    "part_num": null,
+    "pages": 22,
+    "sections": [
+      [
+        "9D.01",
+        "Bicycle Destination Signs (D1-1b, D1-1c, D1-2b, D1-2c, D1-3b, D1-3c, D2-1a, D2- "
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "2D.36",
+        "contains information on Destination signs used for when the destinations listed "
+      ],
+      [
+        "2D.43",
+        "contains information on Distance signs used for when the destinations listed wou"
+      ],
+      [
+        "2A.08",
+        "contains provisions on the display of fractions on guide signs"
+      ],
+      [
+        "9D.02",
+        "Bike Route Guide Signs (D11-1 and D11-1c)"
+      ],
+      [
+        "9D.03",
+        "BIKE ROUTE Plaque (D11-1bP)"
+      ],
+      [
+        "9D.04",
+        "Numbered Bikeway Systems"
+      ],
+      [
+        "9D.05",
+        "Numbered Bicycle Route Signs (M1-8 and M1-8a)"
+      ],
+      [
+        "9D.06",
+        "Non-Numbered Bicycle Route Signs (M1-8b and M1-8c)"
+      ],
+      [
+        "9D.07",
+        "U"
+      ],
+      [
+        "9D.08",
+        "Bicycle Route Sign and Auxiliary Plaques"
+      ],
+      [
+        "2D.12",
+        "contains additional provisions for the design of route sign auxiliary plaques"
+      ],
+      [
+        "9D.09",
+        "Bicycle Parking Area, Sharing Station, and Lockers Guide Signs (D4-3, D4-4, and "
+      ],
+      [
+        "2D.26",
+        "and Section 2D"
+      ],
+      [
+        "9D.10",
+        "Reference Location Signs (D10-1 through D10-3) and Intermediate Reference Locati"
+      ],
+      [
+        "2H.11",
+        "contains additional information regarding reference location signs"
+      ],
+      [
+        "9D.11",
+        "Mode-Specific Directional Guide Signs for Shared-Use Paths (D11-11, D11-12, D11-"
+      ],
+      [
+        "9D.12",
+        "Destination Guide Signs for Shared-Use Paths (D11-10a, D11-10b, D11-10c, D11-10d"
+      ],
+      [
+        "2A.04",
+        "are important and"
+      ],
+      [
+        "9D.13",
+        "Two-Stage Bicycle Turn Box Guide Signs (D11-20 Series)"
+      ],
+      [
+        "9B.18",
+        "provides information about situations when the use of a two-stage bicycle turn b"
+      ],
+      [
+        "9E.11",
+        "contains information regarding pavement markings for two-stage bicycle turn boxe"
+      ],
+      [
+        "9D.14",
+        "General Service Signing for Bikeways"
+      ]
+    ]
+  },
+  "9e.pdf": {
+    "chapter_code": "9E",
+    "chapter_title": "MARKINGS",
+    "part_num": null,
+    "pages": 60,
+    "sections": [
+      [
+        "9E.01",
+        "Bicycle Lanes (Class II Bikeways (Bike Lane or Buffer-Separated Bicycle Lane))"
+      ],
+      [
+        "3H.06",
+        "contains information on green-colored pavement for use in bicycle lanes"
+      ],
+      [
+        "9B.16",
+        "contains information regarding the Bicycles Use Shoulder Only sign that can be u"
+      ],
+      [
+        "9E.02",
+        "Bicycle Lanes at Intersection Approaches (Class II Bikeways (Bike Lane or Buffer"
+      ],
+      [
+        "1A.04",
+        "for more details"
+      ],
+      [
+        "9E.03",
+        "Extensions of Bicycle Lanes through Intersections (Class II Bikeways (Bike Lane "
+      ],
+      [
+        "9E.04",
+        "Bicycle Lanes at Driveways (Class II Bikeways (Bike Lane or Buffer-Separated Bic"
+      ],
+      [
+        "1C.02",
+        "contains information to determine if a driveway can be"
+      ],
+      [
+        "9E.05",
+        "Bicycle Lanes at Circular Intersections (Class II Bikeways (Bike Lane or Buffer-"
+      ],
+      [
+        "9E.10",
+        "contains information on using shared-lane markings to facilitate the bicycle mov"
+      ],
+      [
+        "9E.06",
+        "Buffer-Separated Bicycle Lanes (Class II Bikeway (Bike Lane or Buffer-Separated "
+      ],
+      [
+        "3B.25",
+        "and engineering judgment"
+      ],
+      [
+        "9E.07",
+        "Separated Bicycle Lanes (Class IV Bikeway (Cycle Track or Separated Bikeways))"
+      ],
+      [
+        "9E.13",
+        "for marking patterns)"
+      ],
+      [
+        "9E.08",
+        "Counter-Flow Bicycle Lanes (Class II Bikeway (Bike Lane or Buffer-Separated Bicy"
+      ],
+      [
+        "9B.21",
+        "contains information on the Left"
+      ],
+      [
+        "9E.09",
+        "Shared-Lane Marking"
+      ],
+      [
+        "9B.14",
+        "describes a Bicycles Allowed Use of Full Lane sign that may be used in addition "
+      ],
+      [
+        "9E.11",
+        "Two-Stage Bicycle Turn Boxes"
+      ],
+      [
+        "9B.18",
+        "contains information on regulatory signing that shall be used in conjunction wit"
+      ],
+      [
+        "9D.13",
+        "contains information on guide signing that can be used in conjunction with a two"
+      ],
+      [
+        "9E.12",
+        "Bicycle Box"
+      ],
+      [
+        "9B.02",
+        "contains information on the EXCEPT BICYCLES (R3-7bP) regulatory plaque that can "
+      ],
+      [
+        "9E.14",
+        "Bicycle Route Pavement Markings (Class III Bikeway (Bike Route))"
+      ],
+      [
+        "9D.02",
+        "through 9D"
+      ],
+      [
+        "9E.15",
+        "Bicycle Detector Symbol"
+      ],
+      [
+        "9E.16",
+        "Pavement Markings for Obstructions"
+      ],
+      [
+        "9E.17",
+        "Raised Devices (Class IV Bikeway (Cycle Track, Separated Bikeway or Separated Bi"
+      ],
+      [
+        "2C.50",
+        "AP"
+      ],
+      [
+        "2B.60",
+        "Pedestrian signal with"
+      ]
+    ]
+  },
+  "9f.pdf": {
+    "chapter_code": "9F",
+    "chapter_title": "SIGNALS",
+    "part_num": null,
+    "pages": 1,
+    "sections": [
+      [
+        "9F.01",
+        "Application"
+      ],
+      [
+        "9F.02",
+        "Bicycle Signal Faces"
+      ],
+      [
+        "9B.22",
+        "contains information for the Bicycle Signal sign that is required to be installe"
+      ],
+      [
+        "9F.03",
+        "Signal Operations for Bicycles"
+      ]
+    ]
+  }
+}

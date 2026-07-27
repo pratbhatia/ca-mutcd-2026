@@ -1,0 +1,19 @@
+{
+  "part_num": 8,
+  "chapter_letter": "c",
+  "chapter_code": "8C",
+  "file": "c-markings.html",
+  "title": "Markings",
+  "short_title": "Markings",
+  "description": "The RXR pavement marking symbol, stop and yield lines, lane-use arrow restrictions, edge/lane/center line treatment, and dynamic envelope and do-not-block markings at grade crossings.",
+  "sections": [
+    {"id": "sec-8c-01", "code": "8C.01", "title": "Purpose and Application"},
+    {"id": "sec-8c-02", "code": "8C.02", "title": "Grade Crossing Pavement Markings"},
+    {"id": "sec-8c-03", "code": "8C.03", "title": "Stop and Yield Lines"},
+    {"id": "sec-8c-04", "code": "8C.04", "title": "Lane-Use Arrow Markings"},
+    {"id": "sec-8c-05", "code": "8C.05", "title": "Edge Lines, Lane Lines, Center Lines, Raised Pavement Markers, and Tubular Markers"},
+    {"id": "sec-8c-06", "code": "8C.06", "title": "Dynamic Envelope and Do Not Block Pavement Markings"}
+  ],
+  "figure_count": 8,
+  "source_pages": 11
+}

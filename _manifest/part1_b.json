@@ -1,0 +1,21 @@
+{
+  "part_num": 1,
+  "chapter_letter": "b",
+  "chapter_code": "1B",
+  "file": "b-legal-requirements-for-traffic-control-devices.html",
+  "title": "Legal Requirements for Traffic Control Devices",
+  "short_title": "Legal Requirements",
+  "description": "Establishes the MUTCD's status as the national and California state standard, compliance requirements and target compliance dates, and the processes for interpretations, experimentation, changes, and interim approvals.",
+  "sections": [
+    {"id": "sec-1b-01", "code": "1B.01", "title": "National Standard"},
+    {"id": "sec-1b-02", "code": "1B.02", "title": "State Adoption and Conformance"},
+    {"id": "sec-1b-03", "code": "1B.03", "title": "Compliance of Devices"},
+    {"id": "sec-1b-04", "code": "1B.04", "title": "Interpretations"},
+    {"id": "sec-1b-05", "code": "1B.05", "title": "Experimentation"},
+    {"id": "sec-1b-06", "code": "1B.06", "title": "Changes to the MUTCD"},
+    {"id": "sec-1b-07", "code": "1B.07", "title": "Interim Approvals"},
+    {"id": "sec-1b-08", "code": "1B.08", "title": "Requesting Official Interpretations, Experiments, Changes to the MUTCD, or Interim Approvals"}
+  ],
+  "figure_count": 4,
+  "source_pages": 18
+}

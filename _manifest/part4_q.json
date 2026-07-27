@@ -1,0 +1,16 @@
+{
+  "part_num": 4,
+  "chapter_letter": "q",
+  "chapter_code": "4Q",
+  "file": "q-traffic-control-for-movable-bridges.html",
+  "title": "Traffic Control for Movable Bridges",
+  "short_title": "Movable Bridges",
+  "description": "Coordinated signals and gates that stop road users for bridge openings — when both are required, their design, location, and interlocked operation with the movable span.",
+  "sections": [
+    {"id": "sec-q-01", "code": "4Q.01", "title": "Application of Traffic Control for Movable Bridges"},
+    {"id": "sec-q-02", "code": "4Q.02", "title": "Design and Location of Movable Bridge Signals and Gates"},
+    {"id": "sec-q-03", "code": "4Q.03", "title": "Operation of Movable Bridge Signals and Gates"}
+  ],
+  "figure_count": 0,
+  "source_pages": 3
+}

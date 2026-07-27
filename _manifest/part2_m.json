@@ -1,0 +1,27 @@
+{
+  "part_num": 2,
+  "chapter_letter": "m",
+  "chapter_code": "2M",
+  "file": "m-recreational-and-cultural-interest-area-signs.html",
+  "title": "Recreational and Cultural Interest Area Signs",
+  "short_title": "Recreational and Cultural Signs",
+  "description": "White-on-brown symbol and destination guide signs for parks, campgrounds, and recreational/historical facilities, plus California's memorial/dedication and historic-route/bridge signing programs.",
+  "sections": [
+    {"id": "sec-m-01", "code": "2M.01", "title": "Scope"},
+    {"id": "sec-m-02", "code": "2M.02", "title": "Application of Recreational and Cultural Interest Area Signs"},
+    {"id": "sec-m-03", "code": "2M.03", "title": "Regulatory and Warning Signs"},
+    {"id": "sec-m-04", "code": "2M.04", "title": "General Design Requirements for Recreational and Cultural Interest Area Symbol Guide Signs"},
+    {"id": "sec-m-05", "code": "2M.05", "title": "Symbol Sign Sizes"},
+    {"id": "sec-m-06", "code": "2M.06", "title": "Use of Educational Plaques"},
+    {"id": "sec-m-07", "code": "2M.07", "title": "Use of Prohibitive Circle and Diagonal for Non-Road Applications"},
+    {"id": "sec-m-08", "code": "2M.08", "title": "Placement of Recreational and Cultural Interest Area Symbol Signs"},
+    {"id": "sec-m-09", "code": "2M.09", "title": "Destination Guide Signs"},
+    {"id": "sec-m-10", "code": "2M.10", "title": "Memorial or Dedication Signing"},
+    {"id": "sec-m-101", "code": "2M.101(CA)", "title": "Historical Landmark Signs (G13-1A(CA), G13-2A(CA) and G14A(CA))"},
+    {"id": "sec-m-102", "code": "2M.102(CA)", "title": "POINT OF HISTORICAL INTEREST Sign (G15A(CA))"},
+    {"id": "sec-m-103", "code": "2M.103(CA)", "title": "Historic Route Signs (SG2(CA), SG2A(CA), S18(CA) and S25(CA))"},
+    {"id": "sec-m-104", "code": "2M.104(CA)", "title": "Historic Bridge Signs (S29(CA), S29-1(CA) and S29-2(CA))"}
+  ],
+  "figure_count": 13,
+  "source_pages": 27
+}

@@ -1,0 +1,22 @@
+{
+  "part_num": 6,
+  "chapter_letter": "b",
+  "chapter_code": "6B",
+  "file": "b-temporary-traffic-control-elements.html",
+  "title": "Temporary Traffic Control Elements",
+  "short_title": "TTC Elements",
+  "description": "The four functional areas of a TTC zone, taper types and lengths, buffer spaces, sign-spacing tables, reduced speed limits, and detours/diversions.",
+  "sections": [
+    {"id": "sec-6b-01", "code": "6B.01", "title": "Temporary Traffic Control Plans"},
+    {"id": "sec-6b-02", "code": "6B.02", "title": "Temporary Traffic Control Zones"},
+    {"id": "sec-6b-03", "code": "6B.03", "title": "Components of Temporary Traffic Control Zones"},
+    {"id": "sec-6b-04", "code": "6B.04", "title": "Advance Warning Area"},
+    {"id": "sec-6b-05", "code": "6B.05", "title": "Transition Area"},
+    {"id": "sec-6b-06", "code": "6B.06", "title": "Activity Area"},
+    {"id": "sec-6b-07", "code": "6B.07", "title": "Termination Area"},
+    {"id": "sec-6b-08", "code": "6B.08", "title": "Tapers"},
+    {"id": "sec-6b-09", "code": "6B.09", "title": "Detours and Diversions"}
+  ],
+  "figure_count": 3,
+  "source_pages": 14
+}

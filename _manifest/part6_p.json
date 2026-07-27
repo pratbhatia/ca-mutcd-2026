@@ -1,0 +1,24 @@
+{
+  "part_num": 6,
+  "chapter_letter": "p",
+  "chapter_code": "6P",
+  "file": "p-typical-applications.html",
+  "title": "Typical Applications",
+  "short_title": "Typical Applications",
+  "description": "The full index of 59 California MUTCD Typical Application (TA) drawings for temporary traffic control — lane closures, shoulder work, flagging, detours, intersections, freeways, grade crossings, bicycle/pedestrian facilities, and roundabouts.",
+  "sections": [
+    {"id": "sec-6p-01", "code": "6P.01", "title": "Typical Applications"},
+    {"id": "sec-6p-01a", "code": "6N.05", "title": "Work Outside of the Shoulder"},
+    {"id": "sec-6p-01b", "code": "6N.06 / 6N.07", "title": "Work on the Shoulder"},
+    {"id": "sec-6p-01c", "code": "6N.09", "title": "Work Within the Traveled Way of a Two-Lane Highway"},
+    {"id": "sec-6p-01d", "code": "6N.10", "title": "Work Within the Traveled Way of an Urban Street"},
+    {"id": "sec-6p-01e", "code": "6N.12", "title": "Work Within the Traveled Way at an Intersection and on Sidewalks"},
+    {"id": "sec-6p-01f", "code": "6N.11", "title": "Work Within the Traveled Way of a Multi-Lane, Non-Access-Controlled Highway"},
+    {"id": "sec-6p-01g", "code": "6N.13", "title": "Work Within the Traveled Way of a Freeway or Expressway"},
+    {"id": "sec-6p-01h", "code": "6N.04", "title": "Work in the Vicinity of Bicycle Lanes and Shared-Use Paths"},
+    {"id": "sec-6p-01i", "code": "6N.04 / 6N.12", "title": "Work Affecting Pedestrian and Bicycle Facilities at an Intersection (California)"},
+    {"id": "sec-6p-01k", "code": "6N.14", "title": "Work in the Traveled Way of Roundabouts"}
+  ],
+  "figure_count": 62,
+  "source_pages": 121
+}

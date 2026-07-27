@@ -1,0 +1,16 @@
+{
+  "part_num": 4,
+  "chapter_letter": "m",
+  "chapter_code": "4M",
+  "file": "m-traffic-control-signals-for-emergency-vehicle.html",
+  "title": "Traffic Control Signals for Emergency-Vehicle Access",
+  "short_title": "Emergency-Vehicle Signals",
+  "description": "Application, design, and operation of the special traffic control signal that stops conflicting traffic so authorized emergency vehicles can enter a roadway or intersection.",
+  "sections": [
+    {"id": "sec-m-01", "code": "4M.01", "title": "Application of Emergency-Vehicle Traffic Control Signals"},
+    {"id": "sec-m-02", "code": "4M.02", "title": "Design of Emergency-Vehicle Traffic Control Signals"},
+    {"id": "sec-m-03", "code": "4M.03", "title": "Operation of Emergency-Vehicle Traffic Control Signals"}
+  ],
+  "figure_count": 0,
+  "source_pages": 2
+}

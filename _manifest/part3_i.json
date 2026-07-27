@@ -1,0 +1,15 @@
+{
+  "part_num": 3,
+  "chapter_letter": "i",
+  "chapter_code": "3I",
+  "file": "i-channelizing-devices-used-for-emphasis-of.html",
+  "title": "Channelizing Devices Used for Emphasis of Pavement Marking Patterns",
+  "short_title": "Channelizing Devices for Pavement Markings",
+  "description": "Requirements for channelizers and tubular markers used to add physical emphasis to pavement markings, including channelizer design, color, and spacing, and tubular marker placement at unsignalized crosswalks.",
+  "sections": [
+    {"id": "sec-i-01", "code": "3I.01", "title": "Channelizing Devices"},
+    {"id": "sec-i-02", "code": "3I.02", "title": "Tubular Markers"}
+  ],
+  "figure_count": 3,
+  "source_pages": 5
+}

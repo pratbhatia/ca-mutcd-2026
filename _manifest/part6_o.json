@@ -1,0 +1,20 @@
+{
+  "part_num": 6,
+  "chapter_letter": "o",
+  "chapter_code": "6O",
+  "file": "o-control-of-traffic-through-traffic-incident.html",
+  "title": "Control of Traffic Through Traffic Incident Management Areas",
+  "short_title": "Traffic Incident Management",
+  "description": "TTC principles for unplanned traffic incidents, including the three duration classes, emergency-vehicle lighting practices, and California's flood/emergency-scene warning signs.",
+  "sections": [
+    {"id": "sec-o-01", "code": "6O.01", "title": "General"},
+    {"id": "sec-o-02", "code": "6O.02", "title": "Major Traffic Incidents"},
+    {"id": "sec-o-03", "code": "6O.03", "title": "Intermediate Traffic Incidents"},
+    {"id": "sec-o-04", "code": "6O.04", "title": "Minor Traffic Incidents"},
+    {"id": "sec-o-05", "code": "6O.05", "title": "Use of Emergency-Vehicle Lighting"},
+    {"id": "sec-o-101", "code": "6O.101(CA)", "title": "FLOODING AHEAD TURN AROUND DON'T DROWN W86(CA) Sign"},
+    {"id": "sec-o-102", "code": "6O.102(CA)", "title": "EMERGENCY SCENE AHEAD W90(CA) Sign"}
+  ],
+  "figure_count": 2,
+  "source_pages": 6
+}

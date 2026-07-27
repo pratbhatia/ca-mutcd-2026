@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ch. {{CHAPTER_CODE}} — {{CHAPTER_TITLE}} | CA MUTCD 2026 Training</title>
+<link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body data-root="../">
+<header class="site-header">
+  <div class="bar">
+    <button class="icon-btn sidebar-toggle" data-action="toggle-sidebar" aria-label="Toggle chapter navigation">☰</button>
+    <a class="brand" href="../index.html">
+      <span class="badge">CA</span>
+      <span>CA MUTCD 2026<small>Interactive Training</small></span>
+    </a>
+    <nav class="breadcrumb">
+      <a href="../index.html">Home</a><span class="sep">/</span>
+      <a href="index.html">Part {{PART_NUM}} — {{PART_TITLE}}</a><span class="sep">/</span>
+      <span class="current">Ch. {{CHAPTER_CODE}}</span>
+    </nav>
+    <div class="header-actions">
+      <button class="search-trigger" data-action="open-search"><span>Search manual…</span><kbd>Ctrl K</kbd></button>
+      <button class="icon-btn" data-action="toggle-theme" aria-label="Toggle dark mode">◐</button>
+    </div>
+  </div>
+</header>
+
+<div class="layout">
+  <aside class="sidebar">
+    <a class="sidebar-back" href="index.html">← Part {{PART_NUM}} overview</a>
+    <div class="part-label">Part {{PART_NUM}}</div>
+    <div class="part-title">{{PART_TITLE}}</div>
+    <nav>
+      <!-- SIDEBAR_NAV: leave this exact HTML comment marker in place. Do NOT
+           build the chapter list yourself — it is injected by a post-process
+           step across all chapters in the Part. -->
+    </nav>
+  </aside>
+
+  <main class="main">
+    <div class="content">
+      <p class="eyebrow">Part {{PART_NUM}} · {{PART_TITLE}} · Chapter {{CHAPTER_CODE}}</p>
+      <h1 class="page-title">{{CHAPTER_TITLE_TITLECASE}}</h1>
+      <p class="page-subtitle">{{ONE_TO_TWO_SENTENCE_CHAPTER_OVERVIEW}}</p>
+
+      <!--
+        AGENT INSTRUCTIONS FOR BODY CONTENT — READ CAREFULLY:
+
+        This must be IN-DEPTH, not a summary. Work through the chapter's
+        source PDF section by section, in order, and for EVERY numbered
+        Section (e.g. "Section 2B.04 STOP Sign") produce:
+
+          <h2 id="sec-2b-04"><span class="code">2B.04</span>STOP Sign (R1-1) and ALL-WAY Plaque (R1-3P)</h2>
+          <p class="section-meta">Standard · Guidance · Option · Support — paraphrased faithfully below, organized by paragraph type.</p>
+
+          then one .callout block PER paragraph-type group found in the
+          source (Standard/Guidance/Option/Support), preserving the
+          original numbered-paragraph structure using .para-list, e.g.:
+
+          <div class="callout standard">
+            <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+            <ol class="para-list">
+              <li><span class="pnum">01</span><span class="ptext">Full, faithful requirement text…</span></li>
+              <li><span class="pnum">02</span><span class="ptext">…</span></li>
+            </ol>
+          </div>
+
+          <div class="callout guidance"> ... <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div> ... </div>
+          <div class="callout option"> ... <div class="callout-label"><span class="dot"></span>Option — Permissive</div> ... </div>
+          <div class="callout support"> ... <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div> ... </div>
+
+        DO NOT drop or heavily compress paragraphs — every requirement in
+        the source must appear here, in your own clear words when the
+        source prose is awkward, but with no loss of substantive content
+        (numbers, dimensions, distances, colors, conditions all preserved
+        exactly). This is a REFERENCE for practicing engineers, so
+        precision matters more than brevity.
+
+        After the callouts for a section, you MAY add a short
+        "In practice" tip paragraph (plain <p>, no special class) — one or
+        two sentences of applied insight — but only when it adds real
+        value, not filler.
+
+        Use <div class="table-wrap"><table>…</table></div> for any
+        dimension/spacing/size table in the source — transcribe all rows.
+
+        Insert figures near the section that references them:
+
+          <figure class="figure">
+            <img src="../assets/img/part{{PART_NUM}}/{{chapter-slug}}/fig-XX.png" alt="Figure 2B-1 ...">
+            <figcaption>Figure {{n}}. {{caption text from source}}</figcaption>
+          </figure>
+
+        Use .figure-grid to place two related figures side by side when helpful.
+
+        End the chapter with a takeaways box:
+
+          <div class="takeaways">
+            <h3>★ Key Takeaways — Chapter {{CHAPTER_CODE}}</h3>
+            <ul>
+              <li>...</li>
+            </ul>
+          </div>
+
+        Then the reviewed-checkbox + pager (fill prev/next hrefs and labels
+        to the adjacent chapter in this Part; on the first/last chapter of
+        the Part point to the Part index or the next Part's first chapter).
+      -->
+
+      <h2 id="sec-example">2X.01 Example Section Heading</h2>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <p>Replace this whole content region with the full in-depth chapter content per the instructions above.</p>
+      </div>
+
+      <div class="takeaways">
+        <h3>★ Key Takeaways — Chapter {{CHAPTER_CODE}}</h3>
+        <ul>
+          <li>Replace with real takeaways.</li>
+        </ul>
+      </div>
+
+      <div class="chapter-progress">
+        <label><input type="checkbox" id="reviewed-checkbox" data-chapter-id="{{PART_NUM}}{{CHAPTER_LETTER}}"> Mark Chapter {{CHAPTER_CODE}} as reviewed</label>
+      </div>
+
+      <!-- PAGER: leave this exact HTML comment marker in place. Prev/next
+           links are injected by a post-process step once all chapters in
+           the Part (and neighboring Parts) are known. -->
+    </div>
+  </main>
+</div>
+
+<footer class="site-footer"><div class="container">California MUTCD 2026 Edition — Interactive Training Reference. Not a substitute for the official California MUTCD; verify against the source document for legal/design purposes.</div></footer>
+
+<script src="../assets/js/search-index.js"></script>
+<script src="../assets/js/app.js"></script>
+</body>
+</html>

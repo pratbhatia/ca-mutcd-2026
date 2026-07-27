@@ -1,0 +1,24 @@
+{
+  "part_num": 1,
+  "chapter_letter": "d",
+  "chapter_code": "1D",
+  "file": "d-provisions-applicable-to-traffic-control-devices.html",
+  "title": "Provisions Applicable to Traffic Control Devices in General",
+  "short_title": "General Provisions",
+  "description": "Cross-cutting rules for every traffic control device: purpose and design principles, jurisdictional authority, engineering study/judgment, the 13-color code, public domain/copyright status, advertising prohibition, standard abbreviations, and placement, maintenance, and crashworthiness requirements.",
+  "sections": [
+    {"id": "sec-1d-01", "code": "1D.01", "title": "Purpose and Principles of Traffic Control Devices"},
+    {"id": "sec-1d-02", "code": "1D.02", "title": "Responsibility and Authority for Traffic Control Devices"},
+    {"id": "sec-1d-03", "code": "1D.03", "title": "Engineering Study and Engineering Judgment"},
+    {"id": "sec-1d-04", "code": "1D.04", "title": "Design of Traffic Control Devices"},
+    {"id": "sec-1d-05", "code": "1D.05", "title": "Color Code"},
+    {"id": "sec-1d-06", "code": "1D.06", "title": "Public Domain, Copyrights, and Patents"},
+    {"id": "sec-1d-07", "code": "1D.07", "title": "Advertising"},
+    {"id": "sec-1d-08", "code": "1D.08", "title": "Abbreviations Used on Traffic Control Devices"},
+    {"id": "sec-1d-09", "code": "1D.09", "title": "Placement and Operation of Traffic Control Devices"},
+    {"id": "sec-1d-10", "code": "1D.10", "title": "Maintenance of Traffic Control Devices"},
+    {"id": "sec-1d-11", "code": "1D.11", "title": "Crashworthiness of Traffic Control Devices and Other Roadside Appurtenances"}
+  ],
+  "figure_count": 0,
+  "source_pages": 10
+}

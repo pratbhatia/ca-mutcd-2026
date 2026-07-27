@@ -1,0 +1,27 @@
+{
+  "part_num": 4,
+  "chapter_letter": "h",
+  "chapter_code": "4H",
+  "file": "h-bicycle-signals.html",
+  "title": "Bicycle Signals",
+  "short_title": "Bicycle Signals",
+  "description": "Application, prohibited uses, signage, layout, sizing, placement, timing, and California limit-line bicycle detection requirements for bicycle signal faces.",
+  "sections": [
+    {"id": "sec-h-01", "code": "4H.01", "title": "Use of Bicycle Signal Faces"},
+    {"id": "sec-h-02", "code": "4H.02", "title": "Prohibited Uses of Bicycle Signal Faces"},
+    {"id": "sec-h-03", "code": "4H.03", "title": "Bicycle Signal Signs"},
+    {"id": "sec-h-04", "code": "4H.04", "title": "Application of Bicycle Symbol Signal Indications during Steady (Stop-and-Go) Operation"},
+    {"id": "sec-h-05", "code": "4H.05", "title": "Application of Bicycle Symbol Signal Indications during Flashing Operation"},
+    {"id": "sec-h-06", "code": "4H.06", "title": "Layout of Bicycle Signal Faces"},
+    {"id": "sec-h-07", "code": "4H.07", "title": "Size of Bicycle Symbol Signal Indications"},
+    {"id": "sec-h-08", "code": "4H.08", "title": "Placement of Bicycle Signal Faces"},
+    {"id": "sec-h-09", "code": "4H.09", "title": "Mounting Height of Bicycle Signal Faces"},
+    {"id": "sec-h-10", "code": "4H.10", "title": "Intensity and Light Distribution of Bicycle Signal Faces"},
+    {"id": "sec-h-11", "code": "4H.11", "title": "Yellow Change and Red Clearance Intervals for Bicycle Signal Faces"},
+    {"id": "sec-h-12", "code": "4H.12", "title": "Bicycle Push Buttons"},
+    {"id": "sec-h-101", "code": "4H.101(CA)", "title": "Optional Use of Bicycle Signal Faces"},
+    {"id": "sec-h-102", "code": "4H.102(CA)", "title": "Limit Line Bicycle Detection Zone"}
+  ],
+  "figure_count": 4,
+  "source_pages": 11
+}

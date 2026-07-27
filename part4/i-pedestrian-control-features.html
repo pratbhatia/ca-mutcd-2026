@@ -1,0 +1,479 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ch. 4I — Pedestrian Control Features | CA MUTCD 2026 Training</title>
+<link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body data-root="../">
+<header class="site-header">
+  <div class="bar">
+    <button class="icon-btn sidebar-toggle" data-action="toggle-sidebar" aria-label="Toggle chapter navigation">☰</button>
+    <a class="brand" href="../index.html">
+      <span class="badge">CA</span>
+      <span>CA MUTCD 2026<small>Interactive Training</small></span>
+    </a>
+    <nav class="breadcrumb">
+      <a href="../index.html">Home</a><span class="sep">/</span>
+      <a href="index.html">Part 4 — Highway Traffic Signals</a><span class="sep">/</span>
+      <span class="current">Ch. 4I</span>
+    </nav>
+    <div class="header-actions">
+      <button class="search-trigger" data-action="open-search"><span>Search manual…</span><kbd>Ctrl K</kbd></button>
+      <button class="icon-btn" data-action="toggle-theme" aria-label="Toggle dark mode">◐</button>
+    </div>
+  </div>
+</header>
+
+<div class="layout">
+  <aside class="sidebar">
+    <a class="sidebar-back" href="index.html">← Part 4 overview</a>
+    <div class="part-label">Part 4</div>
+    <div class="part-title">Highway Traffic Signals</div>
+    <nav>
+      <div class="chapter-group">
+  <a class="chapter-link" href="a-general.html" data-chapter-id="4a"><span class="num">4A</span> General<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="b-traffic-control-signals.html" data-chapter-id="4b"><span class="num">4B</span> Signals — General<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="c-traffic-control-signal-needs-studies.html" data-chapter-id="4c"><span class="num">4C</span> Signal Needs Studies<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="d-design-features-of-traffic-control-signals.html" data-chapter-id="4d"><span class="num">4D</span> Signal Design Features<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="e-traffic-control-signal-indications.html" data-chapter-id="4e"><span class="num">4E</span> Signal Indications<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="f-steady.html" data-chapter-id="4f"><span class="num">4F</span> Steady Operation<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="g-flashing-operation-of-traffic-control-signals.html" data-chapter-id="4g"><span class="num">4G</span> Flashing Operation<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="h-bicycle-signals.html" data-chapter-id="4h"><span class="num">4H</span> Bicycle Signals<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link active" href="i-pedestrian-control-features.html" data-chapter-id="4i"><span class="num">4I</span> Pedestrian Control Features<span class="done-dot"></span></a>
+  <a class="section-link" href="#sec-i-01">4I.01 Pedestrian Signal Heads</a>
+  <a class="section-link" href="#sec-i-02">4I.02 Size, Design, and Illumination of Pedestrian Signal Head Indications</a>
+  <a class="section-link" href="#sec-i-03">4I.03 Location and Height of Pedestrian Signal Heads</a>
+  <a class="section-link" href="#sec-i-04">4I.04 Countdown Pedestrian Signals</a>
+  <a class="section-link" href="#sec-i-05">4I.05 Pedestrian Detectors</a>
+  <a class="section-link" href="#sec-i-06">4I.06 Pedestrian Intervals and Signal Phases</a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="j-pedestrian-hybrid-beacons.html" data-chapter-id="4j"><span class="num">4J</span> Pedestrian Hybrid Beacons<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="k-accessible-pedestrian-signals-and-detectors.html" data-chapter-id="4k"><span class="num">4K</span> Accessible Pedestrian Signals<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="l-rectangular-rapid-flashing-beacons.html" data-chapter-id="4l"><span class="num">4L</span> Rectangular Rapid Flashing Beacons<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="m-traffic-control-signals-for-emergency-vehicle.html" data-chapter-id="4m"><span class="num">4M</span> Emergency-Vehicle Signals<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="n-hybrid-beacons-for-emergency-vehicle-access.html" data-chapter-id="4n"><span class="num">4N</span> Emergency-Vehicle Hybrid Beacons<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="o-traffic-control-signals-for-one-lane.html" data-chapter-id="4o"><span class="num">4O</span> One-Lane, Two-Way Signals<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="p-traffic-control-signals-for-freeway-entrance.html" data-chapter-id="4p"><span class="num">4P</span> Freeway Ramp Meters<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="q-traffic-control-for-movable-bridges.html" data-chapter-id="4q"><span class="num">4Q</span> Movable Bridges<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="r-highway-traffic-signals-at-toll-plazas.html" data-chapter-id="4r"><span class="num">4R</span> Toll Plaza Signals<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="s-flashing-beacons.html" data-chapter-id="4s"><span class="num">4S</span> Flashing Beacons<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="t-lane-use-control-signals.html" data-chapter-id="4t"><span class="num">4T</span> Lane-Use Control Signals<span class="done-dot"></span></a>
+</div>
+<div class="chapter-group">
+  <a class="chapter-link" href="u-in-roadway-warning-lights.html" data-chapter-id="4u"><span class="num">4U</span> In-Roadway Warning Lights<span class="done-dot"></span></a>
+</div>
+    </nav>
+  </aside>
+
+  <main class="main">
+    <div class="content">
+      <p class="eyebrow">Part 4 · Highway Traffic Signals · Chapter 4I</p>
+      <h1 class="page-title">Pedestrian Control Features</h1>
+      <p class="page-subtitle">Design, mounting, timing, and detection requirements for pedestrian signal heads, countdown displays, and pedestrian push buttons at signalized crossings.</p>
+
+      <h2 id="sec-i-01"><span class="code">4I.01</span>Pedestrian Signal Heads</h2>
+      <p class="section-meta">Support</p>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">01</span><span class="ptext">Pedestrian signal heads provide special types of traffic signal indications exclusively intended for controlling pedestrians. These signal indications consist of the illuminated symbols of a WALKING PERSON (symbolizing WALK) and an UPRAISED HAND (symbolizing DONT WALK).</span></li>
+          <li><span class="pnum">02</span><span class="ptext">Section 4D.02 contains information on when to use pedestrian signal heads.</span></li>
+          <li><span class="pnum">03</span><span class="ptext">Accessible pedestrian signals (see Chapter 4K) where pedestrian signal heads are used provide information in non-visual formats (such as audible tones and/or speech messages, and vibrating surfaces) so that a pedestrian with vision disabilities can know when to cross the street.</span></li>
+          <li><span class="pnum">04</span><span class="ptext">Chapter 4J contains information regarding the use of pedestrian hybrid beacons and Chapter 4U contains information regarding the use of In-Roadway Warning Lights at unsignalized marked crosswalks.</span></li>
+        </ol>
+      </div>
+
+      <h2 id="sec-i-02"><span class="code">4I.02</span>Size, Design, and Illumination of Pedestrian Signal Head Indications</h2>
+      <p class="section-meta">Standard · Guidance · Standard · Guidance · Option · Standard</p>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">01</span><span class="ptext">All new pedestrian signal head indications shall be displayed within a rectangular background and shall consist of symbolized messages (see Figure 4I-1), except that existing pedestrian signal head indications with lettered or outline style symbol messages shall be permitted to be retained for the remainder of their useful service life. The symbol designs set forth in the "Standard Highway Signs" publication (see Section 1A.05) shall be used. Each pedestrian signal head indication shall be independently displayed and emit a single color.</span></li>
+          <li><span class="pnum">02</span><span class="ptext">If a two-section pedestrian signal head is used, the UPRAISED HAND (symbolizing DONT WALK) signal section shall be mounted directly above the WALKING PERSON (symbolizing WALK) signal section. If a one-section pedestrian signal head is used, the symbols shall be either overlaid upon each other or arranged side-by-side with the UPRAISED HAND symbol to the left of the WALKING PERSON symbol, and a light source that can display each symbol independently shall be used.</span></li>
+          <li><span class="pnum">03</span><span class="ptext">The WALKING PERSON (symbolizing WALK) signal indication shall be white, with all except the symbol obscured by an opaque material for signal optical units that use incandescent lamps within optical assemblies that include lenses. The UPRAISED HAND (symbolizing DONT WALK) signal indication shall be Portland orange, with all except the symbol obscured by an opaque material for signal optical units that use incandescent lamps within optical assemblies that include lenses.</span></li>
+          <li><span class="pnum">04</span><span class="ptext">Except as provided in Paragraph 5 of this Section, the requirements of Chapter 3 of "Equipment and Materials Standards of the Institute of Transportation Engineers," 2008, ITE, that pertain to the aspects of the pedestrian signal head design that affect the display of the signal indications shall be met for signal optical units that use incandescent lamps within optical assemblies that include lenses. Except as provided in Paragraph 5, the requirements of "Pedestrian Traffic Control Signal Indicators — Light Emitting Diode (LED) Signal Modules," 2011, ITE, that pertain to the aspects of the signal head design that affect the display of the signal indications shall be met for LED pedestrian signal head modules.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">05</span><span class="ptext">The intensity and distribution of light from each illuminated pedestrian signal lens or LED pedestrian signal head module should comply with the publications specified in Paragraph 4 of this Section, as appropriate.</span></li>
+          <li><span class="pnum">06</span><span class="ptext">When not illuminated, the WALKING PERSON (symbolizing WALK) and UPRAISED HAND (symbolizing DONT WALK) symbols should not be visible to pedestrians at the far end of the crosswalk that the pedestrian signal head indications control.</span></li>
+        </ol>
+      </div>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">07</span><span class="ptext">For pedestrian signal head indications, the symbols shall be at least 6 inches high.</span></li>
+          <li><span class="pnum">08</span><span class="ptext">The light source of a flashing UPRAISED HAND (symbolizing DONT WALK) signal indication shall be flashed continuously at a rate of not less than 50 or more than 60 times per minute. The displayed period of each flash shall be a minimum of ½ and a maximum of ⅔ of the total flash cycle.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">09</span><span class="ptext">Pedestrian signal head indications should be conspicuous and recognizable to pedestrians at all distances from the beginning of the controlled crosswalk to a point 10 feet from the end of the controlled crosswalk during both day and night.</span></li>
+          <li><span class="pnum">10</span><span class="ptext">For crosswalks where the pedestrian enters the crosswalk more than 100 feet from the pedestrian signal head indications, the symbols should be at least 9 inches high.</span></li>
+          <li><span class="pnum">11</span><span class="ptext">If the pedestrian signal indication is so bright that it causes excessive glare in nighttime conditions, some form of automatic dimming should be used to reduce the brilliance of the signal indication.</span></li>
+        </ol>
+      </div>
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">12</span><span class="ptext">An animated eyes symbol may be added to a pedestrian signal head in order to prompt pedestrians to look for vehicles in the intersection during the time that the WALKING PERSON (symbolizing WALK) signal indication is displayed.</span></li>
+        </ol>
+      </div>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">13</span><span class="ptext">If used, the animated eyes symbol shall consist of an outline of a pair of white steadily illuminated eyes with white eyeballs that scan from side to side at a rate of approximately once per second. The animated eyes symbol shall be at least 12 inches wide with each eye having a width of at least 5 inches and a height of at least 2.5 inches. The animated eyes symbol shall be illuminated at the start of the walk interval and shall terminate at the end of the walk interval.</span></li>
+        </ol>
+      </div>
+
+      <figure class="figure">
+        <img src="../assets/img/part4/i-pedestrian-control-features/fig-01.png" alt="Figure 4I-1. Typical Pedestrian Signal Indications, showing WALK/DONT WALK head combinations with and without countdown displays">
+        <figcaption>Figure 4I-1. Typical Pedestrian Signal Indications</figcaption>
+      </figure>
+      <p>In practice: the countdown display and the two-section head are the near-universal choice for new installations; the older lettered "WALK"/"DONT WALK" heads shown as legacy retained equipment are being phased out as devices reach the end of useful service life.</p>
+
+      <h2 id="sec-i-03"><span class="code">4I.03</span>Location and Height of Pedestrian Signal Heads</h2>
+      <p class="section-meta">Standard · Guidance</p>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">01</span><span class="ptext">Pedestrian signal heads shall be mounted with the bottom of the signal housing including brackets not less than 7 feet or more than 10 feet above sidewalk level, and shall be positioned and adjusted to provide maximum visibility at the beginning of the controlled sidewalk.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">02</span><span class="ptext">If pedestrian signal heads are mounted on the same support as vehicular signal heads, there should be a physical separation between them.</span></li>
+        </ol>
+      </div>
+
+      <h2 id="sec-i-04"><span class="code">4I.04</span>Countdown Pedestrian Signals</h2>
+      <p class="section-meta">Standard · Option · Standard · Guidance · Support</p>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">01</span><span class="ptext">All pedestrian signal heads used at crosswalks where the pedestrian change interval is more than 7 seconds shall include a pedestrian change interval countdown display in order to inform pedestrians of the number of seconds remaining in the pedestrian change interval.</span></li>
+        </ol>
+      </div>
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">02</span><span class="ptext">Pedestrian signal heads used at crosswalks where the pedestrian change interval is 7 seconds or less may include a pedestrian change interval countdown display in order to inform pedestrians of the number of seconds remaining in the pedestrian change interval.</span></li>
+        </ol>
+      </div>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">03</span><span class="ptext">Where countdown pedestrian signals are used, the countdown shall always be displayed simultaneously with the flashing UPRAISED HAND (symbolizing DONT WALK) signal indication displayed for that crosswalk.</span></li>
+          <li><span class="pnum">04</span><span class="ptext">Countdown pedestrian signals shall consist of Portland orange numbers that are at least 6 inches in height on a black opaque background. The countdown pedestrian signal shall be located immediately adjacent to the associated UPRAISED HAND (symbolizing DONT WALK) pedestrian signal head indication (see Figure 4I-1).</span></li>
+          <li><span class="pnum">05</span><span class="ptext">The display of the number of remaining seconds shall begin only at the beginning of the pedestrian change interval (flashing UPRAISED HAND). After the countdown displays zero, the display shall remain dark until the beginning of the next countdown.</span></li>
+          <li><span class="pnum">06</span><span class="ptext">The countdown pedestrian signal shall display the number of seconds remaining until the termination of the pedestrian change interval (flashing UPRAISED HAND). Countdown displays shall not be used during the walk interval. Countdown displays shall not be used during the red clearance interval of a concurrent vehicular phase that is ending simultaneously with or after the end of the pedestrian phase.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">07</span><span class="ptext">If used with a pedestrian signal head that does not have a concurrent vehicular phase, the pedestrian change interval (flashing UPRAISED HAND) should be set to be approximately 4 seconds less than the required pedestrian clearance time (see Section 4I.06) and an additional clearance interval (during which a steady UPRAISED HAND is displayed) should be provided prior to the start of the conflicting vehicular phase.</span></li>
+          <li><span class="pnum">08</span><span class="ptext">For crosswalks where the pedestrian enters the crosswalk more than 100 feet from the countdown pedestrian signal display, the numbers should be at least 9 inches in height.</span></li>
+          <li><span class="pnum">09</span><span class="ptext">Because some technology includes the countdown pedestrian signal logic in a separate timing device that is independent of the timing in the traffic signal controller, care should be exercised by the engineer when timing changes are made to pedestrian change intervals.</span></li>
+          <li><span class="pnum">10</span><span class="ptext">If the pedestrian change interval is interrupted or shortened as a part of a transition into a preemption sequence (see Section 4F.19), the countdown pedestrian signal display should be discontinued and go dark immediately upon activation of the preemption transition.</span></li>
+        </ol>
+      </div>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">11</span><span class="ptext">Refer to Section 9E.12 for countdown pedestrian signals, when used with bicycle boxes.</span></li>
+        </ol>
+      </div>
+
+      <h2 id="sec-i-05"><span class="code">4I.05</span>Pedestrian Detectors</h2>
+      <p class="section-meta">Option · Support · Guidance · Option · Support · Standard · Option · Standard · Guidance · Standard · Option</p>
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">01</span><span class="ptext">Pedestrian detectors may be push buttons or passive detection devices.</span></li>
+        </ol>
+      </div>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">02</span><span class="ptext">Passive detection devices register the presence of a pedestrian in a position indicative of a desire to cross, without requiring the pedestrian to push a button. Some passive detection devices are capable of tracking the progress of a pedestrian as the pedestrian crosses the roadway for the purpose of extending or shortening the duration of certain pedestrian timing intervals.</span></li>
+          <li><span class="pnum">03</span><span class="ptext">The provisions in this Section place pedestrian push buttons within easy reach of pedestrians who are intending to cross each crosswalk and make it obvious which push button is associated with each crosswalk. These provisions also position push button poles in optimal locations for installation of accessible pedestrian signals (see Chapter 4K). Information regarding reach ranges can be found in the U.S. Department of Justice 2010 ADA Standards for Accessible Design, September 15, 2010, 28 CFR 35 and 36, Americans with Disabilities Act of 1990.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">04</span><span class="ptext">If pedestrian push buttons are used, they should be capable of easy activation requiring no more than 5 pounds of force, should not require tight grasping, pinching, or twisting of the wrist, and should be conveniently located near each end of the crosswalks. Except as provided in Paragraphs 5 and 6, pedestrian push buttons should be located to meet all of the following criteria (see Figure 4I-2):
+            <ol class="para-list">
+              <li><span class="ptext">A. Unobstructed and accessible within one or more of the reach ranges specified in Section 308, and from a clear ground space as specified in Section 305, of the 2010 ADA Standards for Accessible Design;</span></li>
+              <li><span class="ptext">B. To provide a wheelchair accessible route from the push button to the ramp;</span></li>
+              <li><span class="ptext">C. On the side of the curb ramp which is farthest from the center of the intersection;</span></li>
+              <li><span class="ptext">D. Not greater than 10 feet from the edge of the associated curb ramp which is farther from the center of the intersection;</span></li>
+              <li><span class="ptext">E. Not greater than 5 feet from the outside edge of the marked crosswalk farthest from the center of the intersection;</span></li>
+              <li><span class="ptext">F. Not farther from the crosswalk than the stop line is, if present;</span></li>
+              <li><span class="ptext">G. Between 1.5 and 6 feet from the face of the curb or from the outside edge of the shoulder (or if no shoulder exists, from the edge of the pavement);</span></li>
+              <li><span class="ptext">H. With the face of the push button parallel to the crosswalk to be used;</span></li>
+              <li><span class="ptext">I. At a mounting height of approximately 3.5 feet, but no more than 4 feet, above the sidewalk;</span></li>
+              <li><span class="ptext">J. Allowing a minimum 4-foot continuous clear width for a pedestrian access route; and</span></li>
+              <li><span class="ptext">K. Outside the flared side of the curb ramp, if present.</span></li>
+            </ol>
+          </span></li>
+          <li><span class="pnum">05</span><span class="ptext">Where there are physical constraints that make it impracticable to place the pedestrian push button adjacent to a level all-weather surface, the surface should be as level as feasible.</span></li>
+          <li><span class="pnum">06</span><span class="ptext">Where there are physical constraints that make it impracticable to place the pedestrian push button between 1.5 and 6 feet from the face of the curb or from the outside edge of the shoulder (or if no shoulder exists, from the edge of the pavement), it should not be farther than 10 feet from the face of the curb or from the outside edge of the shoulder (or if no shoulder exists, from the edge of the pavement).</span></li>
+          <li><span class="pnum">07</span><span class="ptext">Except as provided in Paragraph 8 of this Section, where two pedestrian push buttons are provided on the same corner of a signalized location, the push buttons should be separated by a distance of at least 10 feet.</span></li>
+        </ol>
+      </div>
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">08</span><span class="ptext">Where there are physical constraints on a particular corner that make it impracticable to provide the 10-foot separation between the two pedestrian push buttons, the push buttons may be placed closer together or on the same pole.</span></li>
+        </ol>
+      </div>
+
+      <figure class="figure">
+        <img src="../assets/img/part4/i-pedestrian-control-features/fig-02.png" alt="Figure 4I-2. Preferred Push Button Location Area, showing dimensions for placement relative to curb ramps and crosswalks">
+        <figcaption>Figure 4I-2. Preferred Push Button Location Area</figcaption>
+      </figure>
+
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">09</span><span class="ptext">Figure 4I-3 shows typical pedestrian push button locations for a variety of situations.</span></li>
+        </ol>
+      </div>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">10</span><span class="ptext">If a pedestrian push button is provided, a sign (see Section 2B.58) shall also be installed adjacent to or immediately above the pedestrian push button detector explaining the purpose and use.</span></li>
+        </ol>
+      </div>
+
+      <figure class="figure">
+        <img src="../assets/img/part4/i-pedestrian-control-features/fig-03.png" alt="Figure 4I-3. Typical Push Button Locations for perpendicular and parallel curb ramp configurations">
+        <figcaption>Figure 4I-3. Typical Push Button Locations</figcaption>
+      </figure>
+
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">11</span><span class="ptext">At certain locations, a supplemental sign in a more visible location may be used to call attention to the pedestrian push button.</span></li>
+        </ol>
+      </div>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">12</span><span class="ptext">The positioning of pedestrian push buttons and the legends on the pedestrian push button signs shall indicate which crosswalk signal is actuated by each pedestrian push button.</span></li>
+          <li><span class="pnum">13</span><span class="ptext">If the pedestrian clearance time is sufficient only to cross from the curb or shoulder to a median of sufficient width for pedestrians to wait and the signals are pedestrian actuated, an additional pedestrian detector shall be provided in the median.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">14</span><span class="ptext">The use of additional pedestrian detectors on islands or medians where a pedestrian might become stranded should be considered.</span></li>
+          <li><span class="pnum">15</span><span class="ptext">If used, special purpose push buttons (to be operated only by authorized persons) should include a housing capable of being locked to prevent access by the general public and do not need an instructional sign.</span></li>
+        </ol>
+      </div>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">16</span><span class="ptext">If used, a pilot light or other means of indication installed with a pedestrian push button shall not be illuminated until actuation. Once it is actuated, the pilot light shall remain illuminated until the pedestrian's green or WALKING PERSON (symbolizing WALK) signal indication is displayed.</span></li>
+        </ol>
+      </div>
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">17</span><span class="ptext">At signalized locations with a demonstrated need and subject to equipment capabilities, pedestrians with special needs may be provided with additional crossing time by means of an extended push button press.</span></li>
+        </ol>
+      </div>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">18</span><span class="ptext">If additional crossing time is provided by means of an extended push button press, a PUSH BUTTON FOR 2 SECONDS FOR EXTRA CROSSING TIME (R10-32P) plaque (see Figure 2B-27) shall be installed adjacent to the pedestrian push button detector.</span></li>
+        </ol>
+      </div>
+      <p>In practice: the 11-point placement checklist in Paragraph 4 is the most-cited part of this section during ADA-compliance reviews — plan-check staff typically verify criteria D, E, G, and I (distance to curb ramp, distance to crosswalk, offset from curb, and mounting height) first since they are the easiest to measure from as-built plans.</p>
+
+      <h2 id="sec-i-06"><span class="code">4I.06</span>Pedestrian Intervals and Signal Phases</h2>
+      <p class="section-meta">Standard · Option · Support · Guidance · Option · Guidance · Option · Support · Guidance · Option · Standard · Support · Option · Guidance · Support</p>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">01</span><span class="ptext">At intersections equipped with pedestrian signal heads, the pedestrian signal indications shall be displayed except when the vehicular traffic control signal is being operated in the flashing mode. At those times, the pedestrian signal indications shall not be displayed.</span></li>
+          <li><span class="pnum">02</span><span class="ptext">Except as provided in Paragraph 3 of Section 4J.03, when the pedestrian signal heads associated with a crosswalk are displaying either a steady WALKING PERSON (symbolizing WALK) or a flashing UPRAISED HAND (symbolizing DONT WALK) signal indication, a steady red signal indication shall be shown to any conflicting vehicular movement that is approaching the intersection or midblock location perpendicular or nearly perpendicular to the crosswalk.</span></li>
+          <li><span class="pnum">03</span><span class="ptext">When pedestrian signal heads are used, a WALKING PERSON (symbolizing WALK) signal indication shall be displayed only when pedestrians are permitted to leave the curb or shoulder.</span></li>
+          <li><span class="pnum">04</span><span class="ptext">A pedestrian change interval consisting of a flashing UPRAISED HAND (symbolizing DONT WALK) signal indication shall begin immediately following the WALKING PERSON (symbolizing WALK) signal indication except as provided in Section 4F.19. Following the pedestrian change interval, a buffer interval consisting of a steady UPRAISED HAND (symbolizing DONT WALK) signal indication shall be displayed for at least 2 seconds prior to the release of any conflicting vehicular movement. The sum of the time of the pedestrian change interval and the buffer interval shall not be less than the calculated pedestrian clearance time (see Paragraphs 7 through 16 of this Section). The buffer interval shall not begin later than the beginning of the red clearance interval, if used.</span></li>
+        </ol>
+      </div>
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">05</span><span class="ptext">During the yellow change interval, the UPRAISED HAND (symbolizing DON'T WALK) signal indication may be displayed as either a flashing indication, a steady indication, or a flashing indication for an initial portion of the yellow change interval and a steady indication for the remainder of the interval.</span></li>
+        </ol>
+      </div>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">06</span><span class="ptext">Figure 4I-4 illustrates the pedestrian intervals and their possible relationships with associated vehicular signal phase intervals.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">07</span><span class="ptext">Except as provided in Paragraph 8 of this Section, the pedestrian clearance time should be sufficient to allow a pedestrian crossing in the crosswalk who left the curb or edge of pavement at the end of the WALKING PERSON (symbolizing WALK) signal indication to travel at a walking speed of 3.5 feet per second to at least the far side of the traveled way or to a median of sufficient width for pedestrians to wait.</span></li>
+        </ol>
+      </div>
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">08</span><span class="ptext">A walking speed of up to 4 feet per second may be used to evaluate the sufficiency of the pedestrian clearance time at locations where an extended push button press function has been installed to provide slower pedestrians an opportunity to request and receive a longer pedestrian clearance time. Passive pedestrian detection may also be used to automatically adjust the pedestrian clearance time based on the pedestrian's actual walking speed or actual clearance of the crosswalk.</span></li>
+          <li><span class="pnum">09</span><span class="ptext">The additional time provided by an extended push button press to satisfy pedestrian clearance time needs may be added to either the walk interval or the pedestrian change interval.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">10</span><span class="ptext">Where pedestrians who walk slower than 3.5 feet per second, or pedestrians who use wheelchairs, routinely use the crosswalk, a walking speed of less than 3.5 feet per second should be considered in determining the pedestrian clearance time.</span></li>
+          <li><span class="pnum">10a</span><span class="ptext">Where older or disabled pedestrians routinely use the crosswalk, a walking speed of 2.8 feet per second should be considered in determining the pedestrian clearance time.</span></li>
+          <li><span class="pnum">11</span><span class="ptext">Except as provided in Paragraph 12 of this Section, the walk interval should be at least 7 seconds in length so that pedestrians will have adequate opportunity to leave the curb or shoulder before the pedestrian clearance time begins.</span></li>
+        </ol>
+      </div>
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">12</span><span class="ptext">If pedestrian volumes and characteristics do not require a 7-second walk interval, walk intervals as short as 4 seconds may be used.</span></li>
+        </ol>
+      </div>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">13</span><span class="ptext">The walk interval is intended for pedestrians to start their crossing. The pedestrian clearance time is intended to allow pedestrians who started crossing during the walk interval to complete their crossing. Longer walk intervals are often used when the duration of the vehicular green phase associated with the pedestrian crossing is long enough to allow it.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">14</span><span class="ptext">The total of the walk interval and pedestrian clearance time should be sufficient to allow a pedestrian crossing in the crosswalk who left the pedestrian detector (or, if no pedestrian detector is present, a location 6 feet behind the face of the curb or 6 feet behind the edge of the pavement) at the beginning of the WALKING PERSON (symbolizing WALK) signal indication to travel at a walking speed of 3 feet per second to the far side of the traveled way being crossed or to the median if a two-stage pedestrian crossing sequence is used. Any additional time that is required to satisfy the conditions of this paragraph should be added to the walk interval.</span></li>
+        </ol>
+      </div>
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">15</span><span class="ptext">On a street with a median of sufficient width for pedestrians to wait, a pedestrian clearance time that allows the pedestrian to cross only from the curb or shoulder to the median may be provided.</span></li>
+        </ol>
+      </div>
+      <div class="callout standard">
+        <div class="callout-label"><span class="dot"></span>Standard — Mandatory Requirement</div>
+        <ol class="para-list">
+          <li><span class="pnum">16</span><span class="ptext">Where the pedestrian clearance time is sufficient only for crossing from the curb or shoulder to a median of sufficient width for pedestrians to wait, median-mounted pedestrian signals, with pedestrian detectors (see Sections 4I.05 and 4K.01) if actuated operation is used, shall be provided and signing such as the R10-3d sign (see Section 2B.58) shall be provided to notify pedestrians to cross only to the median to await the next WALKING PERSON (symbolizing WALK) signal indication.</span></li>
+        </ol>
+      </div>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">17</span><span class="ptext">Accessible pedestrian signals (see Chapter 4K) where median-mounted pedestrian signals and detectors are used provide information in non-visual formats (such as audible tones and/or speech messages, and vibrating surfaces) so that a pedestrian with vision disabilities can know when to resume crossing the street after crossing to the median.</span></li>
+        </ol>
+      </div>
+      <div class="callout option">
+        <div class="callout-label"><span class="dot"></span>Option — Permissive</div>
+        <ol class="para-list">
+          <li><span class="pnum">18</span><span class="ptext">During the transition into preemption, the walk interval and the pedestrian change interval may be shortened or omitted as described in Section 4F.19.</span></li>
+          <li><span class="pnum">19</span><span class="ptext">At intersections with high pedestrian volumes and high conflicting turning vehicle volumes, a brief leading pedestrian interval, during which an advance WALKING PERSON (symbolizing WALK) indication is displayed for the crosswalk while red indications continue to be displayed to parallel through and/or turning traffic, may be used to reduce conflicts between pedestrians and turning vehicles.</span></li>
+        </ol>
+      </div>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">20</span><span class="ptext">Accessible pedestrian signals (see Chapter 4K) where leading pedestrian intervals are used provide information in non-visual formats (such as audible tones and/or speech messages, and vibrating surfaces) so that a pedestrian with vision disabilities can know when to cross the street in the absence of the audible cues normally provided when the onset of the vehicular and pedestrian movements coincide.</span></li>
+          <li><span class="pnum">21</span><span class="ptext">If a leading pedestrian interval is used without accessible features, pedestrians with vision disabilities might begin crossing at the onset of the vehicular movement when vehicle operators are not expecting them to begin crossing.</span></li>
+        </ol>
+      </div>
+      <div class="callout guidance">
+        <div class="callout-label"><span class="dot"></span>Guidance — Recommended Practice</div>
+        <ol class="para-list">
+          <li><span class="pnum">22</span><span class="ptext">If a leading pedestrian interval is used, it should be at least 3 seconds in duration and should be timed to allow pedestrians to cross at least one lane of traffic or, in the case of a large corner radius, to travel far enough for pedestrians to establish their position ahead of the turning traffic before the turning traffic is released.</span></li>
+          <li><span class="pnum">23</span><span class="ptext">If a leading pedestrian interval is used, consideration should be given to prohibiting turns across the crosswalk during the leading pedestrian interval.</span></li>
+          <li><span class="pnum">24</span><span class="ptext">At locations where a leading pedestrian interval is used, the minimum time for the WALKING PERSON (symbolizing WALK) indication should be the time provided for the leading pedestrian interval plus 7 seconds.</span></li>
+        </ol>
+      </div>
+      <div class="callout support">
+        <div class="callout-label"><span class="dot"></span>Support — Background/Explanatory</div>
+        <ol class="para-list">
+          <li><span class="pnum">25</span><span class="ptext">At intersections with pedestrian volumes that are so high that drivers have difficulty finding an opportunity to turn across the crosswalk, the duration of the green interval for a parallel concurrent vehicular movement is sometimes intentionally set to extend beyond the pedestrian clearance time to provide turning drivers additional green time to make their turns while the pedestrian signal head is displaying a steady UPRAISED HAND (symbolizing DONT WALK) signal indication after pedestrians have had time to complete their crossings.</span></li>
+        </ol>
+      </div>
+
+      <figure class="figure">
+        <img src="../assets/img/part4/i-pedestrian-control-features/fig-04.png" alt="Figure 4I-4. Pedestrian Intervals showing relationship to walk interval, pedestrian change interval, buffer interval, and associated vehicular phase intervals">
+        <figcaption>Figure 4I-4. Pedestrian Intervals</figcaption>
+      </figure>
+      <p>In practice: note that the figure's own footnote acknowledges a known FHWA erratum regarding the walk-interval-reduction cross-reference (the text points to "Section 4I.07," which does not exist in this chapter — the correct cross-reference is Paragraph 12 of Section 4I.06, governing shortened walk intervals). Always verify against Section 1A.04's List of Known Errors before relying on cross-references of this kind.</p>
+
+      <div class="takeaways">
+        <h3>★ Key Takeaways — Chapter 4I</h3>
+        <ul>
+          <li>New pedestrian signal heads must use symbolized WALK/DONT WALK indications at least 6 inches high (9 inches if pedestrians enter the crosswalk more than 100 feet away), mounted 7–10 feet above sidewalk level.</li>
+          <li>A countdown display is mandatory whenever the pedestrian change interval exceeds 7 seconds, using 6-inch (or 9-inch) Portland orange numbers on black, timed exactly with the flashing UPRAISED HAND.</li>
+          <li>Pedestrian push buttons must satisfy an 11-point placement checklist (reach range, distance to curb ramp/crosswalk, curb offset, height ~3.5–4 ft, 4-ft clear access route) and be separated by at least 10 feet when two are on one corner, unless site constraints apply.</li>
+          <li>Walk interval should generally be at least 7 seconds (4 seconds minimum if volumes allow); pedestrian clearance time is calculated at 3.5 ft/sec walking speed (slower speeds, down to 2.8 ft/sec, considered for older/disabled populations), with a buffer interval of at least 2 seconds before conflicting traffic is released.</li>
+          <li>Leading pedestrian intervals (at least 3 seconds) and median-mounted signals for two-stage crossings are permitted tools for high-conflict or wide-street locations.</li>
+        </ul>
+      </div>
+
+      <div class="chapter-progress">
+        <label><input type="checkbox" id="reviewed-checkbox" data-chapter-id="4i"> Mark Chapter 4I as reviewed</label>
+      </div>
+
+      <div class="pager"><a class="prev" href="h-bicycle-signals.html"><span class="dir">← Previous</span><span class="lbl">Ch. 4H — Bicycle Signals</span></a><a class="next" href="j-pedestrian-hybrid-beacons.html"><span class="dir">Next →</span><span class="lbl">Ch. 4J — Pedestrian Hybrid Beacons</span></a></div>
+    </div>
+  </main>
+</div>
+
+<footer class="site-footer"><div class="container">California MUTCD 2026 Edition — Interactive Training Reference. Not a substitute for the official California MUTCD; verify against the source document for legal/design purposes.</div></footer>
+
+<script src="../assets/js/search-index.js"></script>
+<script src="../assets/js/app.js"></script>
+</body>
+</html>

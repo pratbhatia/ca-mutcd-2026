@@ -1,0 +1,20 @@
+{
+  "part_num": 3,
+  "chapter_letter": "g",
+  "chapter_code": "3G",
+  "file": "g-delineators.html",
+  "title": "Delineators",
+  "short_title": "Delineators",
+  "description": "Design classes, colors, application criteria, and placement/spacing formulas for retroreflective delineators, plus California-specific details for emergency passageways, narrow bridges, runaway truck ramps, and median barriers.",
+  "sections": [
+    {"id": "sec-g-01", "code": "3G.01", "title": "General"},
+    {"id": "sec-g-02", "code": "3G.02", "title": "Design"},
+    {"id": "sec-g-03", "code": "3G.03", "title": "Application"},
+    {"id": "sec-g-04", "code": "3G.04", "title": "Placement and Spacing"},
+    {"id": "sec-g-101", "code": "3G.101(CA)", "title": "Emergency Passageway Marker"},
+    {"id": "sec-g-102", "code": "3G.102(CA)", "title": "Narrow Bridge Signing and Marking"},
+    {"id": "sec-g-103", "code": "3G.103(CA)", "title": "Median Barrier Delineation"}
+  ],
+  "figure_count": 7,
+  "source_pages": 12
+}

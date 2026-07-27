@@ -1,0 +1,15 @@
+{
+  "part_num": 3,
+  "chapter_letter": "k",
+  "chapter_code": "3K",
+  "file": "k-rumble-strip-markings.html",
+  "title": "Rumble Strip Markings",
+  "short_title": "Rumble Strip Markings",
+  "description": "Provisions for pavement markings used in combination with longitudinal and transverse rumble strips, including rumble stripe coloring and transverse rumble strip color requirements.",
+  "sections": [
+    {"id": "sec-k-01", "code": "3K.01", "title": "Longitudinal Rumble Strip Markings"},
+    {"id": "sec-k-02", "code": "3K.02", "title": "Transverse Rumble Strip Markings"}
+  ],
+  "figure_count": 1,
+  "source_pages": 2
+}

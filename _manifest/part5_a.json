@@ -1,0 +1,17 @@
+{
+  "part_num": 5,
+  "chapter_letter": "a",
+  "chapter_code": "5A",
+  "file": "a-general.html",
+  "title": "General",
+  "short_title": "General",
+  "description": "Introduces driving automation system technology, SAE J3016 automation levels, and the fundamental principles agencies should apply so traffic control devices remain effective for both human drivers and automated vehicles.",
+  "sections": [
+    {"id": "sec-5a-01", "code": "5A.01", "title": "Scope and Purpose"},
+    {"id": "sec-5a-02", "code": "5A.02", "title": "Overview of Automated Vehicles and Connected Vehicles"},
+    {"id": "sec-5a-03", "code": "5A.03", "title": "Definitions and Terms"},
+    {"id": "sec-5a-04", "code": "5A.04", "title": "Traffic Control Device Design and Use Considerations"}
+  ],
+  "figure_count": 0,
+  "source_pages": 4
+}

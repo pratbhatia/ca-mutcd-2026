@@ -1,0 +1,20 @@
+{
+  "part_num": 3,
+  "chapter_letter": "j",
+  "chapter_code": "3J",
+  "file": "j-marking-and-delineation-of-islands-and.html",
+  "title": "Marking and Delineation of Islands and Sidewalk Extensions",
+  "short_title": "Islands and Sidewalk Extensions",
+  "description": "Standards and guidance for marking traffic islands and median islands, including approach-end treatments, channelizing lines, curb markings, and delineation, plus criteria for designating sidewalk extensions with pavement markings.",
+  "sections": [
+    {"id": "sec-j-01", "code": "3J.01", "title": "General"},
+    {"id": "sec-j-02", "code": "3J.02", "title": "Approach-End Treatment"},
+    {"id": "sec-j-03", "code": "3J.03", "title": "Islands Designated by Pavement Markings"},
+    {"id": "sec-j-04", "code": "3J.04", "title": "Curb Markings for Raised Islands"},
+    {"id": "sec-j-05", "code": "3J.05", "title": "Pavement Markings for Raised Islands"},
+    {"id": "sec-j-06", "code": "3J.06", "title": "Island Delineation"},
+    {"id": "sec-j-07", "code": "3J.07", "title": "Sidewalk Extensions Designated by Pavement Markings"}
+  ],
+  "figure_count": 7,
+  "source_pages": 11
+}

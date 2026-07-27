@@ -1,0 +1,20 @@
+{
+  "part_num": 2,
+  "chapter_letter": "k",
+  "chapter_code": "2K",
+  "file": "k-tourist-oriented-directional-signs.html",
+  "title": "Tourist-Oriented Directional Signs",
+  "short_title": "Tourist-Oriented Directional Signs",
+  "description": "Post-mounted, generic directional sign assemblies on rural highways directing road users to tourist businesses, services, and activities not otherwise visible from the road.",
+  "sections": [
+    {"id": "sec-k-01", "code": "2K.01", "title": "Purpose and Application"},
+    {"id": "sec-k-02", "code": "2K.02", "title": "Design"},
+    {"id": "sec-k-03", "code": "2K.03", "title": "Style and Size of Lettering"},
+    {"id": "sec-k-04", "code": "2K.04", "title": "Arrangement and Size of Signs"},
+    {"id": "sec-k-05", "code": "2K.05", "title": "Advance Signs"},
+    {"id": "sec-k-06", "code": "2K.06", "title": "Sign Locations"},
+    {"id": "sec-k-07", "code": "2K.07", "title": "State Policy"}
+  ],
+  "figure_count": 3,
+  "source_pages": 8
+}

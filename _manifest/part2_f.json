@@ -1,0 +1,33 @@
+{
+  "part_num": 2,
+  "chapter_letter": "f",
+  "chapter_code": "2F",
+  "file": "f-toll-road-signs.html",
+  "title": "Toll Road Signs",
+  "short_title": "Toll Road Signs",
+  "description": "Regulatory, warning, and guide signs for toll highways, bridges, and tunnels, including ETC account-only messaging, purple-panel conventions, and toll plaza approach/canopy signing.",
+  "sections": [
+    {"id": "sec-2f-01", "code": "2F.01", "title": "Scope"},
+    {"id": "sec-2f-02", "code": "2F.02", "title": "Sizes of Toll Road Signs and Electronic Toll Collection (ETC) System Pictographs"},
+    {"id": "sec-2f-03", "code": "2F.03", "title": "Use of Color on Toll Signs"},
+    {"id": "sec-2f-04", "code": "2F.04", "title": "Regulatory Signs for Toll Plazas"},
+    {"id": "sec-2f-05", "code": "2F.05", "title": "Electronic Toll Collection (ETC) Account-Only Regulatory Sign and Plaque (R3-31 and R3-32P)"},
+    {"id": "sec-2f-06", "code": "2F.06", "title": "Pay Toll and Take Ticket Advance Warning Signs (W9-6 and W9-6e)"},
+    {"id": "sec-2f-07", "code": "2F.07", "title": "Pay Toll and Take Ticket Advance Warning Plaques (W9-6bP, W9-6dP, and W9-6gP)"},
+    {"id": "sec-2f-08", "code": "2F.08", "title": "Stop Ahead Pay Toll and Stop Ahead Take Ticket Warning Signs (W9-6a and W9-6f)"},
+    {"id": "sec-2f-09", "code": "2F.09", "title": "Stop Ahead Pay Toll and Stop Ahead Take Ticket Warning Plaques (W9-6cP and W9-6hP)"},
+    {"id": "sec-2f-10", "code": "2F.10", "title": "LAST EXIT BEFORE TOLL Warning Plaques (W16-16P and W16-16aP)"},
+    {"id": "sec-2f-11", "code": "2F.11", "title": "TOLL Warning Plaque (W16-17P)"},
+    {"id": "sec-2f-12", "code": "2F.12", "title": "Toll Facility and Toll Plaza Guide Signs — General"},
+    {"id": "sec-2f-13", "code": "2F.13", "title": "Electronic Toll Collection (ETC) Signs — General"},
+    {"id": "sec-2f-14", "code": "2F.14", "title": "Advance Signs for Conventional Toll Plazas"},
+    {"id": "sec-2f-15", "code": "2F.15", "title": "Advance Signs for Toll Plazas on Diverging Alignments from Open-Road ETC Account-Only Lanes"},
+    {"id": "sec-2f-16", "code": "2F.16", "title": "Toll Plaza Canopy Signs"},
+    {"id": "sec-2f-17", "code": "2F.17", "title": "Guide Signs for Entrances to Electronic Toll Collection (ETC) Only Facilities"},
+    {"id": "sec-2f-18", "code": "2F.18", "title": "Guide Signs for ETC-Only Entrance Ramps to Non-Toll Highways"},
+    {"id": "sec-2f-19", "code": "2F.19", "title": "ETC Account Program Information Signs"},
+    {"id": "sec-2f-101ca", "code": "2F.101(CA)", "title": "TOLL BRIDGE Advance Warning Sign (SW95(CA))"}
+  ],
+  "figure_count": 20,
+  "source_pages": 36
+}

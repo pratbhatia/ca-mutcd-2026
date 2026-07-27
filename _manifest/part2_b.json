@@ -1,0 +1,443 @@
+{
+  "part_num": 2,
+  "chapter_letter": "b",
+  "chapter_code": "2B",
+  "file": "b-regulatory-signs-barricades-and-gates.html",
+  "title": "Regulatory Signs, Barricades, and Gates",
+  "short_title": "Regulatory Signs",
+  "description": "STOP/YIELD and intersection right-of-way control, California speed-limit and E&TS speed-zoning rules, movement/lane control signs, DO NOT ENTER/WRONG WAY/ONE WAY signing, parking and standing/stopping signs, pedestrian and traffic-signal regulatory signs, weight limit and truck signs, barricades and gates, and the California-only R/SR-series signs.",
+  "sections": [
+    {
+      "id": "sec-2b-01",
+      "code": "2B.01",
+      "title": "Application of Regulatory Signs"
+    },
+    {
+      "id": "sec-2b-02",
+      "code": "2B.02",
+      "title": "Design of Regulatory Signs"
+    },
+    {
+      "id": "sec-2b-03",
+      "code": "2B.03",
+      "title": "Size of Regulatory Signs"
+    },
+    {
+      "id": "sec-2b-04",
+      "code": "2B.04",
+      "title": "STOP Sign (R1-1) and ALL-WAY Plaque (R1-3P)"
+    },
+    {
+      "id": "sec-2b-05",
+      "code": "2B.05",
+      "title": "YIELD Sign (R1-2)"
+    },
+    {
+      "id": "sec-2b-06",
+      "code": "2B.06",
+      "title": "General Considerations"
+    },
+    {
+      "id": "sec-2b-07",
+      "code": "2B.07",
+      "title": "Determining the Minor Road for Unsignalized Intersections"
+    },
+    {
+      "id": "sec-2b-08",
+      "code": "2B.08",
+      "title": "Right-of-Way Intersection Control Considerations"
+    },
+    {
+      "id": "sec-2b-09",
+      "code": "2B.09",
+      "title": "No Intersection Control"
+    },
+    {
+      "id": "sec-2b-10",
+      "code": "2B.10",
+      "title": "Yield Control"
+    },
+    {
+      "id": "sec-2b-11",
+      "code": "2B.11",
+      "title": "Minor Road Stop Control"
+    },
+    {
+      "id": "sec-2b-12",
+      "code": "2B.12",
+      "title": "All-Way Stop Control"
+    },
+    {
+      "id": "sec-2b-13",
+      "code": "2B.13",
+      "title": "All-Way Stop Control Warrant A: Crash Experience"
+    },
+    {
+      "id": "sec-2b-14",
+      "code": "2B.14",
+      "title": "All-Way Stop Control Warrant B: Sight Distance"
+    },
+    {
+      "id": "sec-2b-15",
+      "code": "2B.15",
+      "title": "All-Way Stop Control Warrant C: Transition to Signal Control or Transition to Yield Control at a Circular Intersection"
+    },
+    {
+      "id": "sec-2b-16",
+      "code": "2B.16",
+      "title": "All-Way Stop Control Warrant D: 8-Hour Volume (Vehicles, Pedestrians, Bicycles)"
+    },
+    {
+      "id": "sec-2b-17",
+      "code": "2B.17",
+      "title": "All-Way Stop Control Warrant E: Other Factors"
+    },
+    {
+      "id": "sec-2b-18",
+      "code": "2B.18",
+      "title": "STOP Sign or YIELD Sign Placement"
+    },
+    {
+      "id": "sec-2b-19",
+      "code": "2B.19",
+      "title": "Yield Here To Pedestrians Signs and Stop Here For Pedestrians Signs (R1-5 Series)"
+    },
+    {
+      "id": "sec-2b-20",
+      "code": "2B.20",
+      "title": "In-Street and Overhead Pedestrian and Trail Crossing Signs (R1-6 and R1-9 Series)"
+    },
+    {
+      "id": "sec-2b-21",
+      "code": "2B.21",
+      "title": "Speed Limit Sign (R2-1)"
+    },
+    {
+      "id": "sec-2b-22",
+      "code": "2B.22",
+      "title": "Vehicle Speed Limit Plaques (R2-2P Series)"
+    },
+    {
+      "id": "sec-2b-23",
+      "code": "2B.23",
+      "title": "Night Speed Limit Plaque (R2-3P)"
+    },
+    {
+      "id": "sec-2b-24",
+      "code": "2B.24",
+      "title": "Minimum Speed Limit Plaque (R2-4P) and Combined Maximum and Minimum Speed Limits Sign (R2-4a)"
+    },
+    {
+      "id": "sec-2b-25",
+      "code": "2B.25",
+      "title": "Higher Fines Signs and Plaque (R2-6P, R2-10, and R2-11)"
+    },
+    {
+      "id": "sec-2b-26",
+      "code": "2B.26",
+      "title": "Movement Prohibition Signs (R3-1 through R3-4, R3-18, and R3-27)"
+    },
+    {
+      "id": "sec-2b-27",
+      "code": "2B.27",
+      "title": "Intersection Lane Control Signs (R3-5 through R3-8)"
+    },
+    {
+      "id": "sec-2b-28",
+      "code": "2B.28",
+      "title": "Mandatory Movement Lane Control Signs (R3-5, R3-5a, R3-7, R3-19 Series, and R3-20) and Plaques"
+    },
+    {
+      "id": "sec-2b-29",
+      "code": "2B.29",
+      "title": "Optional Movement Lane Control Signs (R3-6 Series)"
+    },
+    {
+      "id": "sec-2b-30",
+      "code": "2B.30",
+      "title": "Advance Intersection Lane Control Signs (R3-8 Series)"
+    },
+    {
+      "id": "sec-2b-31",
+      "code": "2B.31",
+      "title": "RIGHT (LEFT) LANE MUST EXIT Signs (R3-33, R3-33a)"
+    },
+    {
+      "id": "sec-2b-32",
+      "code": "2B.32",
+      "title": "Two-Way Left-Turn-Only Signs (R3-9a and R3-9b) and Plaques"
+    },
+    {
+      "id": "sec-2b-33",
+      "code": "2B.33",
+      "title": "BEGIN and END Plaques (R3-9cP and R3-9dP)"
+    },
+    {
+      "id": "sec-2b-34",
+      "code": "2B.34",
+      "title": "Reversible Lane Control Signs (R3-9e through R3-9i)"
+    },
+    {
+      "id": "sec-2b-35",
+      "code": "2B.35",
+      "title": "Jughandle Signs (R3-23, R3-24, R3-25, and R3-26 Series)"
+    },
+    {
+      "id": "sec-2b-36",
+      "code": "2B.36",
+      "title": "DO NOT PASS Sign (R4-1)"
+    },
+    {
+      "id": "sec-2b-37",
+      "code": "2B.37",
+      "title": "PASS WITH CARE Sign (R4-2)"
+    },
+    {
+      "id": "sec-2b-38",
+      "code": "2B.38",
+      "title": "KEEP RIGHT EXCEPT TO PASS Sign (R4-16), SLOWER TRAFFIC KEEP RIGHT Sign (R4-3), and TRUCKS USE RIGHT LANE Sign (R4-5)"
+    },
+    {
+      "id": "sec-2b-39",
+      "code": "2B.39",
+      "title": "Keep Right and Keep Left Signs (R4-7 Series and R4-8 Series)"
+    },
+    {
+      "id": "sec-2b-40",
+      "code": "2B.40",
+      "title": "STAY IN LANE Sign (R4-9)"
+    },
+    {
+      "id": "sec-2b-41",
+      "code": "2B.41",
+      "title": "RUNAWAY VEHICLES ONLY Sign (R4-10)"
+    },
+    {
+      "id": "sec-2b-42",
+      "code": "2B.42",
+      "title": "Slow Vehicle Turn-Out Signs (R4-12, R4-13, and R4-14)"
+    },
+    {
+      "id": "sec-2b-43",
+      "code": "2B.43",
+      "title": "DO NOT DRIVE ON SHOULDER Sign (R4-17) and DO NOT PASS ON SHOULDER Sign (R4-18)"
+    },
+    {
+      "id": "sec-2b-44",
+      "code": "2B.44",
+      "title": "ALL TRAFFIC Sign (R4-20) and RIGHT (LEFT) TURN ONLY Sign (R4-21)"
+    },
+    {
+      "id": "sec-2b-45",
+      "code": "2B.45",
+      "title": "Selective Exclusion Signs and Plaques"
+    },
+    {
+      "id": "sec-2b-46",
+      "code": "2B.46",
+      "title": "DO NOT ENTER Sign (R5-1)"
+    },
+    {
+      "id": "sec-2b-47",
+      "code": "2B.47",
+      "title": "WRONG WAY Sign (R5-1a)"
+    },
+    {
+      "id": "sec-2b-48",
+      "code": "2B.48",
+      "title": "Wrong-Way Traffic Control at Interchange Ramps"
+    },
+    {
+      "id": "sec-2b-49",
+      "code": "2B.49",
+      "title": "ONE WAY Signs (R6-1 and R6-2)"
+    },
+    {
+      "id": "sec-2b-50",
+      "code": "2B.50",
+      "title": "Divided Highway Crossing Signs (R6-3 and R6-3a)"
+    },
+    {
+      "id": "sec-2b-51",
+      "code": "2B.51",
+      "title": "Roundabout Circulation Plaque (R6-5P)"
+    },
+    {
+      "id": "sec-2b-52",
+      "code": "2B.52",
+      "title": "Parking, Standing, and Stopping Signs (R7 and R8 Series)"
+    },
+    {
+      "id": "sec-2b-53",
+      "code": "2B.53",
+      "title": "Design of Parking, Standing, and Stopping Signs"
+    },
+    {
+      "id": "sec-2b-54",
+      "code": "2B.54",
+      "title": "Placement of Parking, Standing, and Stopping Signs"
+    },
+    {
+      "id": "sec-2b-55",
+      "code": "2B.55",
+      "title": "Emergency Restriction Signs (R8-4 and R8-7)"
+    },
+    {
+      "id": "sec-2b-56",
+      "code": "2B.56",
+      "title": "WALK ON LEFT FACING TRAFFIC and No Hitchhiking Signs (R9-1, R9-4, and R9-4a)"
+    },
+    {
+      "id": "sec-2b-57",
+      "code": "2B.57",
+      "title": "Pedestrian Crossing Signs (R9-2 and R9-3)"
+    },
+    {
+      "id": "sec-2b-58",
+      "code": "2B.58",
+      "title": "Traffic Signal Pedestrian and Bicyclist Actuation Signs (R10-1 through R10-4 and R10-24 series)"
+    },
+    {
+      "id": "sec-2b-59",
+      "code": "2B.59",
+      "title": "Traffic Signal Signs and Plaques (R10-5 through R10-30)"
+    },
+    {
+      "id": "sec-2b-60",
+      "code": "2B.60",
+      "title": "No Turn on Red Signs (R10-11 Series, R10-17a, and R10-30)"
+    },
+    {
+      "id": "sec-2b-61",
+      "code": "2B.61",
+      "title": "Ramp Metering Signs (R10-28 and R10-29)"
+    },
+    {
+      "id": "sec-2b-62",
+      "code": "2B.62",
+      "title": "KEEP OFF MEDIAN Sign (R11-1)"
+    },
+    {
+      "id": "sec-2b-63",
+      "code": "2B.63",
+      "title": "ROAD CLOSED Sign (R11-2) and LOCAL TRAFFIC ONLY Signs (R11-3 Series, R11-4)"
+    },
+    {
+      "id": "sec-2b-64",
+      "code": "2B.64",
+      "title": "Weight Limit Signs (R12-1 through R12-7)"
+    },
+    {
+      "id": "sec-2b-65",
+      "code": "2B.65",
+      "title": "Weigh Station Sign (R13-1)"
+    },
+    {
+      "id": "sec-2b-66",
+      "code": "2B.66",
+      "title": "TRUCK ROUTE Sign (R14-1)"
+    },
+    {
+      "id": "sec-2b-67",
+      "code": "2B.67",
+      "title": "Hazardous Material Signs (R14-2 and R14-3)"
+    },
+    {
+      "id": "sec-2b-68",
+      "code": "2B.68",
+      "title": "National Network Signs (R14-4 and R14-5)"
+    },
+    {
+      "id": "sec-2b-69",
+      "code": "2B.69",
+      "title": "Photo Enforced Signs and Plaques (R10-18, R10-18a, R10-19P, R10-19aP)"
+    },
+    {
+      "id": "sec-2b-70",
+      "code": "2B.70",
+      "title": "Move Vehicles from Travel Lanes Sign (R16-4)"
+    },
+    {
+      "id": "sec-2b-71",
+      "code": "2B.71",
+      "title": "Move Over or Reduce Speed Sign (R16-3)"
+    },
+    {
+      "id": "sec-2b-72",
+      "code": "2B.72",
+      "title": "No Hand-Held Phone Use by Driver Signs (R16-15 and R16-15a)"
+    },
+    {
+      "id": "sec-2b-73",
+      "code": "2B.73",
+      "title": "Headlight Use Signs (R16-5 through R16-11)"
+    },
+    {
+      "id": "sec-2b-74",
+      "code": "2B.74",
+      "title": "Seat Belt Symbol"
+    },
+    {
+      "id": "sec-2b-75",
+      "code": "2B.75",
+      "title": "Barricades"
+    },
+    {
+      "id": "sec-2b-76",
+      "code": "2B.76",
+      "title": "Gates"
+    },
+    {
+      "id": "sec-2b-101ca",
+      "code": "2B.101(CA)",
+      "title": "NO FISHING (JUMPING) FROM BRIDGE Sign (R23(CA))"
+    },
+    {
+      "id": "sec-2b-102ca",
+      "code": "2B.102(CA)",
+      "title": "$1000 Fine Signs (R47(CA) and R47A(CA))"
+    },
+    {
+      "id": "sec-2b-103ca",
+      "code": "2B.103(CA)",
+      "title": "PRIVATE ROAD (PRIVATE PROPERTY) VEHICLE CODE ENFORCED Sign (R101(CA))"
+    },
+    {
+      "id": "sec-2b-104ca",
+      "code": "2B.104(CA)",
+      "title": "GOLF CARTS OK DAYLIGHT HOURS Sign (SR43(CA))"
+    },
+    {
+      "id": "sec-2b-105ca",
+      "code": "2B.105(CA)",
+      "title": "Bus and Truck Registration Sign (SR44(CA))"
+    },
+    {
+      "id": "sec-2b-106ca",
+      "code": "2B.106(CA)",
+      "title": "EMERGENCY ACCESS KEEP CLEAR Sign (SR46(CA))"
+    },
+    {
+      "id": "sec-2b-107ca",
+      "code": "2B.107(CA)",
+      "title": "Off Highway Vehicle Signs (SR47(CA) and SR48(CA))"
+    },
+    {
+      "id": "sec-2b-108ca",
+      "code": "2B.108(CA)",
+      "title": "NO CAMPING OR SLEEPING IN VEHICLE Sign (R119(CA))"
+    },
+    {
+      "id": "sec-2b-109ca",
+      "code": "2B.109(CA)",
+      "title": "BEGIN/END FREEWAY Sign (R57(CA) and R58(CA))"
+    },
+    {
+      "id": "sec-2b-110ca",
+      "code": "2B.110(CA)",
+      "title": "No Loitering, Camping, Vending or Parking of Vehicles 30 Feet or Longer Sign (S22(CA))"
+    }
+  ],
+  "figure_count": 53,
+  "source_pages": 153
+}

@@ -1,0 +1,33 @@
+{
+  "part_num": 4,
+  "chapter_letter": "f",
+  "chapter_code": "4F",
+  "file": "f-steady.html",
+  "title": "Steady (Stop-and-Go) Operation of Traffic Control Signals",
+  "short_title": "Steady Operation",
+  "description": "The complete signal-indication sequencing rulebook for left-turn, right-turn, and through movements in steady mode, plus yellow change/red clearance timing and preemption/priority control.",
+  "sections": [
+    {"id": "sec-f-01", "code": "4F.01", "title": "Application of Steady and Flashing Signal Indications during Steady (Stop-and-Go) Operation"},
+    {"id": "sec-f-02", "code": "4F.02", "title": "Signal Indications for Left-Turn Movements — General"},
+    {"id": "sec-f-03", "code": "4F.03", "title": "Signal Indications for Permissive Only Mode Left-Turn Movements in a Shared Signal Face"},
+    {"id": "sec-f-04", "code": "4F.04", "title": "Signal Indications for Permissive Only Mode Left-Turn Movements in a Separate Signal Face"},
+    {"id": "sec-f-05", "code": "4F.05", "title": "Signal Indications for Protected Only Mode Left-Turn Movements in a Shared Signal Face"},
+    {"id": "sec-f-06", "code": "4F.06", "title": "Signal Indications for Protected Only Mode Left-Turn Movements in a Separate Signal Face"},
+    {"id": "sec-f-07", "code": "4F.07", "title": "Signal Indications for Protected/Permissive Mode Left-Turn Movements in a Shared Signal Face"},
+    {"id": "sec-f-08", "code": "4F.08", "title": "Signal Indications for Protected/Permissive Mode Left-Turn Movements in a Separate Signal Face"},
+    {"id": "sec-f-09", "code": "4F.09", "title": "Signal Indications for Right-Turn Movements — General"},
+    {"id": "sec-f-10", "code": "4F.10", "title": "Signal Indications for Permissive Only Mode Right-Turn Movements in a Shared Signal Face"},
+    {"id": "sec-f-11", "code": "4F.11", "title": "Signal Indications for Permissive Only Mode Right-Turn Movements in a Separate Signal Face"},
+    {"id": "sec-f-12", "code": "4F.12", "title": "Signal Indications for Protected Only Mode Right-Turn Movements in a Shared Signal Face"},
+    {"id": "sec-f-13", "code": "4F.13", "title": "Signal Indications for Protected Only Mode Right-Turn Movements in a Separate Signal Face"},
+    {"id": "sec-f-14", "code": "4F.14", "title": "Signal Indications for Protected/Permissive Mode Right-Turn Movements in a Shared Signal Face"},
+    {"id": "sec-f-15", "code": "4F.15", "title": "Signal Indications for Protected/Permissive Mode Right-Turn Movements in a Separate Signal Face"},
+    {"id": "sec-f-16", "code": "4F.16", "title": "Signal Indications for Approaches with No Through Movement"},
+    {"id": "sec-f-17", "code": "4F.17", "title": "Yellow Change and Red Clearance Intervals"},
+    {"id": "sec-f-18", "code": "4F.18", "title": "Preemption and Priority Control of Traffic Control Signals — General"},
+    {"id": "sec-f-19", "code": "4F.19", "title": "Preemption Control of Traffic Control Signals"},
+    {"id": "sec-f-20", "code": "4F.20", "title": "Priority Control of Traffic Control Signals"}
+  ],
+  "figure_count": 17,
+  "source_pages": 41
+}

@@ -1,0 +1,21 @@
+{
+  "part_num": 3,
+  "chapter_letter": "h",
+  "chapter_code": "3H",
+  "file": "h-colored-pavement.html",
+  "title": "Colored Pavement",
+  "short_title": "Colored Pavement",
+  "description": "Rules distinguishing aesthetic surface treatments from colored pavement used as a traffic control device, and the color-specific applications for yellow, white, green, red, and purple colored pavement.",
+  "sections": [
+    {"id": "sec-h-01", "code": "3H.01", "title": "Standardization of Application"},
+    {"id": "sec-h-02", "code": "3H.02", "title": "Materials"},
+    {"id": "sec-h-03", "code": "3H.03", "title": "Aesthetic Surface Treatments"},
+    {"id": "sec-h-04", "code": "3H.04", "title": "Yellow-Colored Pavement"},
+    {"id": "sec-h-05", "code": "3H.05", "title": "White-Colored Pavement"},
+    {"id": "sec-h-06", "code": "3H.06", "title": "Green-Colored Pavement for Bicycle Facilities"},
+    {"id": "sec-h-07", "code": "3H.07", "title": "Red-Colored Pavement for Public Transit Systems"},
+    {"id": "sec-h-08", "code": "3H.08", "title": "Purple-Colored Pavement for Electronic Toll Collection (ETC) Account-Only Preferential Lanes"}
+  ],
+  "figure_count": 7,
+  "source_pages": 12
+}

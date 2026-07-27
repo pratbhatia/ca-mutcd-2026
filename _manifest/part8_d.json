@@ -1,0 +1,28 @@
+{
+  "part_num": 8,
+  "chapter_letter": "d",
+  "chapter_code": "8D",
+  "file": "d-flashing-light-signals-automatic-gates.html",
+  "title": "Flashing-Light Signals, Automatic Gates, and Traffic Control Signals",
+  "short_title": "Flashing-Light Signals & Gates",
+  "description": "Active traffic control devices at grade crossings: flashing-light signals, automatic gates, Exit Gate/Four-Quadrant Gate systems, wayside horns, rail traffic detection, traffic signal preemption, pre-signals and queue cutter signals, warning beacons, and LRT signal indications.",
+  "sections": [
+    {"id": "sec-8d-01", "code": "8D.01", "title": "Introduction"},
+    {"id": "sec-8d-02", "code": "8D.02", "title": "Flashing-Light Signals"},
+    {"id": "sec-8d-03", "code": "8D.03", "title": "Automatic Gates"},
+    {"id": "sec-8d-04", "code": "8D.04", "title": "Use of Active Traffic Control Systems at LRT Grade Crossings"},
+    {"id": "sec-8d-05", "code": "8D.05", "title": "Exit Gate and Four-Quadrant Gate Systems"},
+    {"id": "sec-8d-06", "code": "8D.06", "title": "Wayside Horn Systems"},
+    {"id": "sec-8d-07", "code": "8D.07", "title": "Rail Traffic Detection"},
+    {"id": "sec-8d-08", "code": "8D.08", "title": "Use of Traffic Control Signals at Grade Crossings"},
+    {"id": "sec-8d-09", "code": "8D.09", "title": "Preemption of Highway Traffic Signals at or Near Grade Crossings"},
+    {"id": "sec-8d-10", "code": "8D.10", "title": "Movements Prohibited During Preemption"},
+    {"id": "sec-8d-11", "code": "8D.11", "title": "Pre-Signals at or Near Grade Crossings"},
+    {"id": "sec-8d-12", "code": "8D.12", "title": "Queue Cutter Signals at or Near Grade Crossings"},
+    {"id": "sec-8d-13", "code": "8D.13", "title": "Warning Beacons or LED-Enhanced Warning Signs at Grade Crossings"},
+    {"id": "sec-8d-14", "code": "8D.14", "title": "Traffic Control Signals at or Near Highway-LRT Grade Crossings"},
+    {"id": "sec-8d-15", "code": "8D.15", "title": "Use of LRT Signals for Control of LRT Vehicles at Highway-LRT Grade Crossings"}
+  ],
+  "figure_count": 4,
+  "source_pages": 23
+}

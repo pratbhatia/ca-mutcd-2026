@@ -1,0 +1,16 @@
+{
+  "part_num": 4,
+  "chapter_letter": "n",
+  "chapter_code": "4N",
+  "file": "n-hybrid-beacons-for-emergency-vehicle-access.html",
+  "title": "Hybrid Beacons for Emergency-Vehicle Access",
+  "short_title": "Emergency-Vehicle Hybrid Beacons",
+  "description": "Application, design, and dark/flash/steady operating sequence for the hybrid-beacon alternative to a full emergency-vehicle traffic control signal at unsignalized locations.",
+  "sections": [
+    {"id": "sec-n-01", "code": "4N.01", "title": "Application of Emergency-Vehicle Hybrid Beacons"},
+    {"id": "sec-n-02", "code": "4N.02", "title": "Design of Emergency-Vehicle Hybrid Beacons"},
+    {"id": "sec-n-03", "code": "4N.03", "title": "Operation of Emergency-Vehicle Hybrid Beacons"}
+  ],
+  "figure_count": 1,
+  "source_pages": 3
+}

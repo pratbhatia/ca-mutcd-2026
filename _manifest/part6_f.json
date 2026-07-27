@@ -1,0 +1,16 @@
+{
+  "part_num": 6,
+  "chapter_letter": "f",
+  "chapter_code": "6F",
+  "file": "f-temporary-traffic-control-zone-signs.html",
+  "title": "Temporary Traffic Control Zone Signs — General",
+  "short_title": "TTC Zone Signs — General",
+  "description": "General TTC sign requirements: color, retroreflectivity, sizing tables, mounting height/placement, non-post mounting methods, and maintenance.",
+  "sections": [
+    {"id": "sec-6f-01", "code": "6F.01", "title": "General Characteristics of TTC Zone Signs"},
+    {"id": "sec-6f-02", "code": "6F.02", "title": "Sign Placement"},
+    {"id": "sec-6f-03", "code": "6F.03", "title": "Sign Maintenance"}
+  ],
+  "figure_count": 2,
+  "source_pages": 4
+}

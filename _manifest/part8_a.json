@@ -1,0 +1,27 @@
+{
+  "part_num": 8,
+  "chapter_letter": "a",
+  "chapter_code": "8A",
+  "file": "a-general.html",
+  "title": "General",
+  "short_title": "General",
+  "description": "Scope of Part 8, the Diagnostic Team process, uniform provisions, track clearance/storage distances, and engineering-study requirements common to all grade crossing chapters.",
+  "sections": [
+    {"id": "sec-8a-01", "code": "8A.01", "title": "Introduction"},
+    {"id": "sec-8a-02", "code": "8A.02", "title": "Highway-LRT Grade Crossings"},
+    {"id": "sec-8a-03", "code": "8A.03", "title": "Traffic Control Systems and Practices at Grade Crossings"},
+    {"id": "sec-8a-04", "code": "8A.04", "title": "Traffic Control Systems at Highway-LRT Grade Crossings"},
+    {"id": "sec-8a-05", "code": "8A.05", "title": "Engineering Studies at Grade Crossings"},
+    {"id": "sec-8a-06", "code": "8A.06", "title": "Uniform Provisions"},
+    {"id": "sec-8a-07", "code": "8A.07", "title": "Minimum Track Clearance Distance and Clear Storage Distance"},
+    {"id": "sec-8a-08", "code": "8A.08", "title": "Adjacent Grade Crossings"},
+    {"id": "sec-8a-09", "code": "8A.09", "title": "Grade Crossing Elimination"},
+    {"id": "sec-8a-10", "code": "8A.10", "title": "Illumination at Grade Crossings"},
+    {"id": "sec-8a-11", "code": "8A.11", "title": "Quiet Zone Treatments at Highway-Rail Grade Crossings"},
+    {"id": "sec-8a-12", "code": "8A.12", "title": "Grade Crossings Within or In Close Proximity to Circular Intersections"},
+    {"id": "sec-8a-13", "code": "8A.13", "title": "Temporary Traffic Control Zones"},
+    {"id": "sec-8a-101ca", "code": "8A.101(CA)", "title": "Relation to Other Documents"}
+  ],
+  "figure_count": 0,
+  "source_pages": 8
+}

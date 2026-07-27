@@ -1,0 +1,17 @@
+{
+  "part_num": 6,
+  "chapter_letter": "j",
+  "chapter_code": "6J",
+  "file": "j-ttc-zone-pavement-markings.html",
+  "title": "TTC Zone Pavement Markings",
+  "short_title": "Pavement Markings",
+  "description": "Placement, maintenance, obliteration, and temporary substitution of pavement markings, raised pavement markers, and delineators in TTC zones.",
+  "sections": [
+    {"id": "sec-j-01", "code": "6J.01", "title": "Pavement Markings in TTC Zones"},
+    {"id": "sec-j-02", "code": "6J.02", "title": "Temporary Markings"},
+    {"id": "sec-j-03", "code": "6J.03", "title": "Temporary Raised Pavement Markers"},
+    {"id": "sec-j-04", "code": "6J.04", "title": "Delineators"}
+  ],
+  "figure_count": 0,
+  "source_pages": 3
+}

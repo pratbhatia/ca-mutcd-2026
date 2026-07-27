@@ -1,0 +1,25 @@
+{
+  "part_num": 3,
+  "chapter_letter": "c",
+  "chapter_code": "3C",
+  "file": "c-crosswalk-markings.html",
+  "title": "Crosswalk Markings",
+  "short_title": "Crosswalk Markings",
+  "description": "Design and application requirements for transverse-line and high-visibility (longitudinal bar, ladder, bar pair) crosswalk markings, uncontrolled-crossing screening criteria, and treatments at roundabouts, diverging diamond interchanges, and refuge islands.",
+  "sections": [
+    {"id": "sec-c-01", "code": "3C.01", "title": "General"},
+    {"id": "sec-c-02", "code": "3C.02", "title": "Application of Crosswalk Markings"},
+    {"id": "sec-c-03", "code": "3C.03", "title": "Design of Crosswalk Markings"},
+    {"id": "sec-c-04", "code": "3C.04", "title": "Transverse Line Crosswalks"},
+    {"id": "sec-c-05", "code": "3C.05", "title": "High-Visibility Crosswalks"},
+    {"id": "sec-c-06", "code": "3C.06", "title": "Longitudinal Bar Crosswalks"},
+    {"id": "sec-c-07", "code": "3C.07", "title": "Ladder Crosswalks"},
+    {"id": "sec-c-08", "code": "3C.08", "title": "Bar Pair Crosswalks"},
+    {"id": "sec-c-09", "code": "3C.09", "title": "Crosswalk Markings at Circular Intersections"},
+    {"id": "sec-c-10", "code": "3C.10", "title": "Crosswalks for Exclusive Pedestrian Phases that Permit Diagonal Crossings"},
+    {"id": "sec-c-11", "code": "3C.11", "title": "Crosswalks at Diamond Interchanges with a Transposed Alignment Crossroad"},
+    {"id": "sec-c-12", "code": "3C.12", "title": "Pedestrian Islands and Medians"}
+  ],
+  "figure_count": 3,
+  "source_pages": 9
+}

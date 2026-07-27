@@ -1,0 +1,28 @@
+{
+  "part_num": 9,
+  "chapter_letter": "d",
+  "chapter_code": "9D",
+  "file": "d-guide-and-service-signs.html",
+  "title": "Guide and Service Signs",
+  "short_title": "Guide & Service Signs",
+  "description": "Bicycle destination, distance, and route guide signs; numbered and named bikeway systems; mode-specific and destination guide signs for shared-use paths; two-stage bicycle turn box guide signs; and General Service signing for bikeways.",
+  "sections": [
+    {"id": "sec-9d-01", "code": "9D.01", "title": "Bicycle Destination Signs (D1-1b, D1-1c, D1-2b, D1-2c, D1-3b, D1-3c, D2-1a, D2-2a, and D2-3a, D3-1 and D3-1a)"},
+    {"id": "sec-9d-02", "code": "9D.02", "title": "Bike Route Guide Signs (D11-1 and D11-1c)"},
+    {"id": "sec-9d-03", "code": "9D.03", "title": "BIKE ROUTE Plaque (D11-1bP)"},
+    {"id": "sec-9d-04", "code": "9D.04", "title": "Numbered Bikeway Systems"},
+    {"id": "sec-9d-05", "code": "9D.05", "title": "Numbered Bicycle Route Signs (M1-8 and M1-8a)"},
+    {"id": "sec-9d-06", "code": "9D.06", "title": "Non-Numbered Bicycle Route Signs (M1-8b and M1-8c)"},
+    {"id": "sec-9d-07", "code": "9D.07", "title": "U.S. Bicycle Route Sign (M1-9)"},
+    {"id": "sec-9d-08", "code": "9D.08", "title": "Bicycle Route Sign and Auxiliary Plaques"},
+    {"id": "sec-9d-09", "code": "9D.09", "title": "Bicycle Parking Area, Sharing Station, and Lockers Guide Signs (D4-3, D4-4, and D4-4a)"},
+    {"id": "sec-9d-10", "code": "9D.10", "title": "Reference Location Signs (D10-1 through D10-3) and Intermediate Reference Location Signs (D10-1a through D10-3a)"},
+    {"id": "sec-9d-11", "code": "9D.11", "title": "Mode-Specific Directional Guide Signs for Shared-Use Paths (D11-11, D11-12, D11-13, and D11-14)"},
+    {"id": "sec-9d-12", "code": "9D.12", "title": "Destination Guide Signs for Shared-Use Paths (D11-10a, D11-10b, D11-10c, D11-10d, D11-10e, and D11-10f)"},
+    {"id": "sec-9d-13", "code": "9D.13", "title": "Two-Stage Bicycle Turn Box Guide Signs (D11-20 Series)"},
+    {"id": "sec-9d-14", "code": "9D.14", "title": "General Service Signing for Bikeways"},
+    {"id": "sec-9d-101", "code": "9D.101(CA)", "title": "Signs on Overcrossing Structures"}
+  ],
+  "figure_count": 11,
+  "source_pages": 22
+}

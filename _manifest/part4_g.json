@@ -1,0 +1,17 @@
+{
+  "part_num": 4,
+  "chapter_letter": "g",
+  "chapter_code": "4G",
+  "file": "g-flashing-operation-of-traffic-control-signals.html",
+  "title": "Flashing Operation of Traffic Control Signals",
+  "short_title": "Flashing Operation",
+  "description": "Flash-rate requirements and the required sequencing for transitioning traffic control signals into and out of flashing mode.",
+  "sections": [
+    {"id": "sec-g-01", "code": "4G.01", "title": "Flashing Operation of Traffic Control Signals — General"},
+    {"id": "sec-g-02", "code": "4G.02", "title": "Flashing Operation — Transition Into Flashing Mode"},
+    {"id": "sec-g-03", "code": "4G.03", "title": "Flashing Operation — Signal Indications During Flashing Mode"},
+    {"id": "sec-g-04", "code": "4G.04", "title": "Flashing Operation — Transition Out of Flashing Mode"}
+  ],
+  "figure_count": 0,
+  "source_pages": 3
+}

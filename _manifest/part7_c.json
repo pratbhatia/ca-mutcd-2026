@@ -1,0 +1,15 @@
+{
+  "part_num": 7,
+  "chapter_letter": "c",
+  "chapter_code": "7C",
+  "file": "c-markings.html",
+  "title": "Markings",
+  "short_title": "Markings",
+  "description": "Crosswalk line markings (including California's yellow school crosswalk rules) and SCHOOL/SLOW/XING pavement word markings for school areas.",
+  "sections": [
+    {"id": "sec-c-01", "code": "7C.01", "title": "Crosswalk Markings"},
+    {"id": "sec-c-02", "code": "7C.02", "title": "Pavement Word, Symbol, and Arrow Markings"}
+  ],
+  "figure_count": 2,
+  "source_pages": 4
+}

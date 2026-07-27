@@ -1,0 +1,19 @@
+{
+  "part_num": 1,
+  "chapter_letter": "a",
+  "chapter_code": "1A",
+  "file": "a-general.html",
+  "title": "General",
+  "short_title": "General",
+  "description": "Establishes the purpose, legal basis, and scope of the California MUTCD, and explains the CA-vs-National markup conventions used throughout the manual.",
+  "sections": [
+    {"id": "sec-1a-01", "code": "1A.01", "title": "Purpose of the MUTCD"},
+    {"id": "sec-1a-02", "code": "1A.02", "title": "Traffic Control Devices — General Description"},
+    {"id": "sec-1a-03", "code": "1A.03", "title": "Target Road Users"},
+    {"id": "sec-1a-04", "code": "1A.04", "title": "Use of the MUTCD"},
+    {"id": "sec-1a-05", "code": "1A.05", "title": "Relation to Other Publications"},
+    {"id": "sec-1a-06", "code": "1A.06", "title": "Uniform Vehicle Code — Rules of the Road"}
+  ],
+  "figure_count": 7,
+  "source_pages": 12
+}

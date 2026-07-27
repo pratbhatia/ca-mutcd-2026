@@ -1,0 +1,17 @@
+{
+  "part_num": 9,
+  "chapter_letter": "a",
+  "chapter_code": "9A",
+  "file": "a-general.html",
+  "title": "General",
+  "short_title": "General",
+  "description": "Scope of Part 9, the standardization principle for bicycle signing and marking, minimum bicycle sign/plaque sizes, and sign placement clearances on shared-use paths.",
+  "sections": [
+    {"id": "sec-9a-01", "code": "9A.01", "title": "General"},
+    {"id": "sec-9a-02", "code": "9A.02", "title": "Standardization of Application for Signing"},
+    {"id": "sec-9a-03", "code": "9A.03", "title": "Standardization of Application for Markings"},
+    {"id": "sec-9a-101", "code": "9A.101(CA)", "title": "Traffic Controls for Bicycle Facilities at Rail Crossings"}
+  ],
+  "figure_count": 1,
+  "source_pages": 8
+}

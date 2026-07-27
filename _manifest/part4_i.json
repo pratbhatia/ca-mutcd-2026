@@ -1,0 +1,19 @@
+{
+  "part_num": 4,
+  "chapter_letter": "i",
+  "chapter_code": "4I",
+  "file": "i-pedestrian-control-features.html",
+  "title": "Pedestrian Control Features",
+  "short_title": "Pedestrian Control Features",
+  "description": "Design, mounting, timing, and detection requirements for pedestrian signal heads, countdown displays, and pedestrian push buttons at signalized crossings.",
+  "sections": [
+    {"id": "sec-i-01", "code": "4I.01", "title": "Pedestrian Signal Heads"},
+    {"id": "sec-i-02", "code": "4I.02", "title": "Size, Design, and Illumination of Pedestrian Signal Head Indications"},
+    {"id": "sec-i-03", "code": "4I.03", "title": "Location and Height of Pedestrian Signal Heads"},
+    {"id": "sec-i-04", "code": "4I.04", "title": "Countdown Pedestrian Signals"},
+    {"id": "sec-i-05", "code": "4I.05", "title": "Pedestrian Detectors"},
+    {"id": "sec-i-06", "code": "4I.06", "title": "Pedestrian Intervals and Signal Phases"}
+  ],
+  "figure_count": 4,
+  "source_pages": 10
+}

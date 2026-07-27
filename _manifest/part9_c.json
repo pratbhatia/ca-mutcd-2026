@@ -1,0 +1,22 @@
+{
+  "part_num": 9,
+  "chapter_letter": "c",
+  "chapter_code": "9C",
+  "file": "c-warning-signs-and-object-markers.html",
+  "title": "Warning Signs and Object Markers",
+  "short_title": "Warning Signs & Object Markers",
+  "description": "W-series warning signs and plaques for turns, curves, intersections, surface conditions, and bicycle crossings, plus Type 3 object markers used on bikeways and shared-use paths.",
+  "sections": [
+    {"id": "sec-9c-01", "code": "9C.01", "title": "Turn or Curve Warning Signs (W1 Series)"},
+    {"id": "sec-9c-02", "code": "9C.02", "title": "Intersection Warning Signs (W2 Series)"},
+    {"id": "sec-9c-03", "code": "9C.03", "title": "Bicycle Surface Condition Warning Sign (W8-10)"},
+    {"id": "sec-9c-04", "code": "9C.04", "title": "Bicycle Warning and Trail Crossing Signs (W11-1 and W11-15)"},
+    {"id": "sec-9c-05", "code": "9C.05", "title": "EXCEPT BICYCLES Warning Plaque (W16-20P)"},
+    {"id": "sec-9c-06", "code": "9C.06", "title": "Two-Way Bicycle Cross Traffic Warning Plaque (W16-21P)"},
+    {"id": "sec-9c-07", "code": "9C.07", "title": "Bicycle Lane Ends Warning Sign (W9-5) and Bicycles Merging Sign (W9-5a)"},
+    {"id": "sec-9c-08", "code": "9C.08", "title": "Other Bicycle Warning Signs"},
+    {"id": "sec-9c-09", "code": "9C.09", "title": "Object Markers"}
+  ],
+  "figure_count": 2,
+  "source_pages": 5
+}

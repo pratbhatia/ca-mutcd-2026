@@ -1,0 +1,18 @@
+{
+  "part_num": 6,
+  "chapter_letter": "a",
+  "chapter_code": "6A",
+  "file": "a-general.html",
+  "title": "General",
+  "short_title": "General",
+  "description": "Foundational TTC policy: the seven fundamental principles, the definition and crashworthiness of TTC devices, plan-approval authority, and night-work considerations.",
+  "sections": [
+    {"id": "sec-6a-01", "code": "6A.01", "title": "General"},
+    {"id": "sec-6a-02", "code": "6A.02", "title": "Fundamental Principles of Temporary Traffic Control"},
+    {"id": "sec-6a-03", "code": "6A.03", "title": "TTC Devices"},
+    {"id": "sec-6a-04", "code": "6A.04", "title": "Crashworthiness of TTC Devices"},
+    {"id": "sec-6a-05", "code": "6A.05", "title": "Night Work"}
+  ],
+  "figure_count": 0,
+  "source_pages": 5
+}

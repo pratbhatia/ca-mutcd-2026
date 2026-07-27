@@ -1,0 +1,16 @@
+{
+  "part_num": 4,
+  "chapter_letter": "p",
+  "chapter_code": "4P",
+  "file": "p-traffic-control-signals-for-freeway-entrance.html",
+  "title": "Traffic Control Signals for Freeway Entrance Ramps",
+  "short_title": "Freeway Ramp Meters",
+  "description": "Ramp metering signal design and operation — signal face counts and mounting for single- and multi-lane metered entrance ramps, plus supporting signage for the metering program.",
+  "sections": [
+    {"id": "sec-p-01", "code": "4P.01", "title": "Application of Freeway Entrance Ramp Control Signals"},
+    {"id": "sec-p-02", "code": "4P.02", "title": "Design of Freeway Entrance Ramp Control Signals"},
+    {"id": "sec-p-03", "code": "4P.03", "title": "Operation of Freeway Entrance Ramp Control Signals"}
+  ],
+  "figure_count": 0,
+  "source_pages": 2
+}

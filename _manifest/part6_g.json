@@ -1,0 +1,28 @@
+{
+  "part_num": 6,
+  "chapter_letter": "g",
+  "chapter_code": "6G",
+  "file": "g-ttc-zone-regulatory-signs.html",
+  "title": "TTC Zone Regulatory Signs",
+  "short_title": "TTC Regulatory Signs",
+  "description": "Regulatory sign series for TTC zones — road closures, weight limits, lane control, work-zone speed/fines signage, sidewalk closures, and California ramp-closure and moving-lane-closure signs — with full size tables.",
+  "sections": [
+    {"id": "sec-6g-01", "code": "6G.01", "title": "Regulatory Sign Authority"},
+    {"id": "sec-6g-02", "code": "6G.02", "title": "Regulatory Sign Design and Size"},
+    {"id": "sec-6g-03", "code": "6G.03", "title": "Regulatory Sign Applications"},
+    {"id": "sec-6g-04", "code": "6G.04", "title": "Road Closed Signs (R11-2 Series)"},
+    {"id": "sec-6g-05", "code": "6G.05", "title": "Local Traffic Only Signs (R11-3 Series and R11-4)"},
+    {"id": "sec-6g-06", "code": "6G.06", "title": "Weight Limit Signs (R12-1, R12-2, and R12-5)"},
+    {"id": "sec-6g-07", "code": "6G.07", "title": "STAY IN LANE Signs (R4-9 and R4-9a)"},
+    {"id": "sec-6g-08", "code": "6G.08", "title": "Work Zone and Higher Fines Signs and Plaques"},
+    {"id": "sec-6g-09", "code": "6G.09", "title": "PEDESTRIAN CROSSWALK Sign (R9-8)"},
+    {"id": "sec-6g-10", "code": "6G.10", "title": "SIDEWALK CLOSED Signs (R9-9, R9-10, R9-11, and R9-11a)"},
+    {"id": "sec-6g-11", "code": "6G.11", "title": "TURN OFF 2-WAY RADIO AND CELL PHONE Sign (R22-2)"},
+    {"id": "sec-6g-12", "code": "6G.12", "title": "Other Regulatory Signs"},
+    {"id": "sec-6g-101", "code": "6G.101(CA)", "title": "RAMP CLOSED (C2(CA)) and RAMP CLOSED, USE RAMP AT __ (SC7(CA)) Signs"},
+    {"id": "sec-6g-102", "code": "6G.102(CA)", "title": "MOVE OVER OR SLOW WHEN AMBER LIGHTS FLASHING Sign (R111(CA))"},
+    {"id": "sec-6g-103", "code": "6G.103(CA)", "title": "Moving Lane Closure Signs (W23-1 and SC10(CA), SC11(CA), SC13(CA), SC15(CA))"}
+  ],
+  "figure_count": 3,
+  "source_pages": 10
+}

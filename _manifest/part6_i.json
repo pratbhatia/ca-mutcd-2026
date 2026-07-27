@@ -1,0 +1,18 @@
+{
+  "part_num": 6,
+  "chapter_letter": "i",
+  "chapter_code": "6I",
+  "file": "i-ttc-zone-guide-signs.html",
+  "title": "TTC Zone Guide Signs",
+  "short_title": "Guide Signs",
+  "description": "Guide signs for TTC zones, including detour/route signing and California's construction-funding identification sign series.",
+  "sections": [
+    {"id": "sec-i-01", "code": "6I.01", "title": "Guide Signs — General"},
+    {"id": "sec-i-02", "code": "6I.02", "title": "Detour Signs and Plaques (M4-8P, M4-8a, M4-8bP, M4-9, M4-9a, M4-9b, M4-9c, and M4-10)"},
+    {"id": "sec-i-03", "code": "6I.03", "title": "EXIT CLOSED Panel"},
+    {"id": "sec-i-101", "code": "6I.101(CA)", "title": "Construction Project Funding Identification Signs"},
+    {"id": "sec-i-tables", "code": "Table 6I-1", "title": "TTC Zone Guide Sign and Plaque Sizes"}
+  ],
+  "figure_count": 3,
+  "source_pages": 7
+}

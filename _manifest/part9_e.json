@@ -1,0 +1,30 @@
+{
+  "part_num": 9,
+  "chapter_letter": "e",
+  "chapter_code": "9E",
+  "file": "e-markings.html",
+  "title": "Markings",
+  "short_title": "Markings",
+  "description": "Pavement marking treatments for all four bikeway classes — bicycle lane lines and symbols, buffer-separated and physically separated bicycle lanes, intersection extensions and mixing zones, shared-lane markings, two-stage turn boxes, bicycle boxes, shared-use path markings, and green-colored pavement.",
+  "sections": [
+    {"id": "sec-e-01", "code": "9E.01", "title": "Bicycle Lanes (Class II Bikeways (Bike Lane or Buffer-Separated Bicycle Lane))"},
+    {"id": "sec-e-02", "code": "9E.02", "title": "Bicycle Lanes at Intersection Approaches (Class II Bikeways)"},
+    {"id": "sec-e-03", "code": "9E.03", "title": "Extensions of Bicycle Lanes through Intersections (Class II Bikeways)"},
+    {"id": "sec-e-04", "code": "9E.04", "title": "Bicycle Lanes at Driveways (Class II Bikeways)"},
+    {"id": "sec-e-05", "code": "9E.05", "title": "Bicycle Lanes at Circular Intersections (Class II Bikeways)"},
+    {"id": "sec-e-06", "code": "9E.06", "title": "Buffer-Separated Bicycle Lanes (Class II Bikeway)"},
+    {"id": "sec-e-07", "code": "9E.07", "title": "Separated Bicycle Lanes (Class IV Bikeway (Cycle Track or Separated Bikeways))"},
+    {"id": "sec-e-08", "code": "9E.08", "title": "Counter-Flow Bicycle Lanes (Class II Bikeway or Class IV Bikeway)"},
+    {"id": "sec-e-09", "code": "9E.09", "title": "Shared-Lane Marking"},
+    {"id": "sec-e-10", "code": "9E.10", "title": "Shared-Lane Markings for Circular Intersections"},
+    {"id": "sec-e-11", "code": "9E.11", "title": "Two-Stage Bicycle Turn Boxes"},
+    {"id": "sec-e-12", "code": "9E.12", "title": "Bicycle Box"},
+    {"id": "sec-e-13", "code": "9E.13", "title": "Shared-Use Paths (Class I Bikeway (Bike Path))"},
+    {"id": "sec-e-14", "code": "9E.14", "title": "Bicycle Route Pavement Markings (Class III Bikeway (Bike Route))"},
+    {"id": "sec-e-15", "code": "9E.15", "title": "Bicycle Detector Symbol"},
+    {"id": "sec-e-16", "code": "9E.16", "title": "Pavement Markings for Obstructions"},
+    {"id": "sec-e-17", "code": "9E.17", "title": "Raised Devices (Class IV Bikeway (Cycle Track, Separated Bikeway or Separated Bicycle Lane))"}
+  ],
+  "figure_count": 36,
+  "source_pages": 60
+}

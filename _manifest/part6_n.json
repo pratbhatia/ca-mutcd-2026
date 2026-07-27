@@ -1,0 +1,32 @@
+{
+  "part_num": 6,
+  "chapter_letter": "n",
+  "chapter_code": "6N",
+  "file": "n-types-of-temporary-traffic-control-zone.html",
+  "title": "Types of Temporary Traffic Control Zone Activities",
+  "short_title": "TTC Zone Activity Types",
+  "description": "Work-duration categories, work-location framework, and location-specific TTC guidance spanning shoulders, medians, two-lane and multi-lane highways, intersections, freeways, crossovers, interchanges, grade crossings, night work, and the Late Merge strategy.",
+  "sections": [
+    {"id": "sec-n-01", "code": "6N.01", "title": "Work Duration"},
+    {"id": "sec-n-02", "code": "6N.02", "title": "Location of Work"},
+    {"id": "sec-n-03", "code": "6N.03", "title": "Modifications To Fulfill Special Needs"},
+    {"id": "sec-n-04", "code": "6N.04", "title": "Work Affecting Pedestrian and Bicycle Facilities"},
+    {"id": "sec-n-05", "code": "6N.05", "title": "Work Outside of the Shoulder"},
+    {"id": "sec-n-06", "code": "6N.06", "title": "Work on the Shoulder with No Encroachment"},
+    {"id": "sec-n-07", "code": "6N.07", "title": "Work on the Shoulder with Minor Encroachment"},
+    {"id": "sec-n-08", "code": "6N.08", "title": "Work Within the Median"},
+    {"id": "sec-n-09", "code": "6N.09", "title": "Work Within the Traveled Way of a Two-Lane Highway"},
+    {"id": "sec-n-10", "code": "6N.10", "title": "Work Within the Traveled Way of an Urban Street"},
+    {"id": "sec-n-11", "code": "6N.11", "title": "Work Within the Traveled Way of a Multi-Lane, Non-Access Controlled Highway"},
+    {"id": "sec-n-12", "code": "6N.12", "title": "Work Within the Traveled Way at an Intersection"},
+    {"id": "sec-n-13", "code": "6N.13", "title": "Work Within the Traveled Way of a Freeway or Expressway"},
+    {"id": "sec-n-14", "code": "6N.14", "title": "Two-Lane, Two-Way Traffic on One Roadway of a Normally Divided Highway"},
+    {"id": "sec-n-15", "code": "6N.15", "title": "Crossovers"},
+    {"id": "sec-n-16", "code": "6N.16", "title": "Interchanges"},
+    {"id": "sec-n-17", "code": "6N.17", "title": "Work in the Vicinity of a Grade Crossing"},
+    {"id": "sec-n-18", "code": "6N.18", "title": "Work During Nighttime Hours"},
+    {"id": "sec-n-19", "code": "6N.19", "title": "Late Merge"}
+  ],
+  "figure_count": 1,
+  "source_pages": 14
+}

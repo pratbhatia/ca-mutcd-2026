@@ -1,0 +1,19 @@
+{
+  "part_num": 5,
+  "chapter_letter": "b",
+  "chapter_code": "5B",
+  "file": "b-provisions-for-traffic-control-devices.html",
+  "title": "Provisions for Traffic Control Devices",
+  "short_title": "Provisions for TCDs",
+  "description": "Device-category guidance for signs, markings, highway traffic signals, temporary traffic control, highway-rail/light rail grade crossings, and bicycle facilities that better accommodate driving automation systems.",
+  "sections": [
+    {"id": "sec-5b-01", "code": "5B.01", "title": "Signs"},
+    {"id": "sec-5b-02", "code": "5B.02", "title": "Markings"},
+    {"id": "sec-5b-03", "code": "5B.03", "title": "Highway Traffic Signals"},
+    {"id": "sec-5b-04", "code": "5B.04", "title": "Temporary Traffic Control"},
+    {"id": "sec-5b-05", "code": "5B.05", "title": "Traffic Control for Highway-Rail and Highway-Light Rail Transit Grade Crossings"},
+    {"id": "sec-5b-06", "code": "5B.06", "title": "Traffic Control for Bicycle Facilities"}
+  ],
+  "figure_count": 0,
+  "source_pages": 3
+}

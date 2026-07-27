@@ -1,0 +1,15 @@
+{
+  "part_num": 7,
+  "chapter_letter": "a",
+  "chapter_code": "7A",
+  "file": "a-general.html",
+  "title": "General",
+  "short_title": "General",
+  "description": "Introduces Part 7's scope and establishes the school route plan and school traffic control plan framework used throughout the school-area chapters.",
+  "sections": [
+    {"id": "sec-a-01", "code": "7A.01", "title": "Introduction"},
+    {"id": "sec-a-02", "code": "7A.02", "title": "School Route Plans and School Crossings"}
+  ],
+  "figure_count": 1,
+  "source_pages": 3
+}

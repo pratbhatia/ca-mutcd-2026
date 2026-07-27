@@ -1,0 +1,22 @@
+{
+  "part_num": 2,
+  "chapter_letter": "l",
+  "chapter_code": "2L",
+  "file": "l-changeable-message-signs.html",
+  "title": "Changeable Message Signs",
+  "short_title": "Changeable Message Signs",
+  "description": "Design and application rules for permanent and portable electronic-display signs — allowable message types, legibility limits, message construction, travel time and safety campaign messaging, and Caltrans' AMBER Alert policy.",
+  "sections": [
+    {"id": "sec-l-01", "code": "2L.01", "title": "Description of Changeable Message Signs"},
+    {"id": "sec-l-02", "code": "2L.02", "title": "Applications of Changeable Message Signs"},
+    {"id": "sec-l-03", "code": "2L.03", "title": "Legibility and Visibility of Changeable Message Signs"},
+    {"id": "sec-l-04", "code": "2L.04", "title": "Design Characteristics of Messages"},
+    {"id": "sec-l-05", "code": "2L.05", "title": "Message Length and Units of Information"},
+    {"id": "sec-l-06", "code": "2L.06", "title": "Travel Time Messages"},
+    {"id": "sec-l-07", "code": "2L.07", "title": "Traffic Safety Campaign Messages"},
+    {"id": "sec-l-08", "code": "2L.08", "title": "Permanently-Located (Fixed) Changeable Message Signs"},
+    {"id": "sec-l-101", "code": "2L.101(CA)", "title": "Extinguishable Message Signs"}
+  ],
+  "figure_count": 1,
+  "source_pages": 13
+}

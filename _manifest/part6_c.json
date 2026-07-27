@@ -1,0 +1,19 @@
+{
+  "part_num": 6,
+  "chapter_letter": "c",
+  "chapter_code": "6C",
+  "file": "c-pedestrian-and-worker-safety.html",
+  "title": "Pedestrian and Worker Safety",
+  "short_title": "Pedestrian & Worker Safety",
+  "description": "Requirements for accessible pedestrian pathways, worker-safety planning, high-visibility apparel, and California-specific bicyclist considerations in TTC zones.",
+  "sections": [
+    {"id": "sec-6c-01", "code": "6C.01", "title": "Pedestrian and Worker Safety — General"},
+    {"id": "sec-6c-02", "code": "6C.02", "title": "Pedestrian Considerations"},
+    {"id": "sec-6c-03", "code": "6C.03", "title": "Accessibility Considerations"},
+    {"id": "sec-6c-04", "code": "6C.04", "title": "Worker Safety Considerations"},
+    {"id": "sec-6c-05", "code": "6C.05", "title": "High-Visibility Safety Apparel"},
+    {"id": "sec-6c-101", "code": "6C.101(CA)", "title": "Bicycle Considerations"}
+  ],
+  "figure_count": 0,
+  "source_pages": 6
+}

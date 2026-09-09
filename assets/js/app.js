@@ -183,4 +183,18 @@
       closeSearch();
     }
   });
+
+  /* ---------- Back to top ---------- */
+  var backToTop = document.createElement("button");
+  backToTop.className = "back-to-top";
+  backToTop.type = "button";
+  backToTop.setAttribute("aria-label", "Back to top");
+  backToTop.textContent = "↑";
+  document.body.appendChild(backToTop);
+  backToTop.addEventListener("click", function(){
+    window.scrollTo({top:0, behavior:"smooth"});
+  });
+  window.addEventListener("scroll", function(){
+    backToTop.classList.toggle("show", window.scrollY > 700);
+  }, {passive:true});
 })();

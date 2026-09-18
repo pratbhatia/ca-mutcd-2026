@@ -197,4 +197,41 @@
   window.addEventListener("scroll", function(){
     backToTop.classList.toggle("show", window.scrollY > 700);
   }, {passive:true});
+
+  /* ---------- California text additions ----------
+     Per CA MUTCD Section 1A.04, California additions are set in Arial
+     Narrow, in blue, with a vertical bar in the margin. California-inserted
+     paragraphs carry a letter suffix on the National paragraph number
+     (e.g. 03a, 03b), which is what identifies them here. */
+  var caCount = 0;
+  document.querySelectorAll(".para-list > li").forEach(function(li){
+    var pnum = li.querySelector(".pnum");
+    if(pnum && /^\d+[a-z]/i.test(pnum.textContent.trim())){
+      li.classList.add("ca-add");
+      li.setAttribute("title", "California addition (CA MUTCD)");
+      caCount++;
+    }
+  });
+
+  /* ---------- Type-convention legend ---------- */
+  var content = document.querySelector(".content");
+  if(content && content.querySelector(".callout")){
+    var legend = document.createElement("div");
+    legend.className = "type-legend";
+    var html = '<b>How to read this page:</b>' +
+      '<span class="lg standard"><span class="sw"></span><span class="sample">Standard</span> — bold</span>' +
+      '<span class="lg guidance"><span class="sw"></span><span class="sample">Guidance</span> — italic</span>' +
+      '<span class="lg option"><span class="sw"></span><span class="sample">Option</span> — regular</span>' +
+      '<span class="lg support"><span class="sw"></span><span class="sample">Support</span> — regular</span>';
+    if(caCount){
+      html += '<span class="lg ca"><span class="sw"></span><span class="sample">California additions</span> — Arial Narrow, blue</span>';
+    }
+    legend.innerHTML = html;
+    var anchor = content.querySelector(".page-subtitle") || content.querySelector(".page-title");
+    if(anchor && anchor.parentNode){
+      anchor.parentNode.insertBefore(legend, anchor.nextSibling);
+    } else {
+      content.insertBefore(legend, content.firstChild);
+    }
+  }
 })();
